@@ -1,0 +1,22 @@
+{
+  "dt": 0.008333333333333333,
+  "unimpeded10s": {
+    "speed": 22.583798882679705,
+    "distance": 219.8684176494838,
+    "score": 657
+  },
+  "jump": {
+    "landingSeconds": 0.8916666666666659,
+    "apex": 3.8167242560409433
+  },
+  "lane": {
+    "seconds": 0.27,
+    "midpointX": 1.9444444444444444,
+    "endX": 3.888888888888889
+  },
+  "power": {
+    "magnetStart": 12,
+    "after1200Ticks": 2
+  },
+  "tolerance": 1e-05
+}

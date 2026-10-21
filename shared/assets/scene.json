@@ -1,0 +1,562 @@
+{
+  "schemaVersion": 2,
+  "author": "Original rounded geometry study reconstructed from observed reference proportions; no extracted target art",
+  "coordinates": "metres Y-up; forward -Z; parentless parts, named joint roles drive each renderer pose",
+  "palette": {
+    "sky": "#72c6fb",
+    "fog": "#aedcf1",
+    "ground": "#ac4c24",
+    "track": "#a84724",
+    "rail": "#777e83",
+    "train": "#7f8672",
+    "trainAccent": "#e1c94d",
+    "runner": "#42869d",
+    "pants": "#77acc5",
+    "coin": "#ffd02e",
+    "skin": "#d89a6c",
+    "cream": "#f5edcc",
+    "white": "#fffbea",
+    "hair": "#5b3829",
+    "cap": "#ed2925",
+    "yellow": "#ffe02e",
+    "shoeGreen": "#76b934",
+    "shoeSole": "#f4f2db",
+    "vestEdge": "#2c657f",
+    "denimDark": "#4b839f",
+    "black": "#39434a",
+    "pink": "#ed80b0",
+    "grass": "#92b900",
+    "rock": "#88735e",
+    "wood": "#583323"
+  },
+  "character": [
+    {
+      "name": "hoodie",
+      "position": [
+        0,
+        1.18,
+        0
+      ],
+      "size": [
+        0.68,
+        0.64,
+        0.43
+      ],
+      "color": "cream",
+      "shape": "capsule"
+    },
+    {
+      "name": "torso",
+      "position": [
+        0,
+        1.17,
+        0.02
+      ],
+      "size": [
+        0.67,
+        0.57,
+        0.46
+      ],
+      "color": "runner",
+      "shape": "capsule"
+    },
+    {
+      "name": "shirt",
+      "position": [
+        0,
+        1.15,
+        -0.233
+      ],
+      "size": [
+        0.24,
+        0.55,
+        0.025
+      ],
+      "color": "cream",
+      "shape": "box"
+    },
+    {
+      "name": "vestTrim-1",
+      "position": [
+        -0.15,
+        1.15,
+        -0.253
+      ],
+      "size": [
+        0.035,
+        0.55,
+        0.025
+      ],
+      "color": "vestEdge",
+      "shape": "box"
+    },
+    {
+      "name": "vestTrim1",
+      "position": [
+        0.15,
+        1.15,
+        -0.253
+      ],
+      "size": [
+        0.035,
+        0.55,
+        0.025
+      ],
+      "color": "vestEdge",
+      "shape": "box"
+    },
+    {
+      "name": "hood",
+      "position": [
+        0,
+        1.57,
+        0.045
+      ],
+      "size": [
+        0.58,
+        0.53,
+        0.48
+      ],
+      "color": "cream",
+      "shape": "ellipsoid"
+    },
+    {
+      "name": "head",
+      "position": [
+        0,
+        1.73,
+        -0.065
+      ],
+      "size": [
+        0.43,
+        0.47,
+        0.41
+      ],
+      "color": "skin",
+      "shape": "ellipsoid"
+    },
+    {
+      "name": "hair",
+      "position": [
+        0,
+        1.91,
+        0.052
+      ],
+      "size": [
+        0.43,
+        0.15,
+        0.34
+      ],
+      "color": "hair",
+      "shape": "ellipsoid"
+    },
+    {
+      "name": "cap",
+      "position": [
+        0,
+        1.967,
+        -0.055
+      ],
+      "size": [
+        0.51,
+        0.27,
+        0.46
+      ],
+      "color": "cap",
+      "shape": "ellipsoid"
+    },
+    {
+      "name": "capPanel",
+      "position": [
+        0,
+        1.958,
+        -0.24
+      ],
+      "size": [
+        0.24,
+        0.17,
+        0.055
+      ],
+      "color": "white",
+      "shape": "ellipsoid"
+    },
+    {
+      "name": "brim",
+      "position": [
+        0,
+        1.875,
+        -0.32
+      ],
+      "size": [
+        0.55,
+        0.07,
+        0.34
+      ],
+      "color": "cap",
+      "shape": "ellipsoid"
+    },
+    {
+      "name": "neck",
+      "position": [
+        0,
+        1.495,
+        -0.04
+      ],
+      "size": [
+        0.21,
+        0.17,
+        0.21
+      ],
+      "color": "skin",
+      "shape": "capsule"
+    },
+    {
+      "name": "pack",
+      "position": [
+        0,
+        1.23,
+        0.269
+      ],
+      "size": [
+        0.41,
+        0.28,
+        0.025
+      ],
+      "color": "vestEdge",
+      "shape": "box"
+    },
+    {
+      "name": "patchGold",
+      "position": [
+        0,
+        1.25,
+        0.286
+      ],
+      "size": [
+        0.31,
+        0.16,
+        0.012
+      ],
+      "color": "yellow",
+      "shape": "box"
+    },
+    {
+      "name": "patchBlue",
+      "position": [
+        0.005,
+        1.24,
+        0.296
+      ],
+      "size": [
+        0.22,
+        0.08,
+        0.012
+      ],
+      "color": "runner",
+      "shape": "box"
+    },
+    {
+      "name": "patchWhite",
+      "position": [
+        -0.09,
+        1.26,
+        0.306
+      ],
+      "size": [
+        0.12,
+        0.035,
+        0.012
+      ],
+      "color": "white",
+      "shape": "box"
+    },
+    {
+      "name": "leftArm",
+      "position": [
+        -0.408,
+        1.205,
+        0
+      ],
+      "size": [
+        0.235,
+        0.39,
+        0.255
+      ],
+      "color": "cream",
+      "shape": "capsule",
+      "joint": "arm"
+    },
+    {
+      "name": "leftForearm",
+      "position": [
+        -0.43,
+        0.96,
+        -0.005
+      ],
+      "size": [
+        0.205,
+        0.32,
+        0.22
+      ],
+      "color": "cream",
+      "shape": "capsule",
+      "joint": "arm"
+    },
+    {
+      "name": "leftHand",
+      "position": [
+        -0.43,
+        0.765,
+        -0.005
+      ],
+      "size": [
+        0.19,
+        0.225,
+        0.19
+      ],
+      "color": "skin",
+      "shape": "ellipsoid",
+      "joint": "arm"
+    },
+    {
+      "name": "leftLeg",
+      "position": [
+        -0.165,
+        0.66,
+        0
+      ],
+      "size": [
+        0.27,
+        0.47,
+        0.285
+      ],
+      "color": "pants",
+      "shape": "capsule",
+      "joint": "leg"
+    },
+    {
+      "name": "leftShin",
+      "position": [
+        -0.165,
+        0.35,
+        0.015
+      ],
+      "size": [
+        0.235,
+        0.36,
+        0.25
+      ],
+      "color": "pants",
+      "shape": "capsule",
+      "joint": "leg"
+    },
+    {
+      "name": "leftKnee",
+      "position": [
+        -0.165,
+        0.47,
+        -0.08
+      ],
+      "size": [
+        0.22,
+        0.16,
+        0.13
+      ],
+      "color": "denimDark",
+      "shape": "ellipsoid",
+      "joint": "leg"
+    },
+    {
+      "name": "leftShoe",
+      "position": [
+        -0.165,
+        0.13,
+        -0.09
+      ],
+      "size": [
+        0.31,
+        0.23,
+        0.49
+      ],
+      "color": "shoeGreen",
+      "shape": "capsule",
+      "joint": "leg"
+    },
+    {
+      "name": "leftSole",
+      "position": [
+        -0.165,
+        0.055,
+        -0.115
+      ],
+      "size": [
+        0.33,
+        0.085,
+        0.52
+      ],
+      "color": "shoeSole",
+      "shape": "capsule",
+      "joint": "leg"
+    },
+    {
+      "name": "leftLaces",
+      "position": [
+        -0.165,
+        0.23,
+        -0.185
+      ],
+      "size": [
+        0.2,
+        0.03,
+        0.14
+      ],
+      "color": "white",
+      "shape": "box",
+      "joint": "leg"
+    },
+    {
+      "name": "rightArm",
+      "position": [
+        0.408,
+        1.205,
+        0
+      ],
+      "size": [
+        0.235,
+        0.39,
+        0.255
+      ],
+      "color": "cream",
+      "shape": "capsule",
+      "joint": "arm"
+    },
+    {
+      "name": "rightForearm",
+      "position": [
+        0.43,
+        0.96,
+        -0.005
+      ],
+      "size": [
+        0.205,
+        0.32,
+        0.22
+      ],
+      "color": "cream",
+      "shape": "capsule",
+      "joint": "arm"
+    },
+    {
+      "name": "rightHand",
+      "position": [
+        0.43,
+        0.765,
+        -0.005
+      ],
+      "size": [
+        0.19,
+        0.225,
+        0.19
+      ],
+      "color": "skin",
+      "shape": "ellipsoid",
+      "joint": "arm"
+    },
+    {
+      "name": "rightLeg",
+      "position": [
+        0.165,
+        0.66,
+        0
+      ],
+      "size": [
+        0.27,
+        0.47,
+        0.285
+      ],
+      "color": "pants",
+      "shape": "capsule",
+      "joint": "leg"
+    },
+    {
+      "name": "rightShin",
+      "position": [
+        0.165,
+        0.35,
+        0.015
+      ],
+      "size": [
+        0.235,
+        0.36,
+        0.25
+      ],
+      "color": "pants",
+      "shape": "capsule",
+      "joint": "leg"
+    },
+    {
+      "name": "rightKnee",
+      "position": [
+        0.165,
+        0.47,
+        -0.08
+      ],
+      "size": [
+        0.22,
+        0.16,
+        0.13
+      ],
+      "color": "denimDark",
+      "shape": "ellipsoid",
+      "joint": "leg"
+    },
+    {
+      "name": "rightShoe",
+      "position": [
+        0.165,
+        0.13,
+        -0.09
+      ],
+      "size": [
+        0.31,
+        0.23,
+        0.49
+      ],
+      "color": "shoeGreen",
+      "shape": "capsule",
+      "joint": "leg"
+    },
+    {
+      "name": "rightSole",
+      "position": [
+        0.165,
+        0.055,
+        -0.115
+      ],
+      "size": [
+        0.33,
+        0.085,
+        0.52
+      ],
+      "color": "shoeSole",
+      "shape": "capsule",
+      "joint": "leg"
+    },
+    {
+      "name": "rightLaces",
+      "position": [
+        0.165,
+        0.23,
+        -0.185
+      ],
+      "size": [
+        0.2,
+        0.03,
+        0.14
+      ],
+      "color": "white",
+      "shape": "box",
+      "joint": "leg"
+    }
+  ]
+}

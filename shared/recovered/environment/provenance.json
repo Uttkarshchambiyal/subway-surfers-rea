@@ -1,0 +1,2831 @@
+{
+  "format": "subway-addressables-dependency-recovery-1",
+  "sourceApk": "reference/subway-surfers-3.61.0.apk",
+  "apkSha256": "92d60fb9a998bf4dd2d6b77e86bb9b4ba05e38498205e101dcabeda4e839d7fe",
+  "catalogMember": "assets/aa/catalog.json",
+  "catalogSha256": "94182a936144ea16e2bbef2bf73b53e9b520db9eebe7e08ad6ba1e998b8d32e7",
+  "seeds": [
+    {
+      "key": "challengeimages-builtin_assets_logo_subway_surfers_ebd81ca54d8e26ae14539ee48eabc7af.bundle",
+      "entries": [
+        1593
+      ]
+    },
+    {
+      "key": "common-builtin_assets_ui_common_textures_e42b1807d8ac098ee2b7743c0d94c06a.bundle",
+      "entries": [
+        1980
+      ]
+    },
+    {
+      "key": "gamemodes-builtin_assets_core_game_config_core_camera_0f9a9f4525999815891e11b415e263c5.bundle",
+      "entries": [
+        2172
+      ]
+    },
+    {
+      "key": "gamemodes-builtin_assets_core_game_config_core_character_d2f4c8a5aa870313b7a6a11de9525507.bundle",
+      "entries": [
+        2173
+      ]
+    },
+    {
+      "key": "gamemodes-builtin_assets_core_route_config_blocks_fe7a992b4510313e63bca30f474dac62.bundle",
+      "entries": [
+        2180
+      ]
+    },
+    {
+      "key": "gamemodes-builtin_assets_core_route_config_chunks_0244cf0df470d4c2f5a982605d6994e7.bundle",
+      "entries": [
+        2181
+      ]
+    },
+    {
+      "key": "gamemodes-builtin_assets_core_route_config_sections_3ebafaaef9c137836d8eeca2fd15a206.bundle",
+      "entries": [
+        2182
+      ]
+    },
+    {
+      "key": "scenes-builtin_scenes_mainrunner_4a8323cf0112f55d2a3e964eb7135c17.bundle",
+      "entries": [
+        2524
+      ]
+    },
+    {
+      "key": "scenes-builtin_scenes_sharedscene_7c8d72509a411ca9880b55a4adfc75cb.bundle",
+      "entries": [
+        2526
+      ]
+    },
+    {
+      "key": "slices-builtin_assets_slice_mainmenu_2.0_b3880b9c6ef33059a283038fdb1ef9be.bundle",
+      "entries": [
+        2671
+      ]
+    },
+    {
+      "key": "slices-builtin_assets_slice_mainmenu_23c279dd151df8e5e9c958bb102ce46c.bundle",
+      "entries": [
+        2672
+      ]
+    },
+    {
+      "key": "slices-builtin_assets_slice_mainmenu_city_6259be90e67458f02a02249c1d4375af.bundle",
+      "entries": [
+        2673
+      ]
+    },
+    {
+      "key": "slices-builtin_assets_slice_mainmenu_ftue_b5ff3e90a011bbdcdd14115370dc6a79.bundle",
+      "entries": [
+        2674
+      ]
+    },
+    {
+      "key": "slices-builtin_assets_slice_pause_67f564bbc0600a05e2ac9d1b4b9daa7d.bundle",
+      "entries": [
+        2683
+      ]
+    },
+    {
+      "key": "slices-builtin_assets_slice_pause_confirm_gauntlet_b6dba16fd76b63673f1aad07f2a50b96.bundle",
+      "entries": [
+        2684
+      ]
+    },
+    {
+      "key": "slices-builtin_assets_slice_pause_gauntlet_6101b073463db76e8d86e0201f3d3e38.bundle",
+      "entries": [
+        2685
+      ]
+    },
+    {
+      "key": "slices-builtin_assets_slice_pause_seasonpass_5c0b79c8760eceb64f483ddfa5efee73.bundle",
+      "entries": [
+        2686
+      ]
+    },
+    {
+      "key": "slices-builtin_assets_slice_run_a49d88e7645b683e30e2095adbdc1d00.bundle",
+      "entries": [
+        2797
+      ]
+    },
+    {
+      "key": "slices-builtin_assets_slice_run_hints_46aefa74a3e26d452b5e4e84bb47eeb1.bundle",
+      "entries": [
+        2798
+      ]
+    },
+    {
+      "key": "sprites-builtin_assets_ui_spriteatlas_default_8e86d3d08f3f430e9ff67bd95c6c7609.bundle",
+      "entries": [
+        2924
+      ]
+    },
+    {
+      "key": "sprites-builtin_assets_ui_spriteatlas_fc_booster_78d28333515b359d683941825cde6a51.bundle",
+      "entries": [
+        2925
+      ]
+    },
+    {
+      "key": "sprites-builtin_assets_ui_spriteatlas_fc_coins_077b54d7dcdb4b735037564eac293bda.bundle",
+      "entries": [
+        2926
+      ]
+    },
+    {
+      "key": "sprites-builtin_assets_ui_spriteatlas_fc_cp_7e84e38edd8a2e649d8012788ec528c5.bundle",
+      "entries": [
+        2927
+      ]
+    },
+    {
+      "key": "sprites-builtin_assets_ui_spriteatlas_fc_ec_blue_f6ea045d5cb80c41507533c66b57ad5f.bundle",
+      "entries": [
+        2928
+      ]
+    },
+    {
+      "key": "sprites-builtin_assets_ui_spriteatlas_fc_ec_purple_4f5391b78c9c39077897e7be7096f291.bundle",
+      "entries": [
+        2929
+      ]
+    },
+    {
+      "key": "sprites-builtin_assets_ui_spriteatlas_fc_ec_red_2675743076995301780194d7c0da348e.bundle",
+      "entries": [
+        2930
+      ]
+    },
+    {
+      "key": "sprites-builtin_assets_ui_spriteatlas_fc_ec_silver_4c06d624944b7a86f8d8bafead3a2c01.bundle",
+      "entries": [
+        2931
+      ]
+    },
+    {
+      "key": "sprites-builtin_assets_ui_spriteatlas_fc_headstart_28fdc15e0b40a0ca2b3a2a162df801ef.bundle",
+      "entries": [
+        2932
+      ]
+    },
+    {
+      "key": "sprites-builtin_assets_ui_spriteatlas_fc_hoverboard_15a54fa9dc6ba5cbf3b551b96fafeb87.bundle",
+      "entries": [
+        2933
+      ]
+    },
+    {
+      "key": "sprites-builtin_assets_ui_spriteatlas_fc_keys_418d522a9363d91ee05f8f53ea2e31b7.bundle",
+      "entries": [
+        2934
+      ]
+    },
+    {
+      "key": "sprites-builtin_assets_ui_spriteatlas_fc_season_points_a4959290f0af19827adb1ff50eefcb0d.bundle",
+      "entries": [
+        2935
+      ]
+    },
+    {
+      "key": "sprites-builtin_assets_ui_spriteatlas_photo_mode_a33290b80dde92ffc4b9cfbbdf0b4c09.bundle",
+      "entries": [
+        2936
+      ]
+    },
+    {
+      "key": "viewconfigs-builtin_assets_ui_run_view_14fb5bc36f2ec118286d7293abbf2d64.bundle",
+      "entries": [
+        3109
+      ]
+    },
+    {
+      "key": "viewconfigs-builtin_assets_ui_run_view_challenge_difficulty_891ddb065f5baab225c3b5ab3ddfec2d.bundle",
+      "entries": [
+        3110
+      ]
+    },
+    {
+      "key": "viewconfigs-builtin_assets_ui_run_view_chase_target_7b582f748176b9b12d12d6fb0b573c24.bundle",
+      "entries": [
+        3111
+      ]
+    },
+    {
+      "key": "viewconfigs-builtin_assets_ui_run_view_city_tour_7c1647a13c57eb2e50b01307a2d673c9.bundle",
+      "entries": [
+        3112
+      ]
+    },
+    {
+      "key": "viewconfigs-builtin_assets_ui_run_view_gauntlet_020cf809d259396c740ea7b58cee8a84.bundle",
+      "entries": [
+        3113
+      ]
+    },
+    {
+      "key": "viewconfigs-builtin_assets_ui_run_view_hints_3296da24f956858ef71df82b10c64167.bundle",
+      "entries": [
+        3114
+      ]
+    },
+    {
+      "key": "viewconfigs-builtin_assets_ui_run_view_mystery_hurdle_f6363f4f9f06e13b6c59458a656a131c.bundle",
+      "entries": [
+        3115
+      ]
+    },
+    {
+      "key": "viewconfigs-builtin_assets_ui_run_view_race_76af253409d5017e5fedbb861e60e185.bundle",
+      "entries": [
+        3116
+      ]
+    },
+    {
+      "key": "viewconfigs-builtin_assets_ui_run_view_time_limited_chase_target_5dce215d496696d224b976c6e4e0e33a.bundle",
+      "entries": [
+        3117
+      ]
+    },
+    {
+      "key": "viewconfigs-builtin_assets_ui_run_view_time_limited_fe31864056fe1c7983ef3c02f3165feb.bundle",
+      "entries": [
+        3118
+      ]
+    },
+    {
+      "key": "slice_mainmenu_ftue",
+      "entries": [
+        3370
+      ]
+    },
+    {
+      "key": "core_route_config_sections/Easy/Section_S-S-S-S.asset",
+      "entries": [
+        3462
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/ContentTest/Chunk_ContentTest_Trains_1.prefab",
+      "entries": [
+        3465
+      ]
+    },
+    {
+      "key": "core_route_config_blocks/Gates/Gate.prefab",
+      "entries": [
+        3470
+      ]
+    },
+    {
+      "key": "core_route_config_blocks/Gates/Composition/Gate_Left.prefab",
+      "entries": [
+        3976
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/Expert/Chunk_Short_Train_Tops_Moving_Combined.prefab",
+      "entries": [
+        4016
+      ]
+    },
+    {
+      "key": "core_route_config_sections/Normal/Section_Train_Tops_Moving.asset",
+      "entries": [
+        4042
+      ]
+    },
+    {
+      "key": "core_route_config_blocks/Pickups/Pickup_SpawnPoint_Special.prefab",
+      "entries": [
+        4047
+      ]
+    },
+    {
+      "key": "core_route_config_sections/Normal/Composition/Section_1_Track_End.asset",
+      "entries": [
+        4057
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/ContentTest/Chunk_ContentTest_Trains_2.prefab",
+      "entries": [
+        4090
+      ]
+    },
+    {
+      "key": "core_route_config_sections/Hard/Section_4_Units_3_Tracks_S-S.asset",
+      "entries": [
+        4109
+      ]
+    },
+    {
+      "key": "core_route_config_sections/Special/Section_Pogostick.asset",
+      "entries": [
+        4130
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/Special/Chunk_Fallback.prefab",
+      "entries": [
+        4147
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/Special/Chunk_Start2.prefab",
+      "entries": [
+        4153
+      ]
+    },
+    {
+      "key": "ui_run_view_race",
+      "entries": [
+        4368
+      ]
+    },
+    {
+      "key": "core_route_config_sections/Normal/Composition/Section_2_Tracks_Start.asset",
+      "entries": [
+        4457
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/Expert/Short_2_tracks/Chunk_Short_2_Tracks_Mid_Var1.prefab",
+      "entries": [
+        4459
+      ]
+    },
+    {
+      "key": "core_route_config_blocks/Pickups/Coin_Curve.prefab",
+      "entries": [
+        4464
+      ]
+    },
+    {
+      "key": "ui_spriteatlas_fc_keys",
+      "entries": [
+        4748,
+        4749
+      ]
+    },
+    {
+      "key": "core_route_config_sections/Special/Section_Bonus_Short.asset",
+      "entries": [
+        5001
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/Special/Chunk_PogostickStart.prefab",
+      "entries": [
+        5048
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/Normal/1_Track/Chunk_1_Track_End.prefab",
+      "entries": [
+        5072
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/Normal/Chunk_Train_Tops_Moving_Multiple.prefab",
+      "entries": [
+        5091
+      ]
+    },
+    {
+      "key": "core_route_config_blocks/Pickups/Coin_Line_5_over_120.prefab",
+      "entries": [
+        5112
+      ]
+    },
+    {
+      "key": "core_route_config_sections/Special/Section_Sponsored.asset",
+      "entries": [
+        5137
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/Normal/1_Track/Chunk_1_Track_Start.prefab",
+      "entries": [
+        5168
+      ]
+    },
+    {
+      "key": "slice_run_hints",
+      "entries": [
+        5458
+      ]
+    },
+    {
+      "key": "core_route_config_sections/Normal/Section_Tunnel.asset",
+      "entries": [
+        5537
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/Special/Chunk_Sponsored.prefab",
+      "entries": [
+        5539
+      ]
+    },
+    {
+      "key": "core_route_config_blocks/Obstacles/Dumpster.prefab",
+      "entries": [
+        5544
+      ]
+    },
+    {
+      "key": "core_route_config_blocks/Obstacles/Composition/Blocker_Roll.prefab",
+      "entries": [
+        6120
+      ]
+    },
+    {
+      "key": "core_route_config_sections/Normal/Composition/Section_2_Tracks_End.asset",
+      "entries": [
+        6142
+      ]
+    },
+    {
+      "key": "core_route_config_blocks/Pickups/Coin_Line_9_over_240.prefab",
+      "entries": [
+        6158
+      ]
+    },
+    {
+      "key": "core_route_config_blocks/Obstacles/Platform.prefab",
+      "entries": [
+        6229
+      ]
+    },
+    {
+      "key": "core_route_config_blocks/Pickups/Coin_Line_4_over_90.prefab",
+      "entries": [
+        6274
+      ]
+    },
+    {
+      "key": "core_route_config_sections/Normal/Composition/Section_2_Tracks_Mid.asset",
+      "entries": [
+        6632
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/ContentTest/Chunk_ContentTest_Tube.prefab",
+      "entries": [
+        6638
+      ]
+    },
+    {
+      "key": "core_route_config_blocks/Obstacles/Bush.prefab",
+      "entries": [
+        6645
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/Special/Chunk_Fallback_Long.prefab",
+      "entries": [
+        7213
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/Easy/Chunk_Train_Tops_2.prefab",
+      "entries": [
+        7228
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/Hard/Chunk_Epic_Various.prefab",
+      "entries": [
+        7233
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/Expert/Short_2_tracks/Chunk_Short_2_Tracks_Mid_Var2.prefab",
+      "entries": [
+        7234
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/Hard/Chunk_4_Units_3_Tracks_S-S-S-S.prefab",
+      "entries": [
+        7249
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/Special/Chunk_Tutorial_Force.prefab",
+      "entries": [
+        7253
+      ]
+    },
+    {
+      "key": "core_route_config_blocks/Tracks/Tracks_Gates.prefab",
+      "entries": [
+        7408
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/Special/Chunk_Intro.prefab",
+      "entries": [
+        7428
+      ]
+    },
+    {
+      "key": "ui_run_view_gauntlet",
+      "entries": [
+        7618
+      ]
+    },
+    {
+      "key": "ui_run_view_chase_target",
+      "entries": [
+        7622
+      ]
+    },
+    {
+      "key": "ui_run_view_hints",
+      "entries": [
+        7624
+      ]
+    },
+    {
+      "key": "core_route_config_sections/Expert/Section_Short_Train_Tops_Moving.asset",
+      "entries": [
+        7722
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/Hard/Chunk_4_Units_3_Tracks_S-B-S-B.prefab",
+      "entries": [
+        7724
+      ]
+    },
+    {
+      "key": "core_route_config_blocks/Gates/Composition/Gate_Mid.prefab",
+      "entries": [
+        7731
+      ]
+    },
+    {
+      "key": "ui_spriteatlas_fc_booster",
+      "entries": [
+        8040,
+        8041
+      ]
+    },
+    {
+      "key": "ui_spriteatlas_fc_hoverboard",
+      "entries": [
+        8048,
+        8049
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/Normal/2_Tracks/Chunk_2_Tracks_Mid_Var_2.prefab",
+      "entries": [
+        8381
+      ]
+    },
+    {
+      "key": "core_route_config_blocks/Obstacles/Powerbox.prefab",
+      "entries": [
+        8431
+      ]
+    },
+    {
+      "key": "core_route_config_blocks/Pickups/Coin_Line_3_over_60.prefab",
+      "entries": [
+        8439
+      ]
+    },
+    {
+      "key": "core_route_config_blocks/Trains/Train_Static_1.prefab",
+      "entries": [
+        8446
+      ]
+    },
+    {
+      "key": "core_route_config_sections/Expert/Section_Ramp_2.asset",
+      "entries": [
+        8745
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/Easy/Chunk_S-B-S-B.prefab",
+      "entries": [
+        8748
+      ]
+    },
+    {
+      "key": "core_route_config_blocks/Obstacles/Obstacle.prefab",
+      "entries": [
+        8755
+      ]
+    },
+    {
+      "key": "irelandspring_config",
+      "entries": [
+        9043
+      ]
+    },
+    {
+      "key": "core_route_config_sections/Normal/Section_1_Track.asset",
+      "entries": [
+        9284
+      ]
+    },
+    {
+      "key": "core_route_config_sections/Normal/Section_2_Tracks.asset",
+      "entries": [
+        9295
+      ]
+    },
+    {
+      "key": "core_route_config_sections/Normal/Section_Train_Tops_Moving_Combined.asset",
+      "entries": [
+        9309
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/Easy/Chunk_Tunnel_NoTrain.prefab",
+      "entries": [
+        9310
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/Normal/2_Tracks/Chunk_2_Tracks_Start.prefab",
+      "entries": [
+        9328
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/Easy/Chunk_S-S-S-S.prefab",
+      "entries": [
+        9345
+      ]
+    },
+    {
+      "key": "core_route_config_blocks/Pickups/Pickup_SpawnPoint_Easy.prefab",
+      "entries": [
+        9354
+      ]
+    },
+    {
+      "key": "sharedscene",
+      "entries": [
+        9358
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/Special/Chunk_Landing.prefab",
+      "entries": [
+        9398
+      ]
+    },
+    {
+      "key": "core_route_config_sections/Special/Section_Start.asset",
+      "entries": [
+        9416
+      ]
+    },
+    {
+      "key": "ui_run_view_mystery_hurdle",
+      "entries": [
+        9651
+      ]
+    },
+    {
+      "key": "core_route_config_sections/Easy/Section_Choice.asset",
+      "entries": [
+        9736
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/ContentTest/Chunk_ContentTest_Gates.prefab",
+      "entries": [
+        9740
+      ]
+    },
+    {
+      "key": "core_route_config_blocks/Obstacles/Blocker.prefab",
+      "entries": [
+        9748
+      ]
+    },
+    {
+      "key": "ui_spriteatlas_fc_headstart",
+      "entries": [
+        10046,
+        10047
+      ]
+    },
+    {
+      "key": "ui_spriteatlas_photo_mode",
+      "entries": [
+        10048,
+        10049
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/Expert/Chunk_Short_Train_Tops_Moving.prefab",
+      "entries": [
+        10341
+      ]
+    },
+    {
+      "key": "core_route_config_blocks/Trains/Train_Moving_5_Coins.prefab",
+      "entries": [
+        10357
+      ]
+    },
+    {
+      "key": "core_route_config_sections/Expert/Composition/Section_Short_2_Tracks_Start.asset",
+      "entries": [
+        10369
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/Special/Chunk_Tutorial.prefab",
+      "entries": [
+        10380
+      ]
+    },
+    {
+      "key": "core_route_config_blocks/Obstacles/Composition/Blocker_Standard.prefab",
+      "entries": [
+        10397
+      ]
+    },
+    {
+      "key": "core_route_config_blocks/Obstacles/Composition/Blocker_Jump.prefab",
+      "entries": [
+        10429
+      ]
+    },
+    {
+      "key": "core_route_config_blocks/Trains/Train_Moving_5.prefab",
+      "entries": [
+        10442
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/Expert/Chunk_Ramp_2.prefab",
+      "entries": [
+        10462
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/Special/Chunk_Bonus_Long.prefab",
+      "entries": [
+        10471
+      ]
+    },
+    {
+      "key": "core_route_config_sections/Easy/Section_Train_Tops_2.asset",
+      "entries": [
+        10476
+      ]
+    },
+    {
+      "key": "core_route_config_blocks/Trains/Train_Ramp.prefab",
+      "entries": [
+        10478
+      ]
+    },
+    {
+      "key": "core_route_config_sections/Normal/Composition/Section_1_Track_Start.asset",
+      "entries": [
+        10493
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/Easy/Chunk_B-S-B.prefab",
+      "entries": [
+        10499
+      ]
+    },
+    {
+      "key": "ui_spriteatlas_fc_ec_silver",
+      "entries": [
+        10607,
+        10608
+      ]
+    },
+    {
+      "key": "slice_mainmenu_city",
+      "entries": [
+        10657
+      ]
+    },
+    {
+      "key": "slice_pause_gauntlet",
+      "entries": [
+        10670
+      ]
+    },
+    {
+      "key": "core_route_config_sections/Hard/Section_4_Units_3_Tracks_S-S-S-S.asset",
+      "entries": [
+        10758
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/Easy/Chunk_Choice.prefab",
+      "entries": [
+        10760
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/Special/Chunk_Sponsored_x5.prefab",
+      "entries": [
+        11372
+      ]
+    },
+    {
+      "key": "core_route_config_sections/Normal/Section_Epic.asset",
+      "entries": [
+        11464
+      ]
+    },
+    {
+      "key": "slice_pause_seasonpass",
+      "entries": [
+        11743
+      ]
+    },
+    {
+      "key": "ui_run_view_city_tour",
+      "entries": [
+        11747
+      ]
+    },
+    {
+      "key": "ui_run_view_time_limited_chase_target",
+      "entries": [
+        11757
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/ContentTest/Chunk_ContentTest_Filler_Low.prefab",
+      "entries": [
+        11846
+      ]
+    },
+    {
+      "key": "core_route_config_blocks/Pickups/Pickup_SpawnPoint_Pogostick.prefab",
+      "entries": [
+        11851
+      ]
+    },
+    {
+      "key": "ui_spriteatlas_default",
+      "entries": [
+        12133,
+        12134
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/Hard/Chunk_4_Units_3_Tracks_S-S.prefab",
+      "entries": [
+        12359
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/Special/Chunk_Test.prefab",
+      "entries": [
+        12379
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/ContentTest/Chunk_ContentTest_Filler_Med.prefab",
+      "entries": [
+        12468
+      ]
+    },
+    {
+      "key": "core_route_config_sections/Easy/Section_S-S.asset",
+      "entries": [
+        12863
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/Easy/Chunk_Train_Tops_1.prefab",
+      "entries": [
+        12864
+      ]
+    },
+    {
+      "key": "core_route_config_blocks/Pickups/Coin_Line_10_over_275.prefab",
+      "entries": [
+        12872
+      ]
+    },
+    {
+      "key": "core_route_config_sections/Expert/Section_Short_Train_Tops_Moving_Combined.asset",
+      "entries": [
+        13415
+      ]
+    },
+    {
+      "key": "core_route_config_blocks/Trains/Train_Static_3.prefab",
+      "entries": [
+        13417
+      ]
+    },
+    {
+      "key": "core_route_config_sections/Hard/Section_4_Units_3_Tracks_S-B-S-B.asset",
+      "entries": [
+        13423
+      ]
+    },
+    {
+      "key": "core_route_config_sections/Easy/Section_Tunnel_NoTrain.asset",
+      "entries": [
+        13427
+      ]
+    },
+    {
+      "key": "core_route_config_blocks/Pickups/Coin_Line_2_over_50.prefab",
+      "entries": [
+        13437
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/Normal/Chunk_Train_Tops_Moving.prefab",
+      "entries": [
+        13491
+      ]
+    },
+    {
+      "key": "core_route_config_sections/Hard/Section_4_Units_3_Tracks_Choice.asset",
+      "entries": [
+        13504
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/Normal/Chunk_Epic.prefab",
+      "entries": [
+        13505
+      ]
+    },
+    {
+      "key": "mainrunner",
+      "entries": [
+        13515
+      ]
+    },
+    {
+      "key": "core_route_config_sections/Expert/Section_Short_2_Tracks.asset",
+      "entries": [
+        13553
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/Special/Chunk_HeadstartLanding.prefab",
+      "entries": [
+        13558
+      ]
+    },
+    {
+      "key": "ui_spriteatlas_fc_ec_purple",
+      "entries": [
+        13701,
+        13702
+      ]
+    },
+    {
+      "key": "core_route_config_sections/Expert/Section_Short_1_Track.asset",
+      "entries": [
+        13897
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/ContentTest/Chunk_ContentTest_Epic.prefab",
+      "entries": [
+        13899
+      ]
+    },
+    {
+      "key": "core_route_config_blocks/Gates/Composition/Gate_Right.prefab",
+      "entries": [
+        13907
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/Special/Chunk_Start1.prefab",
+      "entries": [
+        14479
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/Normal/2_Tracks/Chunk_2_Tracks_End.prefab",
+      "entries": [
+        14535
+      ]
+    },
+    {
+      "key": "core_route_config_blocks/Gates/Composition/Gate_Sides.prefab",
+      "entries": [
+        14574
+      ]
+    },
+    {
+      "key": "core_route_config_sections/Expert/Section_Short_Train_Tops_Moving_Multiple.asset",
+      "entries": [
+        14642
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/ContentTest/Chunk_ContentTest_Ramp.prefab",
+      "entries": [
+        14643
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/Normal/Chunk_Train_Tops_Moving_Combined.prefab",
+      "entries": [
+        14685
+      ]
+    },
+    {
+      "key": "core_route_config_blocks/Obstacles/Pillar.prefab",
+      "entries": [
+        14687
+      ]
+    },
+    {
+      "key": "ui_spriteatlas_fc_coins",
+      "entries": [
+        14798,
+        14799
+      ]
+    },
+    {
+      "key": "ui_spriteatlas_fc_ec_red",
+      "entries": [
+        14808,
+        14809
+      ]
+    },
+    {
+      "key": "slice_pause_confirm_gauntlet",
+      "entries": [
+        14872
+      ]
+    },
+    {
+      "key": "ui_run_view_challenge_difficulty",
+      "entries": [
+        14888
+      ]
+    },
+    {
+      "key": "core_route_config_sections/Hard/Section_Epic_Various.asset",
+      "entries": [
+        14977
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/ContentTest/Chunk_ContentTest_Filler_All.prefab",
+      "entries": [
+        14982
+      ]
+    },
+    {
+      "key": "core_route_config_blocks/Pickups/Coin_Line_6_over_150.prefab",
+      "entries": [
+        14989
+      ]
+    },
+    {
+      "key": "ui_spriteatlas_fc_ec_blue",
+      "entries": [
+        15294,
+        15295
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/Normal/Chunk_Ramp_1.prefab",
+      "entries": [
+        15521
+      ]
+    },
+    {
+      "key": "core_route_config_sections/Special/Section_HeadstartLanding.asset",
+      "entries": [
+        15556
+      ]
+    },
+    {
+      "key": "core_route_config_sections/Normal/Section_Ramp_1.asset",
+      "entries": [
+        15568
+      ]
+    },
+    {
+      "key": "core_route_config_sections/Normal/Section_Train_Tops_Moving_Multiple.asset",
+      "entries": [
+        15579
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/Expert/Chunk_Short_Train_Tops_Moving_Multiple.prefab",
+      "entries": [
+        15649
+      ]
+    },
+    {
+      "key": "core_route_config_blocks/Trains/Train_Static_5.prefab",
+      "entries": [
+        15665
+      ]
+    },
+    {
+      "key": "core_route_config_sections/Special/Section_Intro.asset",
+      "entries": [
+        15690
+      ]
+    },
+    {
+      "key": "core_route_config_blocks/Pickups/Coin_Single.prefab",
+      "entries": [
+        15704
+      ]
+    },
+    {
+      "key": "core_route_config_blocks/Pickups/Pickup_SpawnPoint_Medium.prefab",
+      "entries": [
+        15716
+      ]
+    },
+    {
+      "key": "core_route_config_sections/Easy/Section_Train_Tops_1.asset",
+      "entries": [
+        16043
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/ContentTest/Chunk_ContentTest_Filler_High.prefab",
+      "entries": [
+        16049
+      ]
+    },
+    {
+      "key": "core_route_config_blocks/Tracks/Tracks_Dynamic.prefab",
+      "entries": [
+        16053
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/Normal/1_Track/Chunk_1_Track_Mid_Var_1.prefab",
+      "entries": [
+        16582
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/Hard/Chunk_4_Units_3_Tracks_Choice.prefab",
+      "entries": [
+        16612
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/Expert/Short_2_tracks/Chunk_Short_2_Tracks_End.prefab",
+      "entries": [
+        16631
+      ]
+    },
+    {
+      "key": "core_route_config_blocks/Trains/Train_Moving_3_Coins.prefab",
+      "entries": [
+        16664
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/Normal/Chunk_Tunnel.prefab",
+      "entries": [
+        16750
+      ]
+    },
+    {
+      "key": "core_route_config_sections/Expert/Composition/Section_Short_2_Tracks_Mid.asset",
+      "entries": [
+        16765
+      ]
+    },
+    {
+      "key": "core_route_config_sections/Special/Section_Fallback.asset",
+      "entries": [
+        16779
+      ]
+    },
+    {
+      "key": "slice_mainmenu_2.0",
+      "entries": [
+        17005
+      ]
+    },
+    {
+      "key": "ui_run_view_time_limited",
+      "entries": [
+        17018
+      ]
+    },
+    {
+      "key": "core_route_config_sections/Normal/Composition/Section_1_Track_Mid.asset",
+      "entries": [
+        17102
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/Expert/Short_2_tracks/Chunk_Short_2_Tracks_Start.prefab",
+      "entries": [
+        17105
+      ]
+    },
+    {
+      "key": "core_route_config_blocks/Gates/_Shared/Gate_CameraTrigger.prefab",
+      "entries": [
+        17110
+      ]
+    },
+    {
+      "key": "ui_spriteatlas_fc_cp",
+      "entries": [
+        17417,
+        17418
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/Normal/1_Track/Chunk_1_Track_Mid_Var_2.prefab",
+      "entries": [
+        17644
+      ]
+    },
+    {
+      "key": "core_route_config_sections/Special/Section_Bonus_Long.asset",
+      "entries": [
+        17662
+      ]
+    },
+    {
+      "key": "core_route_config_blocks/Trains/Train_Static_2.prefab",
+      "entries": [
+        17804
+      ]
+    },
+    {
+      "key": "core_route_config_sections/Easy/Section_B-S-B.asset",
+      "entries": [
+        18086
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/ContentTest/Chunk_ContentTest_Pillars.prefab",
+      "entries": [
+        18088
+      ]
+    },
+    {
+      "key": "core_route_config_blocks/Obstacles/Blocker_w_Coins.prefab",
+      "entries": [
+        18092
+      ]
+    },
+    {
+      "key": "ui_spriteatlas_fc_season_points",
+      "entries": [
+        18371,
+        18372
+      ]
+    },
+    {
+      "key": "core_route_config_sections/Easy/Section_S-B-S-B.asset",
+      "entries": [
+        18605
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/Special/Chunk_Bonus_Short.prefab",
+      "entries": [
+        18642
+      ]
+    },
+    {
+      "key": "core_route_config_sections/Special/Section_Sponsored_x5.asset",
+      "entries": [
+        18698
+      ]
+    },
+    {
+      "key": "core_route_config_sections/Special/Section_JetpackLanding.asset",
+      "entries": [
+        18709
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/Special/Chunk_JetpackLanding.prefab",
+      "entries": [
+        18710
+      ]
+    },
+    {
+      "key": "core_route_config_sections/Expert/Composition/Section_Short_2_Tracks_End.asset",
+      "entries": [
+        18723
+      ]
+    },
+    {
+      "key": "core_route_config_sections/Hard/Section_4_Units_3_Tracks_B-S-B.asset",
+      "entries": [
+        19086
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/ContentTest/Chunk_ContentTest_Station.prefab",
+      "entries": [
+        19091
+      ]
+    },
+    {
+      "key": "core_route_config_blocks/Obstacles/LightSignal.prefab",
+      "entries": [
+        19095
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/Expert/Chunk_Short_1_Track.prefab",
+      "entries": [
+        19609
+      ]
+    },
+    {
+      "key": "core_route_config_blocks/Trains/Train_Moving_3.prefab",
+      "entries": [
+        19622
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/Hard/Chunk_4_Units_3_Tracks_B-S-B.prefab",
+      "entries": [
+        19683
+      ]
+    },
+    {
+      "key": "core_route_config_blocks/Pickups/Pickup_SpawnPoint_SuperSneakers.prefab",
+      "entries": [
+        19685
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/Easy/Chunk_S-S.prefab",
+      "entries": [
+        19734
+      ]
+    },
+    {
+      "key": "core_route_config_chunks/Normal/2_Tracks/Chunk_2_Tracks_Mid_Var_1.prefab",
+      "entries": [
+        19807
+      ]
+    }
+  ],
+  "bundles": [
+    {
+      "entry": 6,
+      "catalogKey": "audio-builtin_assets_audio_hr_unlock_7df43e9cb1c9bf25082e1762b0c6657a.bundle",
+      "member": "assets/aa/Android/3.61.0/audio-builtin_assets_audio_hr_unlock_7df43e9cb1c9bf25082e1762b0c6657a.bundle",
+      "bytes": 52558,
+      "sha256": "8906ab45352e5d89074cdf16e25ca2a5ad1749a446b47dcf1280542659bc8fd7",
+      "extracted": "reference/recovered-environment/bundles/audio-builtin_assets_audio_hr_unlock_7df43e9cb1c9bf25082e1762b0c6657a.bundle"
+    },
+    {
+      "entry": 7,
+      "catalogKey": "audio-builtin_assets_config_audio_clip_character_bffe415ab191a9f94e3847e3a6227033.bundle",
+      "member": "assets/aa/Android/3.61.0/audio-builtin_assets_config_audio_clip_character_bffe415ab191a9f94e3847e3a6227033.bundle",
+      "bytes": 108631,
+      "sha256": "b309ab92dd1e2d0cc326bc5aeda8208a9c48018f7a51581e9f8e160670763bf3",
+      "extracted": "reference/recovered-environment/bundles/audio-builtin_assets_config_audio_clip_character_bffe415ab191a9f94e3847e3a6227033.bundle"
+    },
+    {
+      "entry": 9,
+      "catalogKey": "audio-builtin_assets_config_audio_clip_game_3c55c22e32b1512bc1e7b88e31f36650.bundle",
+      "member": "assets/aa/Android/3.61.0/audio-builtin_assets_config_audio_clip_game_3c55c22e32b1512bc1e7b88e31f36650.bundle",
+      "bytes": 153107,
+      "sha256": "336f85d45e95d9c0953eb2666db71c2df18b91659829a186b5a686179448530e",
+      "extracted": "reference/recovered-environment/bundles/audio-builtin_assets_config_audio_clip_game_3c55c22e32b1512bc1e7b88e31f36650.bundle"
+    },
+    {
+      "entry": 11,
+      "catalogKey": "audio-builtin_assets_config_audio_clip_shared_c120e2055c1031c99f53f458a3d880e5.bundle",
+      "member": "assets/aa/Android/3.61.0/audio-builtin_assets_config_audio_clip_shared_c120e2055c1031c99f53f458a3d880e5.bundle",
+      "bytes": 13871,
+      "sha256": "f2a7c80e7f074e81d14e013648b5680e3e1498e5e65c829adf5996eb7a31a7ae",
+      "extracted": "reference/recovered-environment/bundles/audio-builtin_assets_config_audio_clip_shared_c120e2055c1031c99f53f458a3d880e5.bundle"
+    },
+    {
+      "entry": 12,
+      "catalogKey": "audio-builtin_assets_config_audio_clip_shield_da030d04ce1ad76665549b4c0aaa50f1.bundle",
+      "member": "assets/aa/Android/3.61.0/audio-builtin_assets_config_audio_clip_shield_da030d04ce1ad76665549b4c0aaa50f1.bundle",
+      "bytes": 99502,
+      "sha256": "d001c39501c13cfe63c8f6664c1aa649a9f6e805e4c4a19644290f69192f3c38",
+      "extracted": "reference/recovered-environment/bundles/audio-builtin_assets_config_audio_clip_shield_da030d04ce1ad76665549b4c0aaa50f1.bundle"
+    },
+    {
+      "entry": 13,
+      "catalogKey": "audio-builtin_assets_config_audio_clip_tlr_5c898035ef5bf2f7e91dd8c26a572140.bundle",
+      "member": "assets/aa/Android/3.61.0/audio-builtin_assets_config_audio_clip_tlr_5c898035ef5bf2f7e91dd8c26a572140.bundle",
+      "bytes": 25857,
+      "sha256": "da4f43f10647622d7daa521da001048c3995f6988f06ac6fe0355d23af044da1",
+      "extracted": "reference/recovered-environment/bundles/audio-builtin_assets_config_audio_clip_tlr_5c898035ef5bf2f7e91dd8c26a572140.bundle"
+    },
+    {
+      "entry": 14,
+      "catalogKey": "audio-builtin_assets_race_bs_audio_clip_infos_a06694f2e43bce559b74a0005d84139a.bundle",
+      "member": "assets/aa/Android/3.61.0/audio-builtin_assets_race_bs_audio_clip_infos_a06694f2e43bce559b74a0005d84139a.bundle",
+      "bytes": 473509,
+      "sha256": "0d863e81affef80bfea23a0614551ee507744dd84c62415630b80ed54cc8eaf1",
+      "extracted": "reference/recovered-environment/bundles/audio-builtin_assets_race_bs_audio_clip_infos_a06694f2e43bce559b74a0005d84139a.bundle"
+    },
+    {
+      "entry": 15,
+      "catalogKey": "audio-builtin_assets_race_shared_audio_clip_infos_fae88df43504a32076ab586cd5d228e7.bundle",
+      "member": "assets/aa/Android/3.61.0/audio-builtin_assets_race_shared_audio_clip_infos_fae88df43504a32076ab586cd5d228e7.bundle",
+      "bytes": 184922,
+      "sha256": "a6462dfe7de62009ea20c56dfe0000dd2719959587c7a5890263fa6fef7117fa",
+      "extracted": "reference/recovered-environment/bundles/audio-builtin_assets_race_shared_audio_clip_infos_fae88df43504a32076ab586cd5d228e7.bundle"
+    },
+    {
+      "entry": 17,
+      "catalogKey": "audio-builtin_assets_shared_sound_swish_be8b35a88ff817f20558b39585bd63db.bundle",
+      "member": "assets/aa/Android/3.61.0/audio-builtin_assets_shared_sound_swish_be8b35a88ff817f20558b39585bd63db.bundle",
+      "bytes": 3395,
+      "sha256": "b4cae277a684c7d7f3390708313dd3a315b70b06072681bdd16321cc46c5bc43",
+      "extracted": "reference/recovered-environment/bundles/audio-builtin_assets_shared_sound_swish_be8b35a88ff817f20558b39585bd63db.bundle"
+    },
+    {
+      "entry": 19,
+      "catalogKey": "ba003fdfca2fde0fa9203fc94deafdea_monoscripts_55d283e038c2ec18aa91e6d4ffe9d840.bundle",
+      "member": "assets/aa/Android/3.61.0/ba003fdfca2fde0fa9203fc94deafdea_monoscripts_55d283e038c2ec18aa91e6d4ffe9d840.bundle",
+      "bytes": 71619,
+      "sha256": "e23bdaaec96e1fed59af0b360478405211b42566853ec035ec4c06e53d0dea66",
+      "extracted": "reference/recovered-environment/bundles/ba003fdfca2fde0fa9203fc94deafdea_monoscripts_55d283e038c2ec18aa91e6d4ffe9d840.bundle"
+    },
+    {
+      "entry": 20,
+      "catalogKey": "ba003fdfca2fde0fa9203fc94deafdea_unitybuiltinshaders_10bfffcf88117948efcfce80e9490d83.bundle",
+      "member": "assets/aa/Android/3.61.0/ba003fdfca2fde0fa9203fc94deafdea_unitybuiltinshaders_10bfffcf88117948efcfce80e9490d83.bundle",
+      "bytes": 130524,
+      "sha256": "ce6349b31a4a8beffd6523e208dc7dbe6fc7e97a1f3d25c9ef3fafabc8e77926",
+      "extracted": "reference/recovered-environment/bundles/ba003fdfca2fde0fa9203fc94deafdea_unitybuiltinshaders_10bfffcf88117948efcfce80e9490d83.bundle"
+    },
+    {
+      "entry": 1544,
+      "catalogKey": "calendarimages-builtin_assets_icon_lock_e3b6eabacc046cd2579df8abea0ad3ee.bundle",
+      "member": "assets/aa/Android/3.61.0/calendarimages-builtin_assets_icon_lock_e3b6eabacc046cd2579df8abea0ad3ee.bundle",
+      "bytes": 8202,
+      "sha256": "0ca1da34c5ee15f3a7bd1b8c1086ab0f9d36909b7a5807e9a44a781ec0debd25",
+      "extracted": "reference/recovered-environment/bundles/calendarimages-builtin_assets_icon_lock_e3b6eabacc046cd2579df8abea0ad3ee.bundle"
+    },
+    {
+      "entry": 1566,
+      "catalogKey": "challengeimages-builtin_assets_icon_dailychallenge_e2b4f945be0fd0dc28b49dc2ba02e686.bundle",
+      "member": "assets/aa/Android/3.61.0/challengeimages-builtin_assets_icon_dailychallenge_e2b4f945be0fd0dc28b49dc2ba02e686.bundle",
+      "bytes": 8503,
+      "sha256": "29a701c3726cbd68e59e1c69c980acc84c40568117980638882102bd4b924d55",
+      "extracted": "reference/recovered-environment/bundles/challengeimages-builtin_assets_icon_dailychallenge_e2b4f945be0fd0dc28b49dc2ba02e686.bundle"
+    },
+    {
+      "entry": 1567,
+      "catalogKey": "challengeimages-builtin_assets_icon_elitechallenge_995102ef2a03770097ef09f2d695015b.bundle",
+      "member": "assets/aa/Android/3.61.0/challengeimages-builtin_assets_icon_elitechallenge_995102ef2a03770097ef09f2d695015b.bundle",
+      "bytes": 11735,
+      "sha256": "1c02fab6bf78a0edb36d74c6dc6b59220e0a78719ff097e3fe728ff8ee49b373",
+      "extracted": "reference/recovered-environment/bundles/challengeimages-builtin_assets_icon_elitechallenge_995102ef2a03770097ef09f2d695015b.bundle"
+    },
+    {
+      "entry": 1572,
+      "catalogKey": "challengeimages-builtin_assets_icon_info_calendar_196007f84c09f2d0f417bea4a511f3e4.bundle",
+      "member": "assets/aa/Android/3.61.0/challengeimages-builtin_assets_icon_info_calendar_196007f84c09f2d0f417bea4a511f3e4.bundle",
+      "bytes": 9742,
+      "sha256": "7f8b732019c132a0720f24c97e60c72e2da843545ab2241b2608d3de509dc30b",
+      "extracted": "reference/recovered-environment/bundles/challengeimages-builtin_assets_icon_info_calendar_196007f84c09f2d0f417bea4a511f3e4.bundle"
+    },
+    {
+      "entry": 1593,
+      "catalogKey": "challengeimages-builtin_assets_logo_subway_surfers_ebd81ca54d8e26ae14539ee48eabc7af.bundle",
+      "member": "assets/aa/Android/3.61.0/challengeimages-builtin_assets_logo_subway_surfers_ebd81ca54d8e26ae14539ee48eabc7af.bundle",
+      "bytes": 49765,
+      "sha256": "167c61c3ee0a16de9793d0f003337c7f969d07c4ba7d1a9089038c7ca13b0fec",
+      "extracted": "reference/recovered-environment/bundles/challengeimages-builtin_assets_logo_subway_surfers_ebd81ca54d8e26ae14539ee48eabc7af.bundle"
+    },
+    {
+      "entry": 1917,
+      "catalogKey": "collectionimages-builtin_assets_icon_collection_points_ad5fa7b5a65be829325c3944fd7a2a64.bundle",
+      "member": "assets/aa/Android/3.61.0/collectionimages-builtin_assets_icon_collection_points_ad5fa7b5a65be829325c3944fd7a2a64.bundle",
+      "bytes": 21072,
+      "sha256": "99f4facd33ee5cc9618cec6dcf2a2abd012cf567010213ef1f3d048eb3db921b",
+      "extracted": "reference/recovered-environment/bundles/collectionimages-builtin_assets_icon_collection_points_ad5fa7b5a65be829325c3944fd7a2a64.bundle"
+    },
+    {
+      "entry": 1924,
+      "catalogKey": "common-builtin_assets_animation_library_jake_ca26f9f4c5ebe27bdfac495c45f307e7.bundle",
+      "member": "assets/aa/Android/3.61.0/common-builtin_assets_animation_library_jake_ca26f9f4c5ebe27bdfac495c45f307e7.bundle",
+      "bytes": 399300,
+      "sha256": "c5e2060a5af1fbf07b9f175dfa30c0f6bc32856b472cec0033798c6ec62d6529",
+      "extracted": "reference/recovered-environment/bundles/common-builtin_assets_animation_library_jake_ca26f9f4c5ebe27bdfac495c45f307e7.bundle"
+    },
+    {
+      "entry": 1929,
+      "catalogKey": "common-builtin_assets_animations_common_213f198ec326608e80361047e6eff8cd.bundle",
+      "member": "assets/aa/Android/3.61.0/common-builtin_assets_animations_common_213f198ec326608e80361047e6eff8cd.bundle",
+      "bytes": 23379,
+      "sha256": "0f29e489035f93b90adf4fa659187ffe2a760e61c97726f07c0e7ff256b0968d",
+      "extracted": "reference/recovered-environment/bundles/common-builtin_assets_animations_common_213f198ec326608e80361047e6eff8cd.bundle"
+    },
+    {
+      "entry": 1933,
+      "catalogKey": "common-builtin_assets_button_animations_5b8774e2d26121e9003678eb23f5873a.bundle",
+      "member": "assets/aa/Android/3.61.0/common-builtin_assets_button_animations_5b8774e2d26121e9003678eb23f5873a.bundle",
+      "bytes": 14270,
+      "sha256": "5bad9c1758e7a84b736c9c023ca0454ccb7e8b442ab2e3bb1b88fee0b24f4642",
+      "extracted": "reference/recovered-environment/bundles/common-builtin_assets_button_animations_5b8774e2d26121e9003678eb23f5873a.bundle"
+    },
+    {
+      "entry": 1935,
+      "catalogKey": "common-builtin_assets_characters_common_animations_92dd802f06481caeb9ae34550abbc673.bundle",
+      "member": "assets/aa/Android/3.61.0/common-builtin_assets_characters_common_animations_92dd802f06481caeb9ae34550abbc673.bundle",
+      "bytes": 3183417,
+      "sha256": "8b73b519ca3b3c2f2b3b8209db34e03c60ee66b97667e2ed9b3518fc9295de0d",
+      "extracted": "reference/recovered-environment/bundles/common-builtin_assets_characters_common_animations_92dd802f06481caeb9ae34550abbc673.bundle"
+    },
+    {
+      "entry": 1936,
+      "catalogKey": "common-builtin_assets_characters_common_attach_points_93a676516e52b380789681327a805462.bundle",
+      "member": "assets/aa/Android/3.61.0/common-builtin_assets_characters_common_attach_points_93a676516e52b380789681327a805462.bundle",
+      "bytes": 2783,
+      "sha256": "fa57cd7efceabd044515f59816c411f01aadd6cdbeeaa90eb5cadcdeaff93ba5",
+      "extracted": "reference/recovered-environment/bundles/common-builtin_assets_characters_common_attach_points_93a676516e52b380789681327a805462.bundle"
+    },
+    {
+      "entry": 1938,
+      "catalogKey": "common-builtin_assets_characters_common_effects_material_f4abf89c1c22d69657ecfa3e772a6bc7.bundle",
+      "member": "assets/aa/Android/3.61.0/common-builtin_assets_characters_common_effects_material_f4abf89c1c22d69657ecfa3e772a6bc7.bundle",
+      "bytes": 2765,
+      "sha256": "2c337de8fe2023ed282e48d0d0768352abff13529c36087b84b038b11e4774f3",
+      "extracted": "reference/recovered-environment/bundles/common-builtin_assets_characters_common_effects_material_f4abf89c1c22d69657ecfa3e772a6bc7.bundle"
+    },
+    {
+      "entry": 1939,
+      "catalogKey": "common-builtin_assets_characters_common_eyes_d12edba4329491b253276ab8568a4fd6.bundle",
+      "member": "assets/aa/Android/3.61.0/common-builtin_assets_characters_common_eyes_d12edba4329491b253276ab8568a4fd6.bundle",
+      "bytes": 2006,
+      "sha256": "3811a6abffc665c2203729acee7a0b5cd37e44034b7e19e5c96b6f139af2e9ee",
+      "extracted": "reference/recovered-environment/bundles/common-builtin_assets_characters_common_eyes_d12edba4329491b253276ab8568a4fd6.bundle"
+    },
+    {
+      "entry": 1941,
+      "catalogKey": "common-builtin_assets_characters_common_pose_animations_1e4a8a99334bc6b764028d7396eebfa0.bundle",
+      "member": "assets/aa/Android/3.61.0/common-builtin_assets_characters_common_pose_animations_1e4a8a99334bc6b764028d7396eebfa0.bundle",
+      "bytes": 9772,
+      "sha256": "99cca7d0e6d64970897923f28e8d6908385e3254020bb9e1f320a37359bdab56",
+      "extracted": "reference/recovered-environment/bundles/common-builtin_assets_characters_common_pose_animations_1e4a8a99334bc6b764028d7396eebfa0.bundle"
+    },
+    {
+      "entry": 1942,
+      "catalogKey": "common-builtin_assets_characters_common_prefabs_50ecd4314a5a0acd4a9c6ae6ddb7b88c.bundle",
+      "member": "assets/aa/Android/3.61.0/common-builtin_assets_characters_common_prefabs_50ecd4314a5a0acd4a9c6ae6ddb7b88c.bundle",
+      "bytes": 45277,
+      "sha256": "cdd891e9a67836e4126debe324f2421d3f0fe23e78ba12f932fca87773c42b85",
+      "extracted": "reference/recovered-environment/bundles/common-builtin_assets_characters_common_prefabs_50ecd4314a5a0acd4a9c6ae6ddb7b88c.bundle"
+    },
+    {
+      "entry": 1944,
+      "catalogKey": "common-builtin_assets_config_audio_clip_animations_7e274badd57f47682334ed8bc55caf76.bundle",
+      "member": "assets/aa/Android/3.61.0/common-builtin_assets_config_audio_clip_animations_7e274badd57f47682334ed8bc55caf76.bundle",
+      "bytes": 92318,
+      "sha256": "6cdade4147a76c83bcbc11ba154845d4f17e16daa2094367b3b0c0185e2e2ea8",
+      "extracted": "reference/recovered-environment/bundles/common-builtin_assets_config_audio_clip_animations_7e274badd57f47682334ed8bc55caf76.bundle"
+    },
+    {
+      "entry": 1945,
+      "catalogKey": "common-builtin_assets_config_audio_keyframe_objects_ee1ef1c7697c33167437b6ffda5afa9a.bundle",
+      "member": "assets/aa/Android/3.61.0/common-builtin_assets_config_audio_keyframe_objects_ee1ef1c7697c33167437b6ffda5afa9a.bundle",
+      "bytes": 6693,
+      "sha256": "d73cbb582da6cb55a1ebb902c7f9968f8fa501861ac4a61f40ea611def2bda90",
+      "extracted": "reference/recovered-environment/bundles/common-builtin_assets_config_audio_keyframe_objects_ee1ef1c7697c33167437b6ffda5afa9a.bundle"
+    },
+    {
+      "entry": 1946,
+      "catalogKey": "common-builtin_assets_dummy_material_80cccd54d68df90418f50dd43965bff5.bundle",
+      "member": "assets/aa/Android/3.61.0/common-builtin_assets_dummy_material_80cccd54d68df90418f50dd43965bff5.bundle",
+      "bytes": 2277,
+      "sha256": "ae1eda89940402974f4eb2e63daad7e4c1f5276ecebfc2c0d244e0e7db70d6cb",
+      "extracted": "reference/recovered-environment/bundles/common-builtin_assets_dummy_material_80cccd54d68df90418f50dd43965bff5.bundle"
+    },
+    {
+      "entry": 1947,
+      "catalogKey": "common-builtin_assets_lootboxes_common_d2b6e8490c3214bcc59891e3b02336d8.bundle",
+      "member": "assets/aa/Android/3.61.0/common-builtin_assets_lootboxes_common_d2b6e8490c3214bcc59891e3b02336d8.bundle",
+      "bytes": 212833,
+      "sha256": "cc4acbc1b15907f57e04c0facb974ef0632fe5d69b5c979af5690e1b961b56b6",
+      "extracted": "reference/recovered-environment/bundles/common-builtin_assets_lootboxes_common_d2b6e8490c3214bcc59891e3b02336d8.bundle"
+    },
+    {
+      "entry": 1948,
+      "catalogKey": "common-builtin_assets_main_pickups_be9035f87c98f5b869445732283c069b.bundle",
+      "member": "assets/aa/Android/3.61.0/common-builtin_assets_main_pickups_be9035f87c98f5b869445732283c069b.bundle",
+      "bytes": 97738,
+      "sha256": "158e0236427e1ace827168efa86a02877c03f00b48940ac99cea3fba68d768ea",
+      "extracted": "reference/recovered-environment/bundles/common-builtin_assets_main_pickups_be9035f87c98f5b869445732283c069b.bundle"
+    },
+    {
+      "entry": 1949,
+      "catalogKey": "common-builtin_assets_main_pickups_coin_af1767b2a24f8098c2096fa5f0663f7f.bundle",
+      "member": "assets/aa/Android/3.61.0/common-builtin_assets_main_pickups_coin_af1767b2a24f8098c2096fa5f0663f7f.bundle",
+      "bytes": 5868,
+      "sha256": "4e5f2bee2e27cdf5d18d297b11cf8c91aa60c24edef89442be867e123b1726b5",
+      "extracted": "reference/recovered-environment/bundles/common-builtin_assets_main_pickups_coin_af1767b2a24f8098c2096fa5f0663f7f.bundle"
+    },
+    {
+      "entry": 1950,
+      "catalogKey": "common-builtin_assets_main_powerups_5fe7a1cb2183cb655cd5255605937182.bundle",
+      "member": "assets/aa/Android/3.61.0/common-builtin_assets_main_powerups_5fe7a1cb2183cb655cd5255605937182.bundle",
+      "bytes": 51683,
+      "sha256": "53319d058c42286a1cbac5b6c746eb79b6b1e2a589fbf471f841ebaea2cbc084",
+      "extracted": "reference/recovered-environment/bundles/common-builtin_assets_main_powerups_5fe7a1cb2183cb655cd5255605937182.bundle"
+    },
+    {
+      "entry": 1951,
+      "catalogKey": "common-builtin_assets_materials_common_effects_d824b0cdf2bad934409d327a4e6ea73d.bundle",
+      "member": "assets/aa/Android/3.61.0/common-builtin_assets_materials_common_effects_d824b0cdf2bad934409d327a4e6ea73d.bundle",
+      "bytes": 5954,
+      "sha256": "2791f309ad857439728fcd06c348f2d6138ff4312935238eda6effcf7912d40a",
+      "extracted": "reference/recovered-environment/bundles/common-builtin_assets_materials_common_effects_d824b0cdf2bad934409d327a4e6ea73d.bundle"
+    },
+    {
+      "entry": 1952,
+      "catalogKey": "common-builtin_assets_materials_common_pickups_426ec849c7c2d1d0e3c5331b95f54272.bundle",
+      "member": "assets/aa/Android/3.61.0/common-builtin_assets_materials_common_pickups_426ec849c7c2d1d0e3c5331b95f54272.bundle",
+      "bytes": 2793,
+      "sha256": "ab0790e88d2574fb37c6f896576aa35eafe275e0b38825b6d0deb4d87e0ad6c9",
+      "extracted": "reference/recovered-environment/bundles/common-builtin_assets_materials_common_pickups_426ec849c7c2d1d0e3c5331b95f54272.bundle"
+    },
+    {
+      "entry": 1953,
+      "catalogKey": "common-builtin_assets_materials_common_props_a470dc52acc6afda766f22c26cc947a2.bundle",
+      "member": "assets/aa/Android/3.61.0/common-builtin_assets_materials_common_props_a470dc52acc6afda766f22c26cc947a2.bundle",
+      "bytes": 2981,
+      "sha256": "c5c2640cc81d07d1494b7a4a5317534924ce162100e1832f72b7bf0846aa9c9c",
+      "extracted": "reference/recovered-environment/bundles/common-builtin_assets_materials_common_props_a470dc52acc6afda766f22c26cc947a2.bundle"
+    },
+    {
+      "entry": 1954,
+      "catalogKey": "common-builtin_assets_models_common_1fe4b02f8f5146f8277bb95fcf3e5d28.bundle",
+      "member": "assets/aa/Android/3.61.0/common-builtin_assets_models_common_1fe4b02f8f5146f8277bb95fcf3e5d28.bundle",
+      "bytes": 66462,
+      "sha256": "a87a4baf1ab94d60287209575d4ee79c01b2c145435e086d73ffacfa29433dbc",
+      "extracted": "reference/recovered-environment/bundles/common-builtin_assets_models_common_1fe4b02f8f5146f8277bb95fcf3e5d28.bundle"
+    },
+    {
+      "entry": 1955,
+      "catalogKey": "common-builtin_assets_models_powerups_45d74e29b079b6530c2e666a722234b8.bundle",
+      "member": "assets/aa/Android/3.61.0/common-builtin_assets_models_powerups_45d74e29b079b6530c2e666a722234b8.bundle",
+      "bytes": 102882,
+      "sha256": "a399b922d41239e0ed60dc1fd55f9ef67e2d6e73e66e9e43b2b8733a6d50e687",
+      "extracted": "reference/recovered-environment/bundles/common-builtin_assets_models_powerups_45d74e29b079b6530c2e666a722234b8.bundle"
+    },
+    {
+      "entry": 1957,
+      "catalogKey": "common-builtin_assets_prefabs_common_effects_e79829e787284d328431acbf3de6d356.bundle",
+      "member": "assets/aa/Android/3.61.0/common-builtin_assets_prefabs_common_effects_e79829e787284d328431acbf3de6d356.bundle",
+      "bytes": 43336,
+      "sha256": "3b4a1e3d88358f7616bae85ec90169face6e9be570e997406476730a26ba75b9",
+      "extracted": "reference/recovered-environment/bundles/common-builtin_assets_prefabs_common_effects_e79829e787284d328431acbf3de6d356.bundle"
+    },
+    {
+      "entry": 1958,
+      "catalogKey": "common-builtin_assets_prefabs_common_sharedeffects_1379a2beb529e944f5a573f25e24059d.bundle",
+      "member": "assets/aa/Android/3.61.0/common-builtin_assets_prefabs_common_sharedeffects_1379a2beb529e944f5a573f25e24059d.bundle",
+      "bytes": 29457,
+      "sha256": "39dc87aa1227b39d643e54cf638be59d5b9415b27deea35f80ec5585dbda0dc5",
+      "extracted": "reference/recovered-environment/bundles/common-builtin_assets_prefabs_common_sharedeffects_1379a2beb529e944f5a573f25e24059d.bundle"
+    },
+    {
+      "entry": 1961,
+      "catalogKey": "common-builtin_assets_shaders_common_ec40d705d2bfabd826f279f5c7121582.bundle",
+      "member": "assets/aa/Android/3.61.0/common-builtin_assets_shaders_common_ec40d705d2bfabd826f279f5c7121582.bundle",
+      "bytes": 303500,
+      "sha256": "311a84c4d881f6929341b54e1218449337e6c9f3c4d8c90cb01b1e72fdd0f846",
+      "extracted": "reference/recovered-environment/bundles/common-builtin_assets_shaders_common_ec40d705d2bfabd826f279f5c7121582.bundle"
+    },
+    {
+      "entry": 1962,
+      "catalogKey": "common-builtin_assets_shared_reward_animations_24913f17f13928a023cfddda598741ca.bundle",
+      "member": "assets/aa/Android/3.61.0/common-builtin_assets_shared_reward_animations_24913f17f13928a023cfddda598741ca.bundle",
+      "bytes": 11465,
+      "sha256": "b2219406ca393e57ef9f967e8b799b852062b48a9144479a5979b2e59915158c",
+      "extracted": "reference/recovered-environment/bundles/common-builtin_assets_shared_reward_animations_24913f17f13928a023cfddda598741ca.bundle"
+    },
+    {
+      "entry": 1964,
+      "catalogKey": "common-builtin_assets_textures_common_6df5d29d5aa9a19f294c901f1139eab8.bundle",
+      "member": "assets/aa/Android/3.61.0/common-builtin_assets_textures_common_6df5d29d5aa9a19f294c901f1139eab8.bundle",
+      "bytes": 206906,
+      "sha256": "0021b79e48b3d7a49ee5af220a4312874b1325aaeb00a7c18d1408c7da003b00",
+      "extracted": "reference/recovered-environment/bundles/common-builtin_assets_textures_common_6df5d29d5aa9a19f294c901f1139eab8.bundle"
+    },
+    {
+      "entry": 1965,
+      "catalogKey": "common-builtin_assets_textures_effects_common_6a83533561c2e0113aecc611daccea50.bundle",
+      "member": "assets/aa/Android/3.61.0/common-builtin_assets_textures_effects_common_6a83533561c2e0113aecc611daccea50.bundle",
+      "bytes": 28437,
+      "sha256": "3645eaf19801c5244139c5fdbae1306835da124f9ba01c8781168d6d5337a86f",
+      "extracted": "reference/recovered-environment/bundles/common-builtin_assets_textures_effects_common_6a83533561c2e0113aecc611daccea50.bundle"
+    },
+    {
+      "entry": 1966,
+      "catalogKey": "common-builtin_assets_theme_common_character_catch_ec2cc323949201fede44cf7d22e5a038.bundle",
+      "member": "assets/aa/Android/3.61.0/common-builtin_assets_theme_common_character_catch_ec2cc323949201fede44cf7d22e5a038.bundle",
+      "bytes": 186123,
+      "sha256": "9258d2da6588c4b5ceeb9978725cdf4e9b262126a120c7f29166564e68badb47",
+      "extracted": "reference/recovered-environment/bundles/common-builtin_assets_theme_common_character_catch_ec2cc323949201fede44cf7d22e5a038.bundle"
+    },
+    {
+      "entry": 1967,
+      "catalogKey": "common-builtin_assets_theme_common_coin_flash_material_63c9bf7537d663dc8bdfab55dd9e5638.bundle",
+      "member": "assets/aa/Android/3.61.0/common-builtin_assets_theme_common_coin_flash_material_63c9bf7537d663dc8bdfab55dd9e5638.bundle",
+      "bytes": 2765,
+      "sha256": "7b0d7a7bb18547a99df3195d3e94766386b7c62f831d5eb3ea115c29e1a0672e",
+      "extracted": "reference/recovered-environment/bundles/common-builtin_assets_theme_common_coin_flash_material_63c9bf7537d663dc8bdfab55dd9e5638.bundle"
+    },
+    {
+      "entry": 1968,
+      "catalogKey": "common-builtin_assets_themes_common_models_5b98cee797b59a9b6f164dd48bfb9465.bundle",
+      "member": "assets/aa/Android/3.61.0/common-builtin_assets_themes_common_models_5b98cee797b59a9b6f164dd48bfb9465.bundle",
+      "bytes": 93286,
+      "sha256": "c19f8e42027f7671f9d1e3a8e4e3da89beafb83703843d2d9274d1fdc82e731e",
+      "extracted": "reference/recovered-environment/bundles/common-builtin_assets_themes_common_models_5b98cee797b59a9b6f164dd48bfb9465.bundle"
+    },
+    {
+      "entry": 1969,
+      "catalogKey": "common-builtin_assets_themes_common_prefabs_f5b647eb70f12c731d8b5d8161b511a4.bundle",
+      "member": "assets/aa/Android/3.61.0/common-builtin_assets_themes_common_prefabs_f5b647eb70f12c731d8b5d8161b511a4.bundle",
+      "bytes": 43904,
+      "sha256": "4a9d85e1454dc03ae0c9e1763973f42188653bc3e3ac6ef9754053748a679431",
+      "extracted": "reference/recovered-environment/bundles/common-builtin_assets_themes_common_prefabs_f5b647eb70f12c731d8b5d8161b511a4.bundle"
+    },
+    {
+      "entry": 1970,
+      "catalogKey": "common-builtin_assets_themes_common_shared_49439d423114c6a01d5b1738245ba781.bundle",
+      "member": "assets/aa/Android/3.61.0/common-builtin_assets_themes_common_shared_49439d423114c6a01d5b1738245ba781.bundle",
+      "bytes": 115059,
+      "sha256": "23837201df69571c889c48d064f024be0419f9f9639f8aed1d830c57fe0f2705",
+      "extracted": "reference/recovered-environment/bundles/common-builtin_assets_themes_common_shared_49439d423114c6a01d5b1738245ba781.bundle"
+    },
+    {
+      "entry": 1971,
+      "catalogKey": "common-builtin_assets_themes_common_shared_effects_2a2f4986cfbd95b68b40f75e2673e2b3.bundle",
+      "member": "assets/aa/Android/3.61.0/common-builtin_assets_themes_common_shared_effects_2a2f4986cfbd95b68b40f75e2673e2b3.bundle",
+      "bytes": 14549,
+      "sha256": "ca0e782eb3ba302bbadea88c8d18e5cf6ee6f3f8807f55cba254c0be33a93a0b",
+      "extracted": "reference/recovered-environment/bundles/common-builtin_assets_themes_common_shared_effects_2a2f4986cfbd95b68b40f75e2673e2b3.bundle"
+    },
+    {
+      "entry": 1972,
+      "catalogKey": "common-builtin_assets_themes_common_shared_extra_6dabfd797886ca1397bb1e745112235b.bundle",
+      "member": "assets/aa/Android/3.61.0/common-builtin_assets_themes_common_shared_extra_6dabfd797886ca1397bb1e745112235b.bundle",
+      "bytes": 11221,
+      "sha256": "25d04df20a1736e4d69b9a249ec993bac51368c28ef3519f8e4c15ebfdb1d180",
+      "extracted": "reference/recovered-environment/bundles/common-builtin_assets_themes_common_shared_extra_6dabfd797886ca1397bb1e745112235b.bundle"
+    },
+    {
+      "entry": 1973,
+      "catalogKey": "common-builtin_assets_themes_common_theme_bd5184c60a26da42184e32ade897886a.bundle",
+      "member": "assets/aa/Android/3.61.0/common-builtin_assets_themes_common_theme_bd5184c60a26da42184e32ade897886a.bundle",
+      "bytes": 2982,
+      "sha256": "aaad88a70b6445a0501a8d96b8119d4212e1fc5ffea520b909e9cd2eaffa603f",
+      "extracted": "reference/recovered-environment/bundles/common-builtin_assets_themes_common_theme_bd5184c60a26da42184e32ade897886a.bundle"
+    },
+    {
+      "entry": 1974,
+      "catalogKey": "common-builtin_assets_ui_animations_f99bef099e8ab8ee7353ae8a85fa0c22.bundle",
+      "member": "assets/aa/Android/3.61.0/common-builtin_assets_ui_animations_f99bef099e8ab8ee7353ae8a85fa0c22.bundle",
+      "bytes": 295882,
+      "sha256": "c3e3741135b5414eadcf5238c7c2b8e80d54dbb2787596c541bfdccb9cd68676",
+      "extracted": "reference/recovered-environment/bundles/common-builtin_assets_ui_animations_f99bef099e8ab8ee7353ae8a85fa0c22.bundle"
+    },
+    {
+      "entry": 1975,
+      "catalogKey": "common-builtin_assets_ui_common_animations_59b2f1354947b8947ec92419080f5b68.bundle",
+      "member": "assets/aa/Android/3.61.0/common-builtin_assets_ui_common_animations_59b2f1354947b8947ec92419080f5b68.bundle",
+      "bytes": 15080,
+      "sha256": "8c3596faa4e7839896a4539b1248f906fdd5b39764e4badb4f321fd3ff563413",
+      "extracted": "reference/recovered-environment/bundles/common-builtin_assets_ui_common_animations_59b2f1354947b8947ec92419080f5b68.bundle"
+    },
+    {
+      "entry": 1977,
+      "catalogKey": "common-builtin_assets_ui_common_materials_c8fdf900103ab943a858ba65191c54a7.bundle",
+      "member": "assets/aa/Android/3.61.0/common-builtin_assets_ui_common_materials_c8fdf900103ab943a858ba65191c54a7.bundle",
+      "bytes": 3849,
+      "sha256": "fd295e3b0e8604ca0ce0fe437fccc576e0d000038c5b764873934789fc529069",
+      "extracted": "reference/recovered-environment/bundles/common-builtin_assets_ui_common_materials_c8fdf900103ab943a858ba65191c54a7.bundle"
+    },
+    {
+      "entry": 1978,
+      "catalogKey": "common-builtin_assets_ui_common_models_f37a447ee7375bd404463ba73d89d496.bundle",
+      "member": "assets/aa/Android/3.61.0/common-builtin_assets_ui_common_models_f37a447ee7375bd404463ba73d89d496.bundle",
+      "bytes": 51100,
+      "sha256": "5623eeacf6ed37fc542d94fa91ecdf02b55de18d1b4e82d3e692a12fda99ddc8",
+      "extracted": "reference/recovered-environment/bundles/common-builtin_assets_ui_common_models_f37a447ee7375bd404463ba73d89d496.bundle"
+    },
+    {
+      "entry": 1980,
+      "catalogKey": "common-builtin_assets_ui_common_textures_e42b1807d8ac098ee2b7743c0d94c06a.bundle",
+      "member": "assets/aa/Android/3.61.0/common-builtin_assets_ui_common_textures_e42b1807d8ac098ee2b7743c0d94c06a.bundle",
+      "bytes": 38934,
+      "sha256": "7c28f1247f9efec3fea0434de7b29eb357599afae77329a7cc98a7c625914d2c",
+      "extracted": "reference/recovered-environment/bundles/common-builtin_assets_ui_common_textures_e42b1807d8ac098ee2b7743c0d94c06a.bundle"
+    },
+    {
+      "entry": 1981,
+      "catalogKey": "common-builtin_assets_ui_common_thumbnails_4f7e2c72dc29bc8cbda6e899ef6fd139.bundle",
+      "member": "assets/aa/Android/3.61.0/common-builtin_assets_ui_common_thumbnails_4f7e2c72dc29bc8cbda6e899ef6fd139.bundle",
+      "bytes": 34956,
+      "sha256": "7b44ffaa8072c8e37126bdfbea2d66ea4cff2a4cb3e4975ad70ee05ce882ad4b",
+      "extracted": "reference/recovered-environment/bundles/common-builtin_assets_ui_common_thumbnails_4f7e2c72dc29bc8cbda6e899ef6fd139.bundle"
+    },
+    {
+      "entry": 1982,
+      "catalogKey": "common-builtin_assets_ui_common_thumbnails_renderers_43defa518ab146a66115ce9556e6ccc6.bundle",
+      "member": "assets/aa/Android/3.61.0/common-builtin_assets_ui_common_thumbnails_renderers_43defa518ab146a66115ce9556e6ccc6.bundle",
+      "bytes": 5915,
+      "sha256": "a4e9c335fe2e575d938efe0b455fe35f7971c74885adda47d70efa6a8ffa900d",
+      "extracted": "reference/recovered-environment/bundles/common-builtin_assets_ui_common_thumbnails_renderers_43defa518ab146a66115ce9556e6ccc6.bundle"
+    },
+    {
+      "entry": 1983,
+      "catalogKey": "common-builtin_assets_ui_common_thumbnails_visuals_dbf3d0272e40a551347d46e35c5fad57.bundle",
+      "member": "assets/aa/Android/3.61.0/common-builtin_assets_ui_common_thumbnails_visuals_dbf3d0272e40a551347d46e35c5fad57.bundle",
+      "bytes": 20269,
+      "sha256": "f6cde9ec0d7a09f818ac97b347a5b2f54b3bf0b69d4dd0fbd6947b5fc049d00c",
+      "extracted": "reference/recovered-environment/bundles/common-builtin_assets_ui_common_thumbnails_visuals_dbf3d0272e40a551347d46e35c5fad57.bundle"
+    },
+    {
+      "entry": 2155,
+      "catalogKey": "fonts-builtin_assets_text_icons_c2f80eccdbcf41ce60e530e2c7c93936.bundle",
+      "member": "assets/aa/Android/3.61.0/fonts-builtin_assets_text_icons_c2f80eccdbcf41ce60e530e2c7c93936.bundle",
+      "bytes": 89695,
+      "sha256": "11babcba3922bbf105ade1fd1a9c9ab767afeba18d24524df852ca22a235c6c9",
+      "extracted": "reference/recovered-environment/bundles/fonts-builtin_assets_text_icons_c2f80eccdbcf41ce60e530e2c7c93936.bundle"
+    },
+    {
+      "entry": 2158,
+      "catalogKey": "fonts-builtin_assets_tmp_lilita_one_bundle_203b4a6b3d1d3c207f4bab8cdf693adb.bundle",
+      "member": "assets/aa/Android/3.61.0/fonts-builtin_assets_tmp_lilita_one_bundle_203b4a6b3d1d3c207f4bab8cdf693adb.bundle",
+      "bytes": 4966,
+      "sha256": "5e8106fd1177a4fdb0cfac5569060b12c108479ea7505de96cf82109d50f7e43",
+      "extracted": "reference/recovered-environment/bundles/fonts-builtin_assets_tmp_lilita_one_bundle_203b4a6b3d1d3c207f4bab8cdf693adb.bundle"
+    },
+    {
+      "entry": 2159,
+      "catalogKey": "fonts-builtin_assets_tmp_lilita_one_regular_c3e5143f3d22e0d3c470483c9ccde7fe.bundle",
+      "member": "assets/aa/Android/3.61.0/fonts-builtin_assets_tmp_lilita_one_regular_c3e5143f3d22e0d3c470483c9ccde7fe.bundle",
+      "bytes": 377548,
+      "sha256": "ca6f1c30d7c95cc99e05ff9c26b55d8aeb08717c17ef0d1304d946ada22af542",
+      "extracted": "reference/recovered-environment/bundles/fonts-builtin_assets_tmp_lilita_one_regular_c3e5143f3d22e0d3c470483c9ccde7fe.bundle"
+    },
+    {
+      "entry": 2160,
+      "catalogKey": "fonts-builtin_assets_tmp_titan_one_bundle_d15037d4f620ad8a295675a297d8f42a.bundle",
+      "member": "assets/aa/Android/3.61.0/fonts-builtin_assets_tmp_titan_one_bundle_d15037d4f620ad8a295675a297d8f42a.bundle",
+      "bytes": 3431,
+      "sha256": "d7e611a586a3cbc33c68ba8b3ff81a65d27b84469ff309d810902a938a761f46",
+      "extracted": "reference/recovered-environment/bundles/fonts-builtin_assets_tmp_titan_one_bundle_d15037d4f620ad8a295675a297d8f42a.bundle"
+    },
+    {
+      "entry": 2161,
+      "catalogKey": "fonts-builtin_assets_tmp_titan_one_regular_454abe5bfc27affa8c79ae8135b3dfb5.bundle",
+      "member": "assets/aa/Android/3.61.0/fonts-builtin_assets_tmp_titan_one_regular_454abe5bfc27affa8c79ae8135b3dfb5.bundle",
+      "bytes": 401389,
+      "sha256": "6f816210258a16ea6e698d3e0f2f9a0e961614788209cbced2d8f220e8b14cad",
+      "extracted": "reference/recovered-environment/bundles/fonts-builtin_assets_tmp_titan_one_regular_454abe5bfc27affa8c79ae8135b3dfb5.bundle"
+    },
+    {
+      "entry": 2167,
+      "catalogKey": "gamemodes-builtin_assets_chaser_guard_and_dog_a9df844df105198fa0ed9fecc0943cdc.bundle",
+      "member": "assets/aa/Android/3.61.0/gamemodes-builtin_assets_chaser_guard_and_dog_a9df844df105198fa0ed9fecc0943cdc.bundle",
+      "bytes": 486885,
+      "sha256": "8efb1b68ae0a586229ea85fedff4a14ba16e896fcf336b3de42ed0f8ee93a8a3",
+      "extracted": "reference/recovered-environment/bundles/gamemodes-builtin_assets_chaser_guard_and_dog_a9df844df105198fa0ed9fecc0943cdc.bundle"
+    },
+    {
+      "entry": 2168,
+      "catalogKey": "gamemodes-builtin_assets_chaser_shared_709671fca7d0bea690991d64e729d1fd.bundle",
+      "member": "assets/aa/Android/3.61.0/gamemodes-builtin_assets_chaser_shared_709671fca7d0bea690991d64e729d1fd.bundle",
+      "bytes": 17818,
+      "sha256": "024886a5c69b07bed2c6ecd923b3b28aa3808e1ef1a15a6853976de1fed025c5",
+      "extracted": "reference/recovered-environment/bundles/gamemodes-builtin_assets_chaser_shared_709671fca7d0bea690991d64e729d1fd.bundle"
+    },
+    {
+      "entry": 2172,
+      "catalogKey": "gamemodes-builtin_assets_core_game_config_core_camera_0f9a9f4525999815891e11b415e263c5.bundle",
+      "member": "assets/aa/Android/3.61.0/gamemodes-builtin_assets_core_game_config_core_camera_0f9a9f4525999815891e11b415e263c5.bundle",
+      "bytes": 5366,
+      "sha256": "e67b2d3422d69abca61a3957ab95f45e8b4b45f2ac53b91a08d8d2786f3c195c",
+      "extracted": "reference/recovered-environment/bundles/gamemodes-builtin_assets_core_game_config_core_camera_0f9a9f4525999815891e11b415e263c5.bundle"
+    },
+    {
+      "entry": 2173,
+      "catalogKey": "gamemodes-builtin_assets_core_game_config_core_character_d2f4c8a5aa870313b7a6a11de9525507.bundle",
+      "member": "assets/aa/Android/3.61.0/gamemodes-builtin_assets_core_game_config_core_character_d2f4c8a5aa870313b7a6a11de9525507.bundle",
+      "bytes": 76144,
+      "sha256": "b70c6ecc648dffb77df627a3dbb72290de0332786d37848b7d31b0d72d22e31e",
+      "extracted": "reference/recovered-environment/bundles/gamemodes-builtin_assets_core_game_config_core_character_d2f4c8a5aa870313b7a6a11de9525507.bundle"
+    },
+    {
+      "entry": 2174,
+      "catalogKey": "gamemodes-builtin_assets_core_game_config_core_entities_d249ad6e4efa2674d09e0760b6813ae9.bundle",
+      "member": "assets/aa/Android/3.61.0/gamemodes-builtin_assets_core_game_config_core_entities_d249ad6e4efa2674d09e0760b6813ae9.bundle",
+      "bytes": 2612,
+      "sha256": "50861373e1193f705f95024d859125f9c1d1f8ca12de0226fdff4ec514912df7",
+      "extracted": "reference/recovered-environment/bundles/gamemodes-builtin_assets_core_game_config_core_entities_d249ad6e4efa2674d09e0760b6813ae9.bundle"
+    },
+    {
+      "entry": 2175,
+      "catalogKey": "gamemodes-builtin_assets_core_game_config_core_stumble_7e171230b4f5aab9583f7e07b32db349.bundle",
+      "member": "assets/aa/Android/3.61.0/gamemodes-builtin_assets_core_game_config_core_stumble_7e171230b4f5aab9583f7e07b32db349.bundle",
+      "bytes": 2036,
+      "sha256": "72caaa3329e1b379a228cdd0924e5d9fbdc656d7cf14d628579278d4cf763241",
+      "extracted": "reference/recovered-environment/bundles/gamemodes-builtin_assets_core_game_config_core_stumble_7e171230b4f5aab9583f7e07b32db349.bundle"
+    },
+    {
+      "entry": 2176,
+      "catalogKey": "gamemodes-builtin_assets_core_game_config_curves_26e32e17009d2b61d05f2990ed97ac19.bundle",
+      "member": "assets/aa/Android/3.61.0/gamemodes-builtin_assets_core_game_config_curves_26e32e17009d2b61d05f2990ed97ac19.bundle",
+      "bytes": 2109,
+      "sha256": "cd07061f6d410c91fe7f57f7c181097dfccb0b69db5566dd4455d3bd017e8b66",
+      "extracted": "reference/recovered-environment/bundles/gamemodes-builtin_assets_core_game_config_curves_26e32e17009d2b61d05f2990ed97ac19.bundle"
+    },
+    {
+      "entry": 2177,
+      "catalogKey": "gamemodes-builtin_assets_core_game_config_death_1bf2ff438274f2922fe7fd2913afb838.bundle",
+      "member": "assets/aa/Android/3.61.0/gamemodes-builtin_assets_core_game_config_death_1bf2ff438274f2922fe7fd2913afb838.bundle",
+      "bytes": 1624,
+      "sha256": "4e4f6e5a89083c964dcb6a97dc64a4fa93d66df3ea6de0b39ac95390741de8a9",
+      "extracted": "reference/recovered-environment/bundles/gamemodes-builtin_assets_core_game_config_death_1bf2ff438274f2922fe7fd2913afb838.bundle"
+    },
+    {
+      "entry": 2178,
+      "catalogKey": "gamemodes-builtin_assets_core_game_config_spawners_coins_52d30761c688409570db4f72fece8393.bundle",
+      "member": "assets/aa/Android/3.61.0/gamemodes-builtin_assets_core_game_config_spawners_coins_52d30761c688409570db4f72fece8393.bundle",
+      "bytes": 2522,
+      "sha256": "79ddc784b57d71da7159a975ee3f63ea3795d2efa153c1b8394fce20ede8303b",
+      "extracted": "reference/recovered-environment/bundles/gamemodes-builtin_assets_core_game_config_spawners_coins_52d30761c688409570db4f72fece8393.bundle"
+    },
+    {
+      "entry": 2179,
+      "catalogKey": "gamemodes-builtin_assets_core_game_config_spawners_pickups_76d06936ac6e0b320ed636043c3d7eeb.bundle",
+      "member": "assets/aa/Android/3.61.0/gamemodes-builtin_assets_core_game_config_spawners_pickups_76d06936ac6e0b320ed636043c3d7eeb.bundle",
+      "bytes": 3627,
+      "sha256": "4088f417ae3f4cccde9fe836e68cd256cf11ba7747c7662b3ae9d38a1ef1ece6",
+      "extracted": "reference/recovered-environment/bundles/gamemodes-builtin_assets_core_game_config_spawners_pickups_76d06936ac6e0b320ed636043c3d7eeb.bundle"
+    },
+    {
+      "entry": 2180,
+      "catalogKey": "gamemodes-builtin_assets_core_route_config_blocks_fe7a992b4510313e63bca30f474dac62.bundle",
+      "member": "assets/aa/Android/3.61.0/gamemodes-builtin_assets_core_route_config_blocks_fe7a992b4510313e63bca30f474dac62.bundle",
+      "bytes": 23742,
+      "sha256": "cfbdd742fa71a40113475121b2fde46104442dbdf99e92961b66ec1f798ab71b",
+      "extracted": "reference/recovered-environment/bundles/gamemodes-builtin_assets_core_route_config_blocks_fe7a992b4510313e63bca30f474dac62.bundle"
+    },
+    {
+      "entry": 2181,
+      "catalogKey": "gamemodes-builtin_assets_core_route_config_chunks_0244cf0df470d4c2f5a982605d6994e7.bundle",
+      "member": "assets/aa/Android/3.61.0/gamemodes-builtin_assets_core_route_config_chunks_0244cf0df470d4c2f5a982605d6994e7.bundle",
+      "bytes": 748338,
+      "sha256": "f95ecf2ffddc9f2d3d469c839792c956c71565e4e299eec2ebeb145c0532266f",
+      "extracted": "reference/recovered-environment/bundles/gamemodes-builtin_assets_core_route_config_chunks_0244cf0df470d4c2f5a982605d6994e7.bundle"
+    },
+    {
+      "entry": 2182,
+      "catalogKey": "gamemodes-builtin_assets_core_route_config_sections_3ebafaaef9c137836d8eeca2fd15a206.bundle",
+      "member": "assets/aa/Android/3.61.0/gamemodes-builtin_assets_core_route_config_sections_3ebafaaef9c137836d8eeca2fd15a206.bundle",
+      "bytes": 5551,
+      "sha256": "a48c24bb55fa0700a3b4671573ee6a4a0295a0cb79601820bd8625749e6e5752",
+      "extracted": "reference/recovered-environment/bundles/gamemodes-builtin_assets_core_route_config_sections_3ebafaaef9c137836d8eeca2fd15a206.bundle"
+    },
+    {
+      "entry": 2193,
+      "catalogKey": "gamemodes-builtin_assets_game_config_abilities_race_00d3d8a27684bfa63e92ee3a63f9f5f9.bundle",
+      "member": "assets/aa/Android/3.61.0/gamemodes-builtin_assets_game_config_abilities_race_00d3d8a27684bfa63e92ee3a63f9f5f9.bundle",
+      "bytes": 2521,
+      "sha256": "dc623c8a8f02655e461594f7775e941e0aaee3e03bef70fe57bb1d13363878a4",
+      "extracted": "reference/recovered-environment/bundles/gamemodes-builtin_assets_game_config_abilities_race_00d3d8a27684bfa63e92ee3a63f9f5f9.bundle"
+    },
+    {
+      "entry": 2194,
+      "catalogKey": "gamemodes-builtin_assets_game_config_powers_main_899c2457fc3f50772508c1e9aa92b774.bundle",
+      "member": "assets/aa/Android/3.61.0/gamemodes-builtin_assets_game_config_powers_main_899c2457fc3f50772508c1e9aa92b774.bundle",
+      "bytes": 33875,
+      "sha256": "d2d9a753eb2f941505915806eff83d569ff2cfdfa6372dcf3cdaf1167edb59b4",
+      "extracted": "reference/recovered-environment/bundles/gamemodes-builtin_assets_game_config_powers_main_899c2457fc3f50772508c1e9aa92b774.bundle"
+    },
+    {
+      "entry": 2199,
+      "catalogKey": "gamemodes-builtin_assets_icon_hurdle_682b905ff745f26e18aae2cf2073c377.bundle",
+      "member": "assets/aa/Android/3.61.0/gamemodes-builtin_assets_icon_hurdle_682b905ff745f26e18aae2cf2073c377.bundle",
+      "bytes": 14686,
+      "sha256": "90d8ddddd3a6e3f217abe8c564ffb57e050b77b01948222da9536ff0b62101a7",
+      "extracted": "reference/recovered-environment/bundles/gamemodes-builtin_assets_icon_hurdle_682b905ff745f26e18aae2cf2073c377.bundle"
+    },
+    {
+      "entry": 2237,
+      "catalogKey": "gamemodes-builtin_assets_race_powerups_shared_38f2daf6e090d2b61f8cc57e4500a692.bundle",
+      "member": "assets/aa/Android/3.61.0/gamemodes-builtin_assets_race_powerups_shared_38f2daf6e090d2b61f8cc57e4500a692.bundle",
+      "bytes": 277363,
+      "sha256": "eed581f21f14cf22fec86ff2f8efe29305f9e7534c0edcaca6a8ab5271369f49",
+      "extracted": "reference/recovered-environment/bundles/gamemodes-builtin_assets_race_powerups_shared_38f2daf6e090d2b61f8cc57e4500a692.bundle"
+    },
+    {
+      "entry": 2240,
+      "catalogKey": "gamemodes-builtin_assets_race_shared_power_events_59826d7d17ee48868b517a6a15c40ba3.bundle",
+      "member": "assets/aa/Android/3.61.0/gamemodes-builtin_assets_race_shared_power_events_59826d7d17ee48868b517a6a15c40ba3.bundle",
+      "bytes": 3024,
+      "sha256": "1fbe604c17c926e559d12efb54cdf082e0560cef877d15193b73df2bf416695b",
+      "extracted": "reference/recovered-environment/bundles/gamemodes-builtin_assets_race_shared_power_events_59826d7d17ee48868b517a6a15c40ba3.bundle"
+    },
+    {
+      "entry": 2254,
+      "catalogKey": "gamemodes-builtin_assets_themes_common_configs_boundaries_f2d597cf660d06b9fe6ce006c5494722.bundle",
+      "member": "assets/aa/Android/3.61.0/gamemodes-builtin_assets_themes_common_configs_boundaries_f2d597cf660d06b9fe6ce006c5494722.bundle",
+      "bytes": 2942,
+      "sha256": "65d401ade66cf24969b4840ebfc0931056f1bbb49ba20bd16cb012994b45fd81",
+      "extracted": "reference/recovered-environment/bundles/gamemodes-builtin_assets_themes_common_configs_boundaries_f2d597cf660d06b9fe6ce006c5494722.bundle"
+    },
+    {
+      "entry": 2255,
+      "catalogKey": "gamemodes-builtin_assets_themes_common_configs_obstacles_8d75774b08cb5b457855aca63f79981f.bundle",
+      "member": "assets/aa/Android/3.61.0/gamemodes-builtin_assets_themes_common_configs_obstacles_8d75774b08cb5b457855aca63f79981f.bundle",
+      "bytes": 1808,
+      "sha256": "56f47dd1499d87dcaa667db418641ff69b5d42a92d92bcd6a923010a1c2c5bbd",
+      "extracted": "reference/recovered-environment/bundles/gamemodes-builtin_assets_themes_common_configs_obstacles_8d75774b08cb5b457855aca63f79981f.bundle"
+    },
+    {
+      "entry": 2256,
+      "catalogKey": "gamemodes-builtin_assets_themes_common_configs_props_c8c168f1cc6f60a0095fc310ffbc719e.bundle",
+      "member": "assets/aa/Android/3.61.0/gamemodes-builtin_assets_themes_common_configs_props_c8c168f1cc6f60a0095fc310ffbc719e.bundle",
+      "bytes": 1376,
+      "sha256": "a598c75814a5106e8987feca38655fd80cc450dc5400fc470107ff33648f43b1",
+      "extracted": "reference/recovered-environment/bundles/gamemodes-builtin_assets_themes_common_configs_props_c8c168f1cc6f60a0095fc310ffbc719e.bundle"
+    },
+    {
+      "entry": 2257,
+      "catalogKey": "gamemodes-builtin_assets_themes_common_configs_specials_9e86ac4858d65f0de320aa060aa21a3d.bundle",
+      "member": "assets/aa/Android/3.61.0/gamemodes-builtin_assets_themes_common_configs_specials_9e86ac4858d65f0de320aa060aa21a3d.bundle",
+      "bytes": 1584,
+      "sha256": "62d5246852c4389f12e4732ff8c426c696ac15f0330825e5b0e795f9fe0d0a7c",
+      "extracted": "reference/recovered-environment/bundles/gamemodes-builtin_assets_themes_common_configs_specials_9e86ac4858d65f0de320aa060aa21a3d.bundle"
+    },
+    {
+      "entry": 2258,
+      "catalogKey": "gamemodes-builtin_assets_themes_common_configs_tracks_99cb2f7b33d40b98ef6933818c8f776e.bundle",
+      "member": "assets/aa/Android/3.61.0/gamemodes-builtin_assets_themes_common_configs_tracks_99cb2f7b33d40b98ef6933818c8f776e.bundle",
+      "bytes": 1468,
+      "sha256": "2f73fb197f11d15331e323181231d7f6f5b5d3b03e8092b06b486229132274d4",
+      "extracted": "reference/recovered-environment/bundles/gamemodes-builtin_assets_themes_common_configs_tracks_99cb2f7b33d40b98ef6933818c8f776e.bundle"
+    },
+    {
+      "entry": 2259,
+      "catalogKey": "gamemodes-builtin_assets_themes_common_configs_train_blinker_8097936dec59c502f2ca8692ac87c5bf.bundle",
+      "member": "assets/aa/Android/3.61.0/gamemodes-builtin_assets_themes_common_configs_train_blinker_8097936dec59c502f2ca8692ac87c5bf.bundle",
+      "bytes": 1756,
+      "sha256": "1b18c67c51776b069aec5d107110e80392530f7b72db959a6a8a04562620756c",
+      "extracted": "reference/recovered-environment/bundles/gamemodes-builtin_assets_themes_common_configs_train_blinker_8097936dec59c502f2ca8692ac87c5bf.bundle"
+    },
+    {
+      "entry": 2260,
+      "catalogKey": "gamemodes-builtin_assets_themes_common_configs_trains_c405281a08ab7cd31c66d8e271ddb272.bundle",
+      "member": "assets/aa/Android/3.61.0/gamemodes-builtin_assets_themes_common_configs_trains_c405281a08ab7cd31c66d8e271ddb272.bundle",
+      "bytes": 1770,
+      "sha256": "8b853b3c7c09ac8dc8a335f5d69625722235188082d69753521cde500d96994e",
+      "extracted": "reference/recovered-environment/bundles/gamemodes-builtin_assets_themes_common_configs_trains_c405281a08ab7cd31c66d8e271ddb272.bundle"
+    },
+    {
+      "entry": 2493,
+      "catalogKey": "promotionicons-builtin_assets_icon_token_multiplier_e1d2e28d2c1f739bc519ce55190bd44f.bundle",
+      "member": "assets/aa/Android/3.61.0/promotionicons-builtin_assets_icon_token_multiplier_e1d2e28d2c1f739bc519ce55190bd44f.bundle",
+      "bytes": 12542,
+      "sha256": "f7bd5f2a73445db4e172dc449474773b2b76ec14da52d33518860fe82df2e100",
+      "extracted": "reference/recovered-environment/bundles/promotionicons-builtin_assets_icon_token_multiplier_e1d2e28d2c1f739bc519ce55190bd44f.bundle"
+    },
+    {
+      "entry": 2521,
+      "catalogKey": "scenes-builtin_assets_default_light_settings_85488284efddb3670513b944d4dbc93c.bundle",
+      "member": "assets/aa/Android/3.61.0/scenes-builtin_assets_default_light_settings_85488284efddb3670513b944d4dbc93c.bundle",
+      "bytes": 1372,
+      "sha256": "8d50dd9a4d606b4e06ba3128929548bfeef5c76e6659493b60a3baa36d193d32",
+      "extracted": "reference/recovered-environment/bundles/scenes-builtin_assets_default_light_settings_85488284efddb3670513b944d4dbc93c.bundle"
+    },
+    {
+      "entry": 2524,
+      "catalogKey": "scenes-builtin_scenes_mainrunner_4a8323cf0112f55d2a3e964eb7135c17.bundle",
+      "member": "assets/aa/Android/3.61.0/scenes-builtin_scenes_mainrunner_4a8323cf0112f55d2a3e964eb7135c17.bundle",
+      "bytes": 105990,
+      "sha256": "26d45721cf20fd0c0ccf1afb9e447f789bf666ac9306088f5575605e7ed28e81",
+      "extracted": "reference/recovered-environment/bundles/scenes-builtin_scenes_mainrunner_4a8323cf0112f55d2a3e964eb7135c17.bundle"
+    },
+    {
+      "entry": 2526,
+      "catalogKey": "scenes-builtin_scenes_sharedscene_7c8d72509a411ca9880b55a4adfc75cb.bundle",
+      "member": "assets/aa/Android/3.61.0/scenes-builtin_scenes_sharedscene_7c8d72509a411ca9880b55a4adfc75cb.bundle",
+      "bytes": 335624,
+      "sha256": "d64f5301d772cbd84cf0cbbb7c250fa2ed764d9987e1a6d463b59f36f505cbdb",
+      "extracted": "reference/recovered-environment/bundles/scenes-builtin_scenes_sharedscene_7c8d72509a411ca9880b55a4adfc75cb.bundle"
+    },
+    {
+      "entry": 2559,
+      "catalogKey": "shopicons-builtin_assets_default_inbox_icon_d52a9fa9fd84e989b6010b4966b44de8.bundle",
+      "member": "assets/aa/Android/3.61.0/shopicons-builtin_assets_default_inbox_icon_d52a9fa9fd84e989b6010b4966b44de8.bundle",
+      "bytes": 17626,
+      "sha256": "9fb3b779be5ed3c4b8ea2207da7d1442716540a65a4fd841397d324f0a55104d",
+      "extracted": "reference/recovered-environment/bundles/shopicons-builtin_assets_default_inbox_icon_d52a9fa9fd84e989b6010b4966b44de8.bundle"
+    },
+    {
+      "entry": 2562,
+      "catalogKey": "shopicons-builtin_assets_flying_event_coin_blue_73b70dda5f7646945bb6a097d2877a0e.bundle",
+      "member": "assets/aa/Android/3.61.0/shopicons-builtin_assets_flying_event_coin_blue_73b70dda5f7646945bb6a097d2877a0e.bundle",
+      "bytes": 8162,
+      "sha256": "5b1ecec38955f0ab1e2577c38d0419c692f48d1b04d77570a8fd5ab0c8edd698",
+      "extracted": "reference/recovered-environment/bundles/shopicons-builtin_assets_flying_event_coin_blue_73b70dda5f7646945bb6a097d2877a0e.bundle"
+    },
+    {
+      "entry": 2563,
+      "catalogKey": "shopicons-builtin_assets_flying_event_coin_purple_ef92303e71a5d9f49693e2869273055c.bundle",
+      "member": "assets/aa/Android/3.61.0/shopicons-builtin_assets_flying_event_coin_purple_ef92303e71a5d9f49693e2869273055c.bundle",
+      "bytes": 4539,
+      "sha256": "2fe4175ab9b89f945105e4cb01d268eaab29cd45ee73094cc4d7cf8b686ebe44",
+      "extracted": "reference/recovered-environment/bundles/shopicons-builtin_assets_flying_event_coin_purple_ef92303e71a5d9f49693e2869273055c.bundle"
+    },
+    {
+      "entry": 2564,
+      "catalogKey": "shopicons-builtin_assets_flying_event_coin_red_a8f2067d47767402f67279138de67943.bundle",
+      "member": "assets/aa/Android/3.61.0/shopicons-builtin_assets_flying_event_coin_red_a8f2067d47767402f67279138de67943.bundle",
+      "bytes": 4545,
+      "sha256": "81d4045f63e91f8db27bb77dd2dc254199e846b953cd0321fa54f39e1ea509d2",
+      "extracted": "reference/recovered-environment/bundles/shopicons-builtin_assets_flying_event_coin_red_a8f2067d47767402f67279138de67943.bundle"
+    },
+    {
+      "entry": 2565,
+      "catalogKey": "shopicons-builtin_assets_flying_event_coin_silver_10ee59eb67f694fc91b8a0eb1df77697.bundle",
+      "member": "assets/aa/Android/3.61.0/shopicons-builtin_assets_flying_event_coin_silver_10ee59eb67f694fc91b8a0eb1df77697.bundle",
+      "bytes": 4532,
+      "sha256": "b2e3e61bbcb983c7104d5b3cd6367ce5aa99b0af9abefc10d9fa1aaecd603ac7",
+      "extracted": "reference/recovered-environment/bundles/shopicons-builtin_assets_flying_event_coin_silver_10ee59eb67f694fc91b8a0eb1df77697.bundle"
+    },
+    {
+      "entry": 2566,
+      "catalogKey": "shopicons-builtin_assets_headstart_6cb8d343c237ceca2fc51191ce78b124.bundle",
+      "member": "assets/aa/Android/3.61.0/shopicons-builtin_assets_headstart_6cb8d343c237ceca2fc51191ce78b124.bundle",
+      "bytes": 12812,
+      "sha256": "ea48b5a96c309d549844b07c7643c05111d6831ed071089df78bb7e1ded72081",
+      "extracted": "reference/recovered-environment/bundles/shopicons-builtin_assets_headstart_6cb8d343c237ceca2fc51191ce78b124.bundle"
+    },
+    {
+      "entry": 2567,
+      "catalogKey": "shopicons-builtin_assets_hoverboard_ced2c0adf72c51617d0555d430ee20e7.bundle",
+      "member": "assets/aa/Android/3.61.0/shopicons-builtin_assets_hoverboard_ced2c0adf72c51617d0555d430ee20e7.bundle",
+      "bytes": 17824,
+      "sha256": "b6154d1670f7ba14e755c055470d8ccd8d441f0d90a90ff51d4c2fdb9eeeb3a0",
+      "extracted": "reference/recovered-environment/bundles/shopicons-builtin_assets_hoverboard_ced2c0adf72c51617d0555d430ee20e7.bundle"
+    },
+    {
+      "entry": 2573,
+      "catalogKey": "shopicons-builtin_assets_icon_can_bronze_9c00685f3447a0d2c1888620da7b5015.bundle",
+      "member": "assets/aa/Android/3.61.0/shopicons-builtin_assets_icon_can_bronze_9c00685f3447a0d2c1888620da7b5015.bundle",
+      "bytes": 12141,
+      "sha256": "14088f9cb7223a4ffb3aab98590a48f984d29f813a9a95b712fcd2bad6073c16",
+      "extracted": "reference/recovered-environment/bundles/shopicons-builtin_assets_icon_can_bronze_9c00685f3447a0d2c1888620da7b5015.bundle"
+    },
+    {
+      "entry": 2574,
+      "catalogKey": "shopicons-builtin_assets_icon_can_diamond_1e058e2078401f4aa6d719931b6faadb.bundle",
+      "member": "assets/aa/Android/3.61.0/shopicons-builtin_assets_icon_can_diamond_1e058e2078401f4aa6d719931b6faadb.bundle",
+      "bytes": 12285,
+      "sha256": "2ebf9d05459a2f17367368374315ea2907a8b06be7f5d2596ed11684dd0a195d",
+      "extracted": "reference/recovered-environment/bundles/shopicons-builtin_assets_icon_can_diamond_1e058e2078401f4aa6d719931b6faadb.bundle"
+    },
+    {
+      "entry": 2575,
+      "catalogKey": "shopicons-builtin_assets_icon_can_gold_fc87c468283c8daa3e848ae216c24746.bundle",
+      "member": "assets/aa/Android/3.61.0/shopicons-builtin_assets_icon_can_gold_fc87c468283c8daa3e848ae216c24746.bundle",
+      "bytes": 11691,
+      "sha256": "7cbbee473271a726ce13cf167ce23efa2260b1e66814c70b4e1ec004b7c20e26",
+      "extracted": "reference/recovered-environment/bundles/shopicons-builtin_assets_icon_can_gold_fc87c468283c8daa3e848ae216c24746.bundle"
+    },
+    {
+      "entry": 2576,
+      "catalogKey": "shopicons-builtin_assets_icon_can_silver_860a3fbfc7d322f104cfb22800b6c4ea.bundle",
+      "member": "assets/aa/Android/3.61.0/shopicons-builtin_assets_icon_can_silver_860a3fbfc7d322f104cfb22800b6c4ea.bundle",
+      "bytes": 11238,
+      "sha256": "f718cda0f208da417a5ceff43c4fe011684e42d3eaa26c63228837ee864af397",
+      "extracted": "reference/recovered-environment/bundles/shopicons-builtin_assets_icon_can_silver_860a3fbfc7d322f104cfb22800b6c4ea.bundle"
+    },
+    {
+      "entry": 2585,
+      "catalogKey": "shopicons-builtin_assets_icon_generic_xpromo_0486aa342240a4c5db5e7c8e7f8ea1a2.bundle",
+      "member": "assets/aa/Android/3.61.0/shopicons-builtin_assets_icon_generic_xpromo_0486aa342240a4c5db5e7c8e7f8ea1a2.bundle",
+      "bytes": 8995,
+      "sha256": "6acf2651ee6443d87fd3cdbe76ae8c51386cc1f3fdaaebd5254f3757b4f18c6e",
+      "extracted": "reference/recovered-environment/bundles/shopicons-builtin_assets_icon_generic_xpromo_0486aa342240a4c5db5e7c8e7f8ea1a2.bundle"
+    },
+    {
+      "entry": 2587,
+      "catalogKey": "shopicons-builtin_assets_icon_scoremulti_booster_x_f9eb037e3ce0ce3557a61423442ac552.bundle",
+      "member": "assets/aa/Android/3.61.0/shopicons-builtin_assets_icon_scoremulti_booster_x_f9eb037e3ce0ce3557a61423442ac552.bundle",
+      "bytes": 15377,
+      "sha256": "1e499bc82fa9a287d213ab3f6fa137c2042e349225064f0ff8a8d5a4dbddfc26",
+      "extracted": "reference/recovered-environment/bundles/shopicons-builtin_assets_icon_scoremulti_booster_x_f9eb037e3ce0ce3557a61423442ac552.bundle"
+    },
+    {
+      "entry": 2589,
+      "catalogKey": "shopicons-builtin_assets_icon_scoremultiplier1_f4d354202406540f7948aefb70888a84.bundle",
+      "member": "assets/aa/Android/3.61.0/shopicons-builtin_assets_icon_scoremultiplier1_f4d354202406540f7948aefb70888a84.bundle",
+      "bytes": 15464,
+      "sha256": "0a91177e084e7750987da2abed9df9804a316ed092c1e296849b3a6d148f852a",
+      "extracted": "reference/recovered-environment/bundles/shopicons-builtin_assets_icon_scoremultiplier1_f4d354202406540f7948aefb70888a84.bundle"
+    },
+    {
+      "entry": 2599,
+      "catalogKey": "shopicons-builtin_assets_icon_trophy_ticket_bundle_0e7a1f90a55ca9df2603d43775f87465.bundle",
+      "member": "assets/aa/Android/3.61.0/shopicons-builtin_assets_icon_trophy_ticket_bundle_0e7a1f90a55ca9df2603d43775f87465.bundle",
+      "bytes": 20722,
+      "sha256": "0c3b596ba21df79d4ea8ac56e10a3ce1ced6cb5ef29e49bcea217596b000aeb3",
+      "extracted": "reference/recovered-environment/bundles/shopicons-builtin_assets_icon_trophy_ticket_bundle_0e7a1f90a55ca9df2603d43775f87465.bundle"
+    },
+    {
+      "entry": 2600,
+      "catalogKey": "shopicons-builtin_assets_icon_trophy_ticket_d1793c19f28808c3f52f6edc7735c3e4.bundle",
+      "member": "assets/aa/Android/3.61.0/shopicons-builtin_assets_icon_trophy_ticket_d1793c19f28808c3f52f6edc7735c3e4.bundle",
+      "bytes": 9701,
+      "sha256": "786af8a1212b89df9135f1751f3fde038647ea412bf12aff26345284e7fa7544",
+      "extracted": "reference/recovered-environment/bundles/shopicons-builtin_assets_icon_trophy_ticket_d1793c19f28808c3f52f6edc7735c3e4.bundle"
+    },
+    {
+      "entry": 2601,
+      "catalogKey": "shopicons-builtin_assets_icon_upgrade_double_coins_248e6b6e4292c504960cd12c259e1af4.bundle",
+      "member": "assets/aa/Android/3.61.0/shopicons-builtin_assets_icon_upgrade_double_coins_248e6b6e4292c504960cd12c259e1af4.bundle",
+      "bytes": 8978,
+      "sha256": "22244dc6bd47f4a2b119053ba3f6e6e35286c2066172f6650d6e3e1450561d70",
+      "extracted": "reference/recovered-environment/bundles/shopicons-builtin_assets_icon_upgrade_double_coins_248e6b6e4292c504960cd12c259e1af4.bundle"
+    },
+    {
+      "entry": 2604,
+      "catalogKey": "shopicons-builtin_assets_keypack_1_b32af412cac56d8e343f5c0d3307265e.bundle",
+      "member": "assets/aa/Android/3.61.0/shopicons-builtin_assets_keypack_1_b32af412cac56d8e343f5c0d3307265e.bundle",
+      "bytes": 22954,
+      "sha256": "3316204c5a7381b856f01ff49aff51c2f7157a698bd9386f7ce31830751757c9",
+      "extracted": "reference/recovered-environment/bundles/shopicons-builtin_assets_keypack_1_b32af412cac56d8e343f5c0d3307265e.bundle"
+    },
+    {
+      "entry": 2616,
+      "catalogKey": "shopicons-builtin_assets_minimysterybox_ec4547e97d282c7533793254b6688df2.bundle",
+      "member": "assets/aa/Android/3.61.0/shopicons-builtin_assets_minimysterybox_ec4547e97d282c7533793254b6688df2.bundle",
+      "bytes": 25285,
+      "sha256": "56eb7fe019610063ccc93a8eb1b24ad1e2cdfe8a598bd09b88ba3d849f7e2976",
+      "extracted": "reference/recovered-environment/bundles/shopicons-builtin_assets_minimysterybox_ec4547e97d282c7533793254b6688df2.bundle"
+    },
+    {
+      "entry": 2617,
+      "catalogKey": "shopicons-builtin_assets_mysterybox_b233c818c86a97f92732af0c2f99fabe.bundle",
+      "member": "assets/aa/Android/3.61.0/shopicons-builtin_assets_mysterybox_b233c818c86a97f92732af0c2f99fabe.bundle",
+      "bytes": 27399,
+      "sha256": "f0a19f9cd6b4480f9f794db61e950946beb37f7791d5f945ce13f3ddadabeb2d",
+      "extracted": "reference/recovered-environment/bundles/shopicons-builtin_assets_mysterybox_b233c818c86a97f92732af0c2f99fabe.bundle"
+    },
+    {
+      "entry": 2619,
+      "catalogKey": "shopicons-builtin_assets_scorebooster_8e187efe15ec456a4d15cadaebdaf6b9.bundle",
+      "member": "assets/aa/Android/3.61.0/shopicons-builtin_assets_scorebooster_8e187efe15ec456a4d15cadaebdaf6b9.bundle",
+      "bytes": 17196,
+      "sha256": "ab59a960aa369f63f1ec5e17c1588b5e1f7a756985dd9698cc744588f53fc6ad",
+      "extracted": "reference/recovered-environment/bundles/shopicons-builtin_assets_scorebooster_8e187efe15ec456a4d15cadaebdaf6b9.bundle"
+    },
+    {
+      "entry": 2621,
+      "catalogKey": "shopicons-builtin_assets_supermysterybox_0fa9803e4e914a5b7883ada94f309f49.bundle",
+      "member": "assets/aa/Android/3.61.0/shopicons-builtin_assets_supermysterybox_0fa9803e4e914a5b7883ada94f309f49.bundle",
+      "bytes": 27943,
+      "sha256": "47d0860a982b6198d1bf2f53277284fe64d24834fd1cf7046f83f43b36526a96",
+      "extracted": "reference/recovered-environment/bundles/shopicons-builtin_assets_supermysterybox_0fa9803e4e914a5b7883ada94f309f49.bundle"
+    },
+    {
+      "entry": 2624,
+      "catalogKey": "shopicons-builtin_assets_tokenbox_afefe9cb2a8838a9c98a5a8bab46c3ec.bundle",
+      "member": "assets/aa/Android/3.61.0/shopicons-builtin_assets_tokenbox_afefe9cb2a8838a9c98a5a8bab46c3ec.bundle",
+      "bytes": 27053,
+      "sha256": "c0ddbd5dd03f20cf9ba53b69fed53407afd079423418cdbc98dc30ffb1cdfd25",
+      "extracted": "reference/recovered-environment/bundles/shopicons-builtin_assets_tokenbox_afefe9cb2a8838a9c98a5a8bab46c3ec.bundle"
+    },
+    {
+      "entry": 2629,
+      "catalogKey": "slices-builtin_assets_native_loading_screen_material_71ec2f6a0af66aed30355c575811c247.bundle",
+      "member": "assets/aa/Android/3.61.0/slices-builtin_assets_native_loading_screen_material_71ec2f6a0af66aed30355c575811c247.bundle",
+      "bytes": 2416,
+      "sha256": "41598f240f586fff661a1556572eca23d645dd747fa73cab51d2ca647b51526f",
+      "extracted": "reference/recovered-environment/bundles/slices-builtin_assets_native_loading_screen_material_71ec2f6a0af66aed30355c575811c247.bundle"
+    },
+    {
+      "entry": 2630,
+      "catalogKey": "slices-builtin_assets_native_loading_screen_texture_2a4355fb580ebe34abcf1ed1a115a69c.bundle",
+      "member": "assets/aa/Android/3.61.0/slices-builtin_assets_native_loading_screen_texture_2a4355fb580ebe34abcf1ed1a115a69c.bundle",
+      "bytes": 17294,
+      "sha256": "946cca2c42fd8c38c04942f7bad415f16f3f837e8694a42d4eed976e4e1e0f20",
+      "extracted": "reference/recovered-environment/bundles/slices-builtin_assets_native_loading_screen_texture_2a4355fb580ebe34abcf1ed1a115a69c.bundle"
+    },
+    {
+      "entry": 2631,
+      "catalogKey": "slices-builtin_assets_shared_tutorial_arrow_7d7e089390ba2f59fc76c68bb4d06bf1.bundle",
+      "member": "assets/aa/Android/3.61.0/slices-builtin_assets_shared_tutorial_arrow_7d7e089390ba2f59fc76c68bb4d06bf1.bundle",
+      "bytes": 13364,
+      "sha256": "335c9498cc07400ac5e6ff4a7c998d7624e4066e4dfc55a628fb532bc6b02dc8",
+      "extracted": "reference/recovered-environment/bundles/slices-builtin_assets_shared_tutorial_arrow_7d7e089390ba2f59fc76c68bb4d06bf1.bundle"
+    },
+    {
+      "entry": 2632,
+      "catalogKey": "slices-builtin_assets_shared_ui_materials_b75fcc57092bfe1416f9518cf93a4cf4.bundle",
+      "member": "assets/aa/Android/3.61.0/slices-builtin_assets_shared_ui_materials_b75fcc57092bfe1416f9518cf93a4cf4.bundle",
+      "bytes": 5708,
+      "sha256": "3a4891160bb3ad73ce6f3b405378947b82e020e6cb22bd8854981798a4e3464f",
+      "extracted": "reference/recovered-environment/bundles/slices-builtin_assets_shared_ui_materials_b75fcc57092bfe1416f9518cf93a4cf4.bundle"
+    },
+    {
+      "entry": 2633,
+      "catalogKey": "slices-builtin_assets_shared_ui_models_1c5631d20524c73fbf478a25509c0de0.bundle",
+      "member": "assets/aa/Android/3.61.0/slices-builtin_assets_shared_ui_models_1c5631d20524c73fbf478a25509c0de0.bundle",
+      "bytes": 24312,
+      "sha256": "7beaa2adb36fdfab3dda405291caf4c79e45369011555c9773af723c2e44dcdd",
+      "extracted": "reference/recovered-environment/bundles/slices-builtin_assets_shared_ui_models_1c5631d20524c73fbf478a25509c0de0.bundle"
+    },
+    {
+      "entry": 2637,
+      "catalogKey": "slices-builtin_assets_shared_ui_textures_2a5748188ee1c6aeaf4173eef8ac7955.bundle",
+      "member": "assets/aa/Android/3.61.0/slices-builtin_assets_shared_ui_textures_2a5748188ee1c6aeaf4173eef8ac7955.bundle",
+      "bytes": 42729,
+      "sha256": "10196087e75fffb40a51cd4f362048b24f099ef3968c333958804f2f59b07f1a",
+      "extracted": "reference/recovered-environment/bundles/slices-builtin_assets_shared_ui_textures_2a5748188ee1c6aeaf4173eef8ac7955.bundle"
+    },
+    {
+      "entry": 2642,
+      "catalogKey": "slices-builtin_assets_slice_challengedifficultyrun_e16a1c041563ff8b2761532718b261ab.bundle",
+      "member": "assets/aa/Android/3.61.0/slices-builtin_assets_slice_challengedifficultyrun_e16a1c041563ff8b2761532718b261ab.bundle",
+      "bytes": 16908,
+      "sha256": "6771254f7aa9a2868de746ea3f8cd341dd39326700063768f5069d0ccf0d7b13",
+      "extracted": "reference/recovered-environment/bundles/slices-builtin_assets_slice_challengedifficultyrun_e16a1c041563ff8b2761532718b261ab.bundle"
+    },
+    {
+      "entry": 2644,
+      "catalogKey": "slices-builtin_assets_slice_chasetargetrun_7d117a5956968d15dd502f6fe4ad1c14.bundle",
+      "member": "assets/aa/Android/3.61.0/slices-builtin_assets_slice_chasetargetrun_7d117a5956968d15dd502f6fe4ad1c14.bundle",
+      "bytes": 143931,
+      "sha256": "1b3c0a5552a19cb567641ad9a8de90c58d943c3e2f67dc1f63bbad9cac61208f",
+      "extracted": "reference/recovered-environment/bundles/slices-builtin_assets_slice_chasetargetrun_7d117a5956968d15dd502f6fe4ad1c14.bundle"
+    },
+    {
+      "entry": 2645,
+      "catalogKey": "slices-builtin_assets_slice_citytourrun_f6942f0ed455d0a2fd995aa8fb378b36.bundle",
+      "member": "assets/aa/Android/3.61.0/slices-builtin_assets_slice_citytourrun_f6942f0ed455d0a2fd995aa8fb378b36.bundle",
+      "bytes": 13977,
+      "sha256": "98fb9e8990a4adaa6369564229caa770fd5cd85c2021f9debeb2e37d06834248",
+      "extracted": "reference/recovered-environment/bundles/slices-builtin_assets_slice_citytourrun_f6942f0ed455d0a2fd995aa8fb378b36.bundle"
+    },
+    {
+      "entry": 2658,
+      "catalogKey": "slices-builtin_assets_slice_gauntletrun_81ee4b50076cb36190c632bb2c7e9392.bundle",
+      "member": "assets/aa/Android/3.61.0/slices-builtin_assets_slice_gauntletrun_81ee4b50076cb36190c632bb2c7e9392.bundle",
+      "bytes": 41563,
+      "sha256": "cc11204758bc06ed017af06f5390121fa88490096e089fdd9c7aaad69cbd2206",
+      "extracted": "reference/recovered-environment/bundles/slices-builtin_assets_slice_gauntletrun_81ee4b50076cb36190c632bb2c7e9392.bundle"
+    },
+    {
+      "entry": 2671,
+      "catalogKey": "slices-builtin_assets_slice_mainmenu_2.0_b3880b9c6ef33059a283038fdb1ef9be.bundle",
+      "member": "assets/aa/Android/3.61.0/slices-builtin_assets_slice_mainmenu_2.0_b3880b9c6ef33059a283038fdb1ef9be.bundle",
+      "bytes": 273143,
+      "sha256": "e1190ae554504f4907774ebc5e74220aa5da869dddaa758e676fcafda5c53b06",
+      "extracted": "reference/recovered-environment/bundles/slices-builtin_assets_slice_mainmenu_2.0_b3880b9c6ef33059a283038fdb1ef9be.bundle"
+    },
+    {
+      "entry": 2672,
+      "catalogKey": "slices-builtin_assets_slice_mainmenu_23c279dd151df8e5e9c958bb102ce46c.bundle",
+      "member": "assets/aa/Android/3.61.0/slices-builtin_assets_slice_mainmenu_23c279dd151df8e5e9c958bb102ce46c.bundle",
+      "bytes": 352632,
+      "sha256": "b9ab5c8b198964c8192daa65e11035e7ca7ae99ee6feb5cdd32f9cdeb243e914",
+      "extracted": "reference/recovered-environment/bundles/slices-builtin_assets_slice_mainmenu_23c279dd151df8e5e9c958bb102ce46c.bundle"
+    },
+    {
+      "entry": 2673,
+      "catalogKey": "slices-builtin_assets_slice_mainmenu_city_6259be90e67458f02a02249c1d4375af.bundle",
+      "member": "assets/aa/Android/3.61.0/slices-builtin_assets_slice_mainmenu_city_6259be90e67458f02a02249c1d4375af.bundle",
+      "bytes": 34198,
+      "sha256": "f69a42b13e4f9c28afb2fc760c5db1eb51ed9311f3ba01a0e5b7ae5d094bbd54",
+      "extracted": "reference/recovered-environment/bundles/slices-builtin_assets_slice_mainmenu_city_6259be90e67458f02a02249c1d4375af.bundle"
+    },
+    {
+      "entry": 2674,
+      "catalogKey": "slices-builtin_assets_slice_mainmenu_ftue_b5ff3e90a011bbdcdd14115370dc6a79.bundle",
+      "member": "assets/aa/Android/3.61.0/slices-builtin_assets_slice_mainmenu_ftue_b5ff3e90a011bbdcdd14115370dc6a79.bundle",
+      "bytes": 15695,
+      "sha256": "0d4e36689f29c593ad0a891322529a677642feeda64f7dae6f68143171d7d6e8",
+      "extracted": "reference/recovered-environment/bundles/slices-builtin_assets_slice_mainmenu_ftue_b5ff3e90a011bbdcdd14115370dc6a79.bundle"
+    },
+    {
+      "entry": 2677,
+      "catalogKey": "slices-builtin_assets_slice_mysteryhurdlerun_5d6f6c469aaa803e0c35138bc3601d3e.bundle",
+      "member": "assets/aa/Android/3.61.0/slices-builtin_assets_slice_mysteryhurdlerun_5d6f6c469aaa803e0c35138bc3601d3e.bundle",
+      "bytes": 44359,
+      "sha256": "757fa29e5e945d1c7f33199a11b5be2d3a6f34b84c67d3464b5100b1e369e79c",
+      "extracted": "reference/recovered-environment/bundles/slices-builtin_assets_slice_mysteryhurdlerun_5d6f6c469aaa803e0c35138bc3601d3e.bundle"
+    },
+    {
+      "entry": 2683,
+      "catalogKey": "slices-builtin_assets_slice_pause_67f564bbc0600a05e2ac9d1b4b9daa7d.bundle",
+      "member": "assets/aa/Android/3.61.0/slices-builtin_assets_slice_pause_67f564bbc0600a05e2ac9d1b4b9daa7d.bundle",
+      "bytes": 138973,
+      "sha256": "6b14b13f5c36d5b6dd93d0f3426e7d07c1bb71cb85f0715fd07abfac1fa91ba5",
+      "extracted": "reference/recovered-environment/bundles/slices-builtin_assets_slice_pause_67f564bbc0600a05e2ac9d1b4b9daa7d.bundle"
+    },
+    {
+      "entry": 2684,
+      "catalogKey": "slices-builtin_assets_slice_pause_confirm_gauntlet_b6dba16fd76b63673f1aad07f2a50b96.bundle",
+      "member": "assets/aa/Android/3.61.0/slices-builtin_assets_slice_pause_confirm_gauntlet_b6dba16fd76b63673f1aad07f2a50b96.bundle",
+      "bytes": 88837,
+      "sha256": "e1e20187b655370587770ab0523a549b60ebdcee03baaac9abc7256f842a2bd7",
+      "extracted": "reference/recovered-environment/bundles/slices-builtin_assets_slice_pause_confirm_gauntlet_b6dba16fd76b63673f1aad07f2a50b96.bundle"
+    },
+    {
+      "entry": 2685,
+      "catalogKey": "slices-builtin_assets_slice_pause_gauntlet_6101b073463db76e8d86e0201f3d3e38.bundle",
+      "member": "assets/aa/Android/3.61.0/slices-builtin_assets_slice_pause_gauntlet_6101b073463db76e8d86e0201f3d3e38.bundle",
+      "bytes": 24946,
+      "sha256": "8f2988de51e8eba4f93e12c25592f68fb6416aca3780659dc0d5103c35c27736",
+      "extracted": "reference/recovered-environment/bundles/slices-builtin_assets_slice_pause_gauntlet_6101b073463db76e8d86e0201f3d3e38.bundle"
+    },
+    {
+      "entry": 2686,
+      "catalogKey": "slices-builtin_assets_slice_pause_seasonpass_5c0b79c8760eceb64f483ddfa5efee73.bundle",
+      "member": "assets/aa/Android/3.61.0/slices-builtin_assets_slice_pause_seasonpass_5c0b79c8760eceb64f483ddfa5efee73.bundle",
+      "bytes": 77091,
+      "sha256": "8eb87b94f514e6311fc7af4677729af0d3c568b5bc1ea43c5b1af97aacb7f9d5",
+      "extracted": "reference/recovered-environment/bundles/slices-builtin_assets_slice_pause_seasonpass_5c0b79c8760eceb64f483ddfa5efee73.bundle"
+    },
+    {
+      "entry": 2794,
+      "catalogKey": "slices-builtin_assets_slice_racerun_975c4eb8be139a0235f2838fb2f1caf1.bundle",
+      "member": "assets/aa/Android/3.61.0/slices-builtin_assets_slice_racerun_975c4eb8be139a0235f2838fb2f1caf1.bundle",
+      "bytes": 340056,
+      "sha256": "b1472dd1bae949402ecc276440edaa3b545b19e1c47351a858720627832b3122",
+      "extracted": "reference/recovered-environment/bundles/slices-builtin_assets_slice_racerun_975c4eb8be139a0235f2838fb2f1caf1.bundle"
+    },
+    {
+      "entry": 2797,
+      "catalogKey": "slices-builtin_assets_slice_run_a49d88e7645b683e30e2095adbdc1d00.bundle",
+      "member": "assets/aa/Android/3.61.0/slices-builtin_assets_slice_run_a49d88e7645b683e30e2095adbdc1d00.bundle",
+      "bytes": 152522,
+      "sha256": "6a352c60fa2aa43214a00e3dfaeb760db6064794c40f5371505a48e6fdc9d7ea",
+      "extracted": "reference/recovered-environment/bundles/slices-builtin_assets_slice_run_a49d88e7645b683e30e2095adbdc1d00.bundle"
+    },
+    {
+      "entry": 2798,
+      "catalogKey": "slices-builtin_assets_slice_run_hints_46aefa74a3e26d452b5e4e84bb47eeb1.bundle",
+      "member": "assets/aa/Android/3.61.0/slices-builtin_assets_slice_run_hints_46aefa74a3e26d452b5e4e84bb47eeb1.bundle",
+      "bytes": 15736,
+      "sha256": "a1466d1d5c138d85a1430c2d84dea5afcd48d4e051415c22a5ca12e06dacbaa2",
+      "extracted": "reference/recovered-environment/bundles/slices-builtin_assets_slice_run_hints_46aefa74a3e26d452b5e4e84bb47eeb1.bundle"
+    },
+    {
+      "entry": 2806,
+      "catalogKey": "slices-builtin_assets_slice_timelimitedrun_aa289629d4eab18449eb3eeea0afc793.bundle",
+      "member": "assets/aa/Android/3.61.0/slices-builtin_assets_slice_timelimitedrun_aa289629d4eab18449eb3eeea0afc793.bundle",
+      "bytes": 33208,
+      "sha256": "490b7dc8453bde35e3f866556ea07600d847a0e9a2728ec696f0a4fb94e89e34",
+      "extracted": "reference/recovered-environment/bundles/slices-builtin_assets_slice_timelimitedrun_aa289629d4eab18449eb3eeea0afc793.bundle"
+    },
+    {
+      "entry": 2807,
+      "catalogKey": "slices-builtin_assets_slice_timelimitedrun_chasetarget_4ba872a155b130bbf0d7d704a8380388.bundle",
+      "member": "assets/aa/Android/3.61.0/slices-builtin_assets_slice_timelimitedrun_chasetarget_4ba872a155b130bbf0d7d704a8380388.bundle",
+      "bytes": 24199,
+      "sha256": "d3d0dd05d11adf0e31934d244e1a7183d73f5615015e370f293a349a695f2a90",
+      "extracted": "reference/recovered-environment/bundles/slices-builtin_assets_slice_timelimitedrun_chasetarget_4ba872a155b130bbf0d7d704a8380388.bundle"
+    },
+    {
+      "entry": 2825,
+      "catalogKey": "sprites-builtin_assets_base_spray_big_43d03d29ec2c1834037379725d90a229.bundle",
+      "member": "assets/aa/Android/3.61.0/sprites-builtin_assets_base_spray_big_43d03d29ec2c1834037379725d90a229.bundle",
+      "bytes": 8221,
+      "sha256": "860e8ecb89d22f6f3c606e9038bc944d29c620e591a69d5698c7589c99ff3f71",
+      "extracted": "reference/recovered-environment/bundles/sprites-builtin_assets_base_spray_big_43d03d29ec2c1834037379725d90a229.bundle"
+    },
+    {
+      "entry": 2826,
+      "catalogKey": "sprites-builtin_assets_base_spray_small_9ddd082d7c72d814aa8a807be8d17ec2.bundle",
+      "member": "assets/aa/Android/3.61.0/sprites-builtin_assets_base_spray_small_9ddd082d7c72d814aa8a807be8d17ec2.bundle",
+      "bytes": 7500,
+      "sha256": "aa9894c649233228d6cc28c71319252219cacae0ac5a0404164202ced74973d2",
+      "extracted": "reference/recovered-environment/bundles/sprites-builtin_assets_base_spray_small_9ddd082d7c72d814aa8a807be8d17ec2.bundle"
+    },
+    {
+      "entry": 2843,
+      "catalogKey": "sprites-builtin_assets_icon_box_versus_green_070fa9ba65676705e176b31c576f1361.bundle",
+      "member": "assets/aa/Android/3.61.0/sprites-builtin_assets_icon_box_versus_green_070fa9ba65676705e176b31c576f1361.bundle",
+      "bytes": 29380,
+      "sha256": "4b219929f6aa7eeb4e7a308dfc0131e233a023a0b5da066ae19f973d30cec82d",
+      "extracted": "reference/recovered-environment/bundles/sprites-builtin_assets_icon_box_versus_green_070fa9ba65676705e176b31c576f1361.bundle"
+    },
+    {
+      "entry": 2845,
+      "catalogKey": "sprites-builtin_assets_icon_box_versus_red_4f28e478842a90e388dd58dc1d130aa6.bundle",
+      "member": "assets/aa/Android/3.61.0/sprites-builtin_assets_icon_box_versus_red_4f28e478842a90e388dd58dc1d130aa6.bundle",
+      "bytes": 29746,
+      "sha256": "03eb44a46a4e2e36de7e357818b4c6b53fe83c6a471c858c87059562af46f109",
+      "extracted": "reference/recovered-environment/bundles/sprites-builtin_assets_icon_box_versus_red_4f28e478842a90e388dd58dc1d130aa6.bundle"
+    },
+    {
+      "entry": 2857,
+      "catalogKey": "sprites-builtin_assets_icon_hourglass_01_d3ac98bab03091bbee06211ee696b575.bundle",
+      "member": "assets/aa/Android/3.61.0/sprites-builtin_assets_icon_hourglass_01_d3ac98bab03091bbee06211ee696b575.bundle",
+      "bytes": 11771,
+      "sha256": "1e05d3425a614e32dd76cf4b26853072a02b97d12e70187a9e28b5ebd4686de4",
+      "extracted": "reference/recovered-environment/bundles/sprites-builtin_assets_icon_hourglass_01_d3ac98bab03091bbee06211ee696b575.bundle"
+    },
+    {
+      "entry": 2864,
+      "catalogKey": "sprites-builtin_assets_icon_multiplier_purple_star_e1be3540ebd9874a6a93c8de3e533d62.bundle",
+      "member": "assets/aa/Android/3.61.0/sprites-builtin_assets_icon_multiplier_purple_star_e1be3540ebd9874a6a93c8de3e533d62.bundle",
+      "bytes": 19118,
+      "sha256": "1fa3c52f56bfc35d63806efc0ec96b1f459ef13545195b53f7a93b3edb3bbb6c",
+      "extracted": "reference/recovered-environment/bundles/sprites-builtin_assets_icon_multiplier_purple_star_e1be3540ebd9874a6a93c8de3e533d62.bundle"
+    },
+    {
+      "entry": 2869,
+      "catalogKey": "sprites-builtin_assets_icon_portrait_reward_14e916e30a129c2939df8f40d615a5c6.bundle",
+      "member": "assets/aa/Android/3.61.0/sprites-builtin_assets_icon_portrait_reward_14e916e30a129c2939df8f40d615a5c6.bundle",
+      "bytes": 5594,
+      "sha256": "3e046cbe8821475c993900d37a271b5bb4923ec93642c6c9ec4fb60b5189980c",
+      "extracted": "reference/recovered-environment/bundles/sprites-builtin_assets_icon_portrait_reward_14e916e30a129c2939df8f40d615a5c6.bundle"
+    },
+    {
+      "entry": 2870,
+      "catalogKey": "sprites-builtin_assets_icon_portrait_reward_mask_d458e8c14fc579791cb07cf1fb41c3f8.bundle",
+      "member": "assets/aa/Android/3.61.0/sprites-builtin_assets_icon_portrait_reward_mask_d458e8c14fc579791cb07cf1fb41c3f8.bundle",
+      "bytes": 5825,
+      "sha256": "e304ef89af92a37d77fbcb45507acbba63506a2a712c431f6464997fba5511fd",
+      "extracted": "reference/recovered-environment/bundles/sprites-builtin_assets_icon_portrait_reward_mask_d458e8c14fc579791cb07cf1fb41c3f8.bundle"
+    },
+    {
+      "entry": 2875,
+      "catalogKey": "sprites-builtin_assets_icon_quest_currency_big_53b7897771fbfd653e7e93fa23f5e6a8.bundle",
+      "member": "assets/aa/Android/3.61.0/sprites-builtin_assets_icon_quest_currency_big_53b7897771fbfd653e7e93fa23f5e6a8.bundle",
+      "bytes": 12268,
+      "sha256": "d0d9a5f30dd9726dcdd720f437efa2b5fc0d857d6a9fd74364b70553e54ca459",
+      "extracted": "reference/recovered-environment/bundles/sprites-builtin_assets_icon_quest_currency_big_53b7897771fbfd653e7e93fa23f5e6a8.bundle"
+    },
+    {
+      "entry": 2883,
+      "catalogKey": "sprites-builtin_assets_icon_sodacan_token_48ceed1cbed22c659a4b3413adbf72a1.bundle",
+      "member": "assets/aa/Android/3.61.0/sprites-builtin_assets_icon_sodacan_token_48ceed1cbed22c659a4b3413adbf72a1.bundle",
+      "bytes": 18030,
+      "sha256": "824a0f4893eeec3f8e4b36fa490416252762ea80c2b09fdaa0354a670ab8ca1c",
+      "extracted": "reference/recovered-environment/bundles/sprites-builtin_assets_icon_sodacan_token_48ceed1cbed22c659a4b3413adbf72a1.bundle"
+    },
+    {
+      "entry": 2904,
+      "catalogKey": "sprites-builtin_assets_raw_texture_default_value_77ad93bd297a8f4438b2c9c53f6f360b.bundle",
+      "member": "assets/aa/Android/3.61.0/sprites-builtin_assets_raw_texture_default_value_77ad93bd297a8f4438b2c9c53f6f360b.bundle",
+      "bytes": 4147,
+      "sha256": "4bd1bed17c27705b765f6b01a4ab8e3f74981ae8cfba02014b9926968dbad73b",
+      "extracted": "reference/recovered-environment/bundles/sprites-builtin_assets_raw_texture_default_value_77ad93bd297a8f4438b2c9c53f6f360b.bundle"
+    },
+    {
+      "entry": 2907,
+      "catalogKey": "sprites-builtin_assets_showdown_title_back_911c4413abd27b4fd02813664456ae06.bundle",
+      "member": "assets/aa/Android/3.61.0/sprites-builtin_assets_showdown_title_back_911c4413abd27b4fd02813664456ae06.bundle",
+      "bytes": 5232,
+      "sha256": "e0627761849d0ab5a6d898d5ba3d7a63c215379abb15ab2cfc22c81874eee1e6",
+      "extracted": "reference/recovered-environment/bundles/sprites-builtin_assets_showdown_title_back_911c4413abd27b4fd02813664456ae06.bundle"
+    },
+    {
+      "entry": 2916,
+      "catalogKey": "sprites-builtin_assets_ui_mask_1_813f6b707ec693090396ea13c2042ff8.bundle",
+      "member": "assets/aa/Android/3.61.0/sprites-builtin_assets_ui_mask_1_813f6b707ec693090396ea13c2042ff8.bundle",
+      "bytes": 4516,
+      "sha256": "6f5199169fc50c727267dc5c525c8e2a7a386f7c36d4a41b851bfc98ee996cdf",
+      "extracted": "reference/recovered-environment/bundles/sprites-builtin_assets_ui_mask_1_813f6b707ec693090396ea13c2042ff8.bundle"
+    },
+    {
+      "entry": 2919,
+      "catalogKey": "sprites-builtin_assets_ui_mask_4_2adff97c24e4f50ba1c8fd26ba27f4cb.bundle",
+      "member": "assets/aa/Android/3.61.0/sprites-builtin_assets_ui_mask_4_2adff97c24e4f50ba1c8fd26ba27f4cb.bundle",
+      "bytes": 4853,
+      "sha256": "2b2156429d5b8ad877b8222c7aac329b2d1db4a8347c6ab8a39d4920d6533569",
+      "extracted": "reference/recovered-environment/bundles/sprites-builtin_assets_ui_mask_4_2adff97c24e4f50ba1c8fd26ba27f4cb.bundle"
+    },
+    {
+      "entry": 2924,
+      "catalogKey": "sprites-builtin_assets_ui_spriteatlas_default_8e86d3d08f3f430e9ff67bd95c6c7609.bundle",
+      "member": "assets/aa/Android/3.61.0/sprites-builtin_assets_ui_spriteatlas_default_8e86d3d08f3f430e9ff67bd95c6c7609.bundle",
+      "bytes": 1030767,
+      "sha256": "175055d8a7d216f07d64b75496278e1c7772cf7c3dfb16121f4a1b1d31de0e0a",
+      "extracted": "reference/recovered-environment/bundles/sprites-builtin_assets_ui_spriteatlas_default_8e86d3d08f3f430e9ff67bd95c6c7609.bundle"
+    },
+    {
+      "entry": 2925,
+      "catalogKey": "sprites-builtin_assets_ui_spriteatlas_fc_booster_78d28333515b359d683941825cde6a51.bundle",
+      "member": "assets/aa/Android/3.61.0/sprites-builtin_assets_ui_spriteatlas_fc_booster_78d28333515b359d683941825cde6a51.bundle",
+      "bytes": 15595,
+      "sha256": "a1bfb410d04bdb89a121c20420331149ee57c2d2b4202e8b021d2895441806b3",
+      "extracted": "reference/recovered-environment/bundles/sprites-builtin_assets_ui_spriteatlas_fc_booster_78d28333515b359d683941825cde6a51.bundle"
+    },
+    {
+      "entry": 2926,
+      "catalogKey": "sprites-builtin_assets_ui_spriteatlas_fc_coins_077b54d7dcdb4b735037564eac293bda.bundle",
+      "member": "assets/aa/Android/3.61.0/sprites-builtin_assets_ui_spriteatlas_fc_coins_077b54d7dcdb4b735037564eac293bda.bundle",
+      "bytes": 22965,
+      "sha256": "272571548802024532834e191b9eeb4ab70b970896c8c4526b6a783e88c86265",
+      "extracted": "reference/recovered-environment/bundles/sprites-builtin_assets_ui_spriteatlas_fc_coins_077b54d7dcdb4b735037564eac293bda.bundle"
+    },
+    {
+      "entry": 2927,
+      "catalogKey": "sprites-builtin_assets_ui_spriteatlas_fc_cp_7e84e38edd8a2e649d8012788ec528c5.bundle",
+      "member": "assets/aa/Android/3.61.0/sprites-builtin_assets_ui_spriteatlas_fc_cp_7e84e38edd8a2e649d8012788ec528c5.bundle",
+      "bytes": 23752,
+      "sha256": "3363cb55f0705392a11d4f12485dd7923408b8bcff54a8a8cbbe910a088c0aac",
+      "extracted": "reference/recovered-environment/bundles/sprites-builtin_assets_ui_spriteatlas_fc_cp_7e84e38edd8a2e649d8012788ec528c5.bundle"
+    },
+    {
+      "entry": 2928,
+      "catalogKey": "sprites-builtin_assets_ui_spriteatlas_fc_ec_blue_f6ea045d5cb80c41507533c66b57ad5f.bundle",
+      "member": "assets/aa/Android/3.61.0/sprites-builtin_assets_ui_spriteatlas_fc_ec_blue_f6ea045d5cb80c41507533c66b57ad5f.bundle",
+      "bytes": 14107,
+      "sha256": "0ac01700cedb5737de302de22343cde3e53c9689a497875e84c75e2f3fc23a4f",
+      "extracted": "reference/recovered-environment/bundles/sprites-builtin_assets_ui_spriteatlas_fc_ec_blue_f6ea045d5cb80c41507533c66b57ad5f.bundle"
+    },
+    {
+      "entry": 2929,
+      "catalogKey": "sprites-builtin_assets_ui_spriteatlas_fc_ec_purple_4f5391b78c9c39077897e7be7096f291.bundle",
+      "member": "assets/aa/Android/3.61.0/sprites-builtin_assets_ui_spriteatlas_fc_ec_purple_4f5391b78c9c39077897e7be7096f291.bundle",
+      "bytes": 13956,
+      "sha256": "8dee7f285436196cee78b8dfced29945579b32e1659514c0433706ee5cfe219b",
+      "extracted": "reference/recovered-environment/bundles/sprites-builtin_assets_ui_spriteatlas_fc_ec_purple_4f5391b78c9c39077897e7be7096f291.bundle"
+    },
+    {
+      "entry": 2930,
+      "catalogKey": "sprites-builtin_assets_ui_spriteatlas_fc_ec_red_2675743076995301780194d7c0da348e.bundle",
+      "member": "assets/aa/Android/3.61.0/sprites-builtin_assets_ui_spriteatlas_fc_ec_red_2675743076995301780194d7c0da348e.bundle",
+      "bytes": 13667,
+      "sha256": "1fa7c87d1712586aee2234da937ba6749487359ff7cd8f9773bb130be00fb409",
+      "extracted": "reference/recovered-environment/bundles/sprites-builtin_assets_ui_spriteatlas_fc_ec_red_2675743076995301780194d7c0da348e.bundle"
+    },
+    {
+      "entry": 2931,
+      "catalogKey": "sprites-builtin_assets_ui_spriteatlas_fc_ec_silver_4c06d624944b7a86f8d8bafead3a2c01.bundle",
+      "member": "assets/aa/Android/3.61.0/sprites-builtin_assets_ui_spriteatlas_fc_ec_silver_4c06d624944b7a86f8d8bafead3a2c01.bundle",
+      "bytes": 14047,
+      "sha256": "f074c169819a630837a8619a9ba1754ba8bf639ff6e53e23c66bbb80628ec8c5",
+      "extracted": "reference/recovered-environment/bundles/sprites-builtin_assets_ui_spriteatlas_fc_ec_silver_4c06d624944b7a86f8d8bafead3a2c01.bundle"
+    },
+    {
+      "entry": 2932,
+      "catalogKey": "sprites-builtin_assets_ui_spriteatlas_fc_headstart_28fdc15e0b40a0ca2b3a2a162df801ef.bundle",
+      "member": "assets/aa/Android/3.61.0/sprites-builtin_assets_ui_spriteatlas_fc_headstart_28fdc15e0b40a0ca2b3a2a162df801ef.bundle",
+      "bytes": 13192,
+      "sha256": "dc8e7a3fea9e5da03013190a6ba2a72a19c1e4f71514051add717ae0f591f810",
+      "extracted": "reference/recovered-environment/bundles/sprites-builtin_assets_ui_spriteatlas_fc_headstart_28fdc15e0b40a0ca2b3a2a162df801ef.bundle"
+    },
+    {
+      "entry": 2933,
+      "catalogKey": "sprites-builtin_assets_ui_spriteatlas_fc_hoverboard_15a54fa9dc6ba5cbf3b551b96fafeb87.bundle",
+      "member": "assets/aa/Android/3.61.0/sprites-builtin_assets_ui_spriteatlas_fc_hoverboard_15a54fa9dc6ba5cbf3b551b96fafeb87.bundle",
+      "bytes": 13010,
+      "sha256": "0f7d33c71f7495a8c2f57a4ce9f9c7ca9a5cdae52987516c1c036e2b88f425ad",
+      "extracted": "reference/recovered-environment/bundles/sprites-builtin_assets_ui_spriteatlas_fc_hoverboard_15a54fa9dc6ba5cbf3b551b96fafeb87.bundle"
+    },
+    {
+      "entry": 2934,
+      "catalogKey": "sprites-builtin_assets_ui_spriteatlas_fc_keys_418d522a9363d91ee05f8f53ea2e31b7.bundle",
+      "member": "assets/aa/Android/3.61.0/sprites-builtin_assets_ui_spriteatlas_fc_keys_418d522a9363d91ee05f8f53ea2e31b7.bundle",
+      "bytes": 20028,
+      "sha256": "488f15af6147ed35a1b6a6e6ffcc4e4e3cde6442c05a273f8d3d03ca393bc689",
+      "extracted": "reference/recovered-environment/bundles/sprites-builtin_assets_ui_spriteatlas_fc_keys_418d522a9363d91ee05f8f53ea2e31b7.bundle"
+    },
+    {
+      "entry": 2935,
+      "catalogKey": "sprites-builtin_assets_ui_spriteatlas_fc_season_points_a4959290f0af19827adb1ff50eefcb0d.bundle",
+      "member": "assets/aa/Android/3.61.0/sprites-builtin_assets_ui_spriteatlas_fc_season_points_a4959290f0af19827adb1ff50eefcb0d.bundle",
+      "bytes": 21624,
+      "sha256": "3ecce14fa32798d92e5b102831eeaa11305d679198010d648ca9245a4518c46d",
+      "extracted": "reference/recovered-environment/bundles/sprites-builtin_assets_ui_spriteatlas_fc_season_points_a4959290f0af19827adb1ff50eefcb0d.bundle"
+    },
+    {
+      "entry": 2936,
+      "catalogKey": "sprites-builtin_assets_ui_spriteatlas_photo_mode_a33290b80dde92ffc4b9cfbbdf0b4c09.bundle",
+      "member": "assets/aa/Android/3.61.0/sprites-builtin_assets_ui_spriteatlas_photo_mode_a33290b80dde92ffc4b9cfbbdf0b4c09.bundle",
+      "bytes": 43986,
+      "sha256": "3cb3bb293b04de99a309646c387755eceb286f7ea68aae822202d37da15770f3",
+      "extracted": "reference/recovered-environment/bundles/sprites-builtin_assets_ui_spriteatlas_photo_mode_a33290b80dde92ffc4b9cfbbdf0b4c09.bundle"
+    },
+    {
+      "entry": 2955,
+      "catalogKey": "themes-builtin_assets_irelandspring_config_4ece61eb7db78bfd84b3e74b94f74993.bundle",
+      "member": "assets/aa/Android/3.61.0/themes-builtin_assets_irelandspring_config_4ece61eb7db78bfd84b3e74b94f74993.bundle",
+      "bytes": 1961355,
+      "sha256": "a6dda9e6d8e3ef9e60650f3fa93708f116d24917df65bf53e79108f2be8f5924",
+      "extracted": "reference/recovered-environment/bundles/themes-builtin_assets_irelandspring_config_4ece61eb7db78bfd84b3e74b94f74993.bundle"
+    },
+    {
+      "entry": 3109,
+      "catalogKey": "viewconfigs-builtin_assets_ui_run_view_14fb5bc36f2ec118286d7293abbf2d64.bundle",
+      "member": "assets/aa/Android/3.61.0/viewconfigs-builtin_assets_ui_run_view_14fb5bc36f2ec118286d7293abbf2d64.bundle",
+      "bytes": 1916,
+      "sha256": "6538caed7481fd9aa8464279d96c07e3c8b432519a51ad9841f85428e935cc99",
+      "extracted": "reference/recovered-environment/bundles/viewconfigs-builtin_assets_ui_run_view_14fb5bc36f2ec118286d7293abbf2d64.bundle"
+    },
+    {
+      "entry": 3110,
+      "catalogKey": "viewconfigs-builtin_assets_ui_run_view_challenge_difficulty_891ddb065f5baab225c3b5ab3ddfec2d.bundle",
+      "member": "assets/aa/Android/3.61.0/viewconfigs-builtin_assets_ui_run_view_challenge_difficulty_891ddb065f5baab225c3b5ab3ddfec2d.bundle",
+      "bytes": 1943,
+      "sha256": "47b81056a5ada3a122ab2db7f8977454f09bda97aacb59de27f6e82870fd5a56",
+      "extracted": "reference/recovered-environment/bundles/viewconfigs-builtin_assets_ui_run_view_challenge_difficulty_891ddb065f5baab225c3b5ab3ddfec2d.bundle"
+    },
+    {
+      "entry": 3111,
+      "catalogKey": "viewconfigs-builtin_assets_ui_run_view_chase_target_7b582f748176b9b12d12d6fb0b573c24.bundle",
+      "member": "assets/aa/Android/3.61.0/viewconfigs-builtin_assets_ui_run_view_chase_target_7b582f748176b9b12d12d6fb0b573c24.bundle",
+      "bytes": 1934,
+      "sha256": "74357501b53af49bc63fc869db04f656674ea74e1040a1e9f3c2e6a15e92fb8c",
+      "extracted": "reference/recovered-environment/bundles/viewconfigs-builtin_assets_ui_run_view_chase_target_7b582f748176b9b12d12d6fb0b573c24.bundle"
+    },
+    {
+      "entry": 3112,
+      "catalogKey": "viewconfigs-builtin_assets_ui_run_view_city_tour_7c1647a13c57eb2e50b01307a2d673c9.bundle",
+      "member": "assets/aa/Android/3.61.0/viewconfigs-builtin_assets_ui_run_view_city_tour_7c1647a13c57eb2e50b01307a2d673c9.bundle",
+      "bytes": 1930,
+      "sha256": "37bd6d743e0cd69da0ea1fd91edbebc3eb09902c9a810b3bdc646718a5ea377f",
+      "extracted": "reference/recovered-environment/bundles/viewconfigs-builtin_assets_ui_run_view_city_tour_7c1647a13c57eb2e50b01307a2d673c9.bundle"
+    },
+    {
+      "entry": 3113,
+      "catalogKey": "viewconfigs-builtin_assets_ui_run_view_gauntlet_020cf809d259396c740ea7b58cee8a84.bundle",
+      "member": "assets/aa/Android/3.61.0/viewconfigs-builtin_assets_ui_run_view_gauntlet_020cf809d259396c740ea7b58cee8a84.bundle",
+      "bytes": 1926,
+      "sha256": "3122a86b5f4a0aea9c3a055aeaab2fb71431fec2b6322bb0a3cf867126c44d33",
+      "extracted": "reference/recovered-environment/bundles/viewconfigs-builtin_assets_ui_run_view_gauntlet_020cf809d259396c740ea7b58cee8a84.bundle"
+    },
+    {
+      "entry": 3114,
+      "catalogKey": "viewconfigs-builtin_assets_ui_run_view_hints_3296da24f956858ef71df82b10c64167.bundle",
+      "member": "assets/aa/Android/3.61.0/viewconfigs-builtin_assets_ui_run_view_hints_3296da24f956858ef71df82b10c64167.bundle",
+      "bytes": 1923,
+      "sha256": "40ba82f756f0041aebddb272a9e8abd6cdb72efda61ced459ba9cf2662b456df",
+      "extracted": "reference/recovered-environment/bundles/viewconfigs-builtin_assets_ui_run_view_hints_3296da24f956858ef71df82b10c64167.bundle"
+    },
+    {
+      "entry": 3115,
+      "catalogKey": "viewconfigs-builtin_assets_ui_run_view_mystery_hurdle_f6363f4f9f06e13b6c59458a656a131c.bundle",
+      "member": "assets/aa/Android/3.61.0/viewconfigs-builtin_assets_ui_run_view_mystery_hurdle_f6363f4f9f06e13b6c59458a656a131c.bundle",
+      "bytes": 1942,
+      "sha256": "039bcdfa1390ce6712a763ca29d8b6cfa72f560f4f06d329c6ae80f3d82d39bc",
+      "extracted": "reference/recovered-environment/bundles/viewconfigs-builtin_assets_ui_run_view_mystery_hurdle_f6363f4f9f06e13b6c59458a656a131c.bundle"
+    },
+    {
+      "entry": 3116,
+      "catalogKey": "viewconfigs-builtin_assets_ui_run_view_race_76af253409d5017e5fedbb861e60e185.bundle",
+      "member": "assets/aa/Android/3.61.0/viewconfigs-builtin_assets_ui_run_view_race_76af253409d5017e5fedbb861e60e185.bundle",
+      "bytes": 1925,
+      "sha256": "156b9ca4bd409aac688e1e743a4b8f0149a8e8f52667a7a8959459b021f131d0",
+      "extracted": "reference/recovered-environment/bundles/viewconfigs-builtin_assets_ui_run_view_race_76af253409d5017e5fedbb861e60e185.bundle"
+    },
+    {
+      "entry": 3117,
+      "catalogKey": "viewconfigs-builtin_assets_ui_run_view_time_limited_chase_target_5dce215d496696d224b976c6e4e0e33a.bundle",
+      "member": "assets/aa/Android/3.61.0/viewconfigs-builtin_assets_ui_run_view_time_limited_chase_target_5dce215d496696d224b976c6e4e0e33a.bundle",
+      "bytes": 1947,
+      "sha256": "8cf2fe2227bae13fff553f9f1fe988ccd98bea1983149a7bca3f70405b81c45d",
+      "extracted": "reference/recovered-environment/bundles/viewconfigs-builtin_assets_ui_run_view_time_limited_chase_target_5dce215d496696d224b976c6e4e0e33a.bundle"
+    },
+    {
+      "entry": 3118,
+      "catalogKey": "viewconfigs-builtin_assets_ui_run_view_time_limited_fe31864056fe1c7983ef3c02f3165feb.bundle",
+      "member": "assets/aa/Android/3.61.0/viewconfigs-builtin_assets_ui_run_view_time_limited_fe31864056fe1c7983ef3c02f3165feb.bundle",
+      "bytes": 1927,
+      "sha256": "77b011b7d8c192274d454dcdc011b67009f4fd6d04ef3af73d0073b5c3a3a104",
+      "extracted": "reference/recovered-environment/bundles/viewconfigs-builtin_assets_ui_run_view_time_limited_fe31864056fe1c7983ef3c02f3165feb.bundle"
+    }
+  ],
+  "thirdParty": "Original Subway Surfers assets; SYBO/Kiloo and respective rights holders. Local reference recovery."
+}

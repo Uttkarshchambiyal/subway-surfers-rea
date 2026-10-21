@@ -1,0 +1,226 @@
+{
+  "passed" : true,
+  "platform" : "Swift Foundation engine on macOS, no iOS runtime",
+  "results" : [
+    {
+      "detail" : "D=219.8684176494838 v=22.583798882679705 score=657",
+      "passed" : true,
+      "scenario" : "shared travel10s"
+    },
+    {
+      "detail" : "apex=3.8167242560409433 seconds=0.8916666666666666",
+      "passed" : true,
+      "scenario" : "shared jump apex and landing"
+    },
+    {
+      "detail" : "",
+      "passed" : true,
+      "scenario" : "shared linear lane timing"
+    },
+    {
+      "detail" : "",
+      "passed" : true,
+      "scenario" : "lane redirect continuity"
+    },
+    {
+      "detail" : "",
+      "passed" : true,
+      "scenario" : "shared power expiry"
+    },
+    {
+      "detail" : "",
+      "passed" : true,
+      "scenario" : "pause freezes distance and timers"
+    },
+    {
+      "detail" : "",
+      "passed" : true,
+      "scenario" : "explicit resume"
+    },
+    {
+      "detail" : "",
+      "passed" : true,
+      "scenario" : "board consumes inventory protects crash"
+    },
+    {
+      "detail" : "",
+      "passed" : true,
+      "scenario" : "ground barrier crashes"
+    },
+    {
+      "detail" : "",
+      "passed" : true,
+      "scenario" : "roll passes overhead"
+    },
+    {
+      "detail" : "",
+      "passed" : true,
+      "scenario" : "magnet attracts far opposite lane"
+    },
+    {
+      "detail" : "",
+      "passed" : true,
+      "scenario" : "pause freezes coin flight"
+    },
+    {
+      "detail" : "",
+      "passed" : true,
+      "scenario" : "flight survives expiry and credits once"
+    },
+    {
+      "detail" : "",
+      "passed" : true,
+      "scenario" : "magnet launches adjacent coin before credit"
+    },
+    {
+      "detail" : "",
+      "passed" : true,
+      "scenario" : "magnet collects adjacent lane on arrival"
+    },
+    {
+      "detail" : "",
+      "passed" : true,
+      "scenario" : "jetpack expiry landing grace"
+    },
+    {
+      "detail" : "",
+      "passed" : true,
+      "scenario" : "train roof supports runner"
+    },
+    {
+      "detail" : "",
+      "passed" : true,
+      "scenario" : "ramp floor ascends"
+    },
+    {
+      "detail" : "D=135.6143974368919, feet=0.0, state=running",
+      "passed" : true,
+      "scenario" : "canonical ramp approach reaches train roof"
+    },
+    {
+      "detail" : "",
+      "passed" : true,
+      "scenario" : "jetpack exact expiry step"
+    },
+    {
+      "detail" : "",
+      "passed" : true,
+      "scenario" : "jetpack safe gravity descent"
+    },
+    {
+      "detail" : "",
+      "passed" : true,
+      "scenario" : "boots jump and concurrent magnet"
+    },
+    {
+      "detail" : "",
+      "passed" : true,
+      "scenario" : "board expiry preserves trajectory"
+    },
+    {
+      "detail" : "",
+      "passed" : true,
+      "scenario" : "jetpack clears and rejects roll"
+    },
+    {
+      "detail" : "",
+      "passed" : true,
+      "scenario" : "swept high-speed coin"
+    },
+    {
+      "detail" : "",
+      "passed" : true,
+      "scenario" : "swept high-speed pickup"
+    },
+    {
+      "detail" : "",
+      "passed" : true,
+      "scenario" : "coin pickup and score"
+    },
+    {
+      "detail" : "",
+      "passed" : true,
+      "scenario" : "score multiplier"
+    },
+    {
+      "detail" : "",
+      "passed" : true,
+      "scenario" : "multiplier expiry never removes score"
+    },
+    {
+      "detail" : "",
+      "passed" : true,
+      "scenario" : "earned shop charges once"
+    },
+    {
+      "detail" : "",
+      "passed" : true,
+      "scenario" : "mission claims once"
+    },
+    {
+      "detail" : "",
+      "passed" : true,
+      "scenario" : "run settlement once"
+    },
+    {
+      "detail" : "",
+      "passed" : true,
+      "scenario" : "restart resets complete state"
+    },
+    {
+      "detail" : "distance=40863.56134261616, maxActive=78, active=51",
+      "passed" : true,
+      "scenario" : "1000 second bounded infinite route"
+    },
+    {
+      "detail" : "",
+      "passed" : true,
+      "scenario" : "lane input minimum travel gate"
+    },
+    {
+      "detail" : "",
+      "passed" : true,
+      "scenario" : "lane input reopens after travel"
+    },
+    {
+      "detail" : "",
+      "passed" : true,
+      "scenario" : "jetpack uses slower lane duration"
+    },
+    {
+      "detail" : "",
+      "passed" : true,
+      "scenario" : "jump grace after leaving support"
+    },
+    {
+      "detail" : "",
+      "passed" : true,
+      "scenario" : "jump grace cannot double jump"
+    },
+    {
+      "detail" : "",
+      "passed" : true,
+      "scenario" : "airborne dive and roll duration"
+    },
+    {
+      "detail" : "",
+      "passed" : true,
+      "scenario" : "jump rejected after support grace"
+    },
+    {
+      "detail" : "",
+      "passed" : true,
+      "scenario" : "boundary swipe keeps valid reverse available"
+    },
+    {
+      "detail" : "",
+      "passed" : true,
+      "scenario" : "native lateral reversal gate and proportional return"
+    },
+    {
+      "detail" : "",
+      "passed" : true,
+      "scenario" : "route repeats at shared cycle"
+    }
+  ]
+}

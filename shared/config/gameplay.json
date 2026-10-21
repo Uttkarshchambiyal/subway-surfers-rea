@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "title": "Subway Surfers Recreation",
+  "seed": 1337,
+  "fixedStep": 0.008333333333333333,
+  "laneWidth": 3.888888888888889,
+  "laneChangeSeconds": 0.27,
+  "initialSpeed": 21.38888888888889,
+  "maxSpeed": 42.77777777777778,
+  "acceleration": 0.11949099937926753,
+  "gravity": 38.88888888888889,
+  "jumpVelocity": 17.391639824998364,
+  "superJumpVelocity": 24.59549291242073,
+  "rollSeconds": 0.6,
+  "playerRadius": 0.36,
+  "standingHeight": 1.75,
+  "rollingHeight": 0.65,
+  "rowSpacing": 64,
+  "firstRow": 96,
+  "generationAhead": 300,
+  "despawnBehind": 24,
+  "magnetSeconds": 12,
+  "jetpackSeconds": 10,
+  "bootsSeconds": 12,
+  "multiplierSeconds": 12,
+  "boardSeconds": 20,
+  "jetpackHeight": 8,
+  "landingGraceSeconds": 1.5,
+  "boardGraceSeconds": 1,
+  "camera": {
+    "x": 0,
+    "y": 6.2,
+    "z": 7.45,
+    "lookY": 0.41,
+    "lookZ": -14,
+    "verticalFov": 68,
+    "lateralPositionFollow": 0.75,
+    "lateralTargetFollow": 0.55,
+    "jetpackVerticalFollow": 0.82,
+    "jumpVerticalFollow": 0.12,
+    "provenance": {
+      "verticalFov": "Serialized camConfig_Run._fieldOfView from original core-camera UnityFS bundle; runtime activation not yet traced",
+      "positionAndTarget": "Image-space fitted reconstruction, not a direct copy of original offset(0,33,-33); original world scale/focus modifiers unresolved",
+      "imageTargets": {
+        "horizonY": 0.3,
+        "headY": 0.68,
+        "feetY": 0.84
+      }
+    }
+  },
+  "colors": {
+    "sky": "#72c6fb",
+    "fog": "#aedcf1",
+    "ground": "#ac4c24",
+    "track": "#a84724",
+    "rail": "#777e83",
+    "train": "#7f8672",
+    "trainAccent": "#e1c94d",
+    "runner": "#42869d",
+    "pants": "#77acc5",
+    "coin": "#ffd02e"
+  },
+  "unlocks": [
+    {
+      "id": "coral",
+      "cost": 0,
+      "color": "#42869d",
+      "label": "Jake \u00b7 default outfit"
+    },
+    {
+      "id": "mint",
+      "cost": 120,
+      "color": "#52aa91",
+      "label": "Jake \u00b7 outfit 1"
+    },
+    {
+      "id": "violet",
+      "cost": 240,
+      "color": "#8c72bd",
+      "label": "Jake \u00b7 outfit 2"
+    }
+  ],
+  "jetpackSmoothing": 6,
+  "collisionHalfWidth": 1.46,
+  "coinPickupHalfWidth": 0.65,
+  "coinPickupHalfDepth": 0.7,
+  "coinPickupHalfHeight": 0.85,
+  "referenceVersion": "3.61.0 Easter Ireland",
+  "referenceUnitScale": 0.19444444444444445,
+  "jetpackLaneChangeSeconds": 0.54,
+  "laneInterpolation": "linear",
+  "jumpHeight": 3.888888888888889,
+  "diveVelocity": -17.5,
+  "groundedJumpGraceSeconds": 0.15,
+  "minimumLaneChangeTravel": 0.2916666666666667,
+  "routeCycleLength": 6144,
+  "referenceParameterProvenance": {
+    "source": "reference/native/core-character-decoded.json CharacterMotorConfig pathID8858910492168667143; original serialized core-character UnityFS bundle",
+    "normalization": "chosen reconstruction scale standingHeight1.75/originalColliderHeight9; not recovered original renderer world scale",
+    "unchangedTimeValues": [
+      "laneChangeSeconds.27",
+      "rollSeconds.6",
+      "jetpackLaneChangeSeconds.54",
+      "groundedJumpGraceSeconds.15"
+    ],
+    "limitations": [
+      "Serialized baseline; runtime modifiers/economy upgrades may override",
+      "Ballistic jump uses original gravity/height but original visual interpolation requires native semantics",
+      "Enhanced jump uses approximate ballistic double-height; original high-jump curve not yet ported",
+      "Route spacing64 is a fairness reconstruction for normalized speed, not original segment data"
+    ]
+  },
+  "laneDurationScalesWithSpeed": true,
+  "magnetAttractionRadius": 10.5,
+  "magnetFlightBaseSeconds": 0.34,
+  "magnetFlightSecondsPerUnit": 0.02
+}

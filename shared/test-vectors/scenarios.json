@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "id": "canonical-20s",
+  "dt": 0.008333333333333333,
+  "ticks": 2400,
+  "route": "shared/config/route.json",
+  "initialState": "running after start/reset; no starting ticks",
+  "collisionBypass": "set grace=1 immediately before every tick; diagnostic only, never normal play",
+  "actions": [
+    {
+      "tick": 30,
+      "action": "right"
+    },
+    {
+      "tick": 80,
+      "action": "jump"
+    },
+    {
+      "tick": 150,
+      "action": "roll"
+    },
+    {
+      "tick": 240,
+      "action": "left"
+    },
+    {
+      "tick": 300,
+      "action": "magnet"
+    },
+    {
+      "tick": 420,
+      "action": "jetpack"
+    },
+    {
+      "tick": 450,
+      "action": "boots"
+    },
+    {
+      "tick": 480,
+      "action": "multiplier"
+    },
+    {
+      "tick": 600,
+      "action": "left"
+    },
+    {
+      "tick": 1000,
+      "action": "right"
+    },
+    {
+      "tick": 1800,
+      "action": "jump"
+    },
+    {
+      "tick": 2000,
+      "action": "board"
+    }
+  ],
+  "sampleTicks": [
+    120,
+    240,
+    360,
+    600,
+    1200,
+    1800,
+    2400
+  ],
+  "fields": [
+    "distance",
+    "speed",
+    "x",
+    "y",
+    "coins",
+    "score",
+    "magnet",
+    "jetpack",
+    "boots",
+    "multiplier",
+    "board"
+  ],
+  "numericTolerance": 1e-05,
+  "coinTolerance": 0
+}

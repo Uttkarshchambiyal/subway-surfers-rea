@@ -1,0 +1,8625 @@
+{
+  "schemaVersion": 1,
+  "seed": 1337,
+  "cycleLength": 6144,
+  "rows": [
+    {
+      "row": 0,
+      "safeLane": 1,
+      "variant": 3,
+      "z": 96
+    },
+    {
+      "row": 1,
+      "safeLane": -1,
+      "variant": 0,
+      "z": 160
+    },
+    {
+      "row": 2,
+      "safeLane": 0,
+      "variant": 1,
+      "z": 224
+    },
+    {
+      "row": 3,
+      "safeLane": 0,
+      "variant": 3,
+      "z": 288
+    },
+    {
+      "row": 4,
+      "safeLane": 0,
+      "variant": 2,
+      "z": 352
+    },
+    {
+      "row": 5,
+      "safeLane": 0,
+      "variant": 1,
+      "z": 416
+    },
+    {
+      "row": 6,
+      "safeLane": 1,
+      "variant": 2,
+      "z": 480
+    },
+    {
+      "row": 7,
+      "safeLane": -1,
+      "variant": 4,
+      "z": 544
+    },
+    {
+      "row": 8,
+      "safeLane": 0,
+      "variant": 3,
+      "z": 608
+    },
+    {
+      "row": 9,
+      "safeLane": 0,
+      "variant": 1,
+      "z": 672
+    },
+    {
+      "row": 10,
+      "safeLane": 0,
+      "variant": 0,
+      "z": 736
+    },
+    {
+      "row": 11,
+      "safeLane": 0,
+      "variant": 0,
+      "z": 800
+    },
+    {
+      "row": 12,
+      "safeLane": 1,
+      "variant": 5,
+      "z": 864
+    },
+    {
+      "row": 13,
+      "safeLane": -1,
+      "variant": 1,
+      "z": 928
+    },
+    {
+      "row": 14,
+      "safeLane": -1,
+      "variant": 2,
+      "z": 992
+    },
+    {
+      "row": 15,
+      "safeLane": 1,
+      "variant": 2,
+      "z": 1056
+    },
+    {
+      "row": 16,
+      "safeLane": -1,
+      "variant": 0,
+      "z": 1120
+    },
+    {
+      "row": 17,
+      "safeLane": -1,
+      "variant": 2,
+      "z": 1184
+    },
+    {
+      "row": 18,
+      "safeLane": 1,
+      "variant": 1,
+      "z": 1248
+    },
+    {
+      "row": 19,
+      "safeLane": -1,
+      "variant": 2,
+      "z": 1312
+    },
+    {
+      "row": 20,
+      "safeLane": 0,
+      "variant": 3,
+      "z": 1376
+    },
+    {
+      "row": 21,
+      "safeLane": 1,
+      "variant": 5,
+      "z": 1440
+    },
+    {
+      "row": 22,
+      "safeLane": 0,
+      "variant": 5,
+      "z": 1504
+    },
+    {
+      "row": 23,
+      "safeLane": 1,
+      "variant": 2,
+      "z": 1568
+    },
+    {
+      "row": 24,
+      "safeLane": 0,
+      "variant": 5,
+      "z": 1632
+    },
+    {
+      "row": 25,
+      "safeLane": -1,
+      "variant": 4,
+      "z": 1696
+    },
+    {
+      "row": 26,
+      "safeLane": 0,
+      "variant": 2,
+      "z": 1760
+    },
+    {
+      "row": 27,
+      "safeLane": 1,
+      "variant": 1,
+      "z": 1824
+    },
+    {
+      "row": 28,
+      "safeLane": 1,
+      "variant": 1,
+      "z": 1888
+    },
+    {
+      "row": 29,
+      "safeLane": 0,
+      "variant": 0,
+      "z": 1952
+    },
+    {
+      "row": 30,
+      "safeLane": -1,
+      "variant": 4,
+      "z": 2016
+    },
+    {
+      "row": 31,
+      "safeLane": 0,
+      "variant": 0,
+      "z": 2080
+    },
+    {
+      "row": 32,
+      "safeLane": 0,
+      "variant": 2,
+      "z": 2144
+    },
+    {
+      "row": 33,
+      "safeLane": 1,
+      "variant": 2,
+      "z": 2208
+    },
+    {
+      "row": 34,
+      "safeLane": 0,
+      "variant": 5,
+      "z": 2272
+    },
+    {
+      "row": 35,
+      "safeLane": 1,
+      "variant": 3,
+      "z": 2336
+    },
+    {
+      "row": 36,
+      "safeLane": 0,
+      "variant": 5,
+      "z": 2400
+    },
+    {
+      "row": 37,
+      "safeLane": 1,
+      "variant": 4,
+      "z": 2464
+    },
+    {
+      "row": 38,
+      "safeLane": 1,
+      "variant": 4,
+      "z": 2528
+    },
+    {
+      "row": 39,
+      "safeLane": 0,
+      "variant": 5,
+      "z": 2592
+    },
+    {
+      "row": 40,
+      "safeLane": 1,
+      "variant": 0,
+      "z": 2656
+    },
+    {
+      "row": 41,
+      "safeLane": 0,
+      "variant": 2,
+      "z": 2720
+    },
+    {
+      "row": 42,
+      "safeLane": -1,
+      "variant": 0,
+      "z": 2784
+    },
+    {
+      "row": 43,
+      "safeLane": 1,
+      "variant": 3,
+      "z": 2848
+    },
+    {
+      "row": 44,
+      "safeLane": -1,
+      "variant": 1,
+      "z": 2912
+    },
+    {
+      "row": 45,
+      "safeLane": -1,
+      "variant": 4,
+      "z": 2976
+    },
+    {
+      "row": 46,
+      "safeLane": -1,
+      "variant": 0,
+      "z": 3040
+    },
+    {
+      "row": 47,
+      "safeLane": 1,
+      "variant": 2,
+      "z": 3104
+    },
+    {
+      "row": 48,
+      "safeLane": 1,
+      "variant": 2,
+      "z": 3168
+    },
+    {
+      "row": 49,
+      "safeLane": -1,
+      "variant": 1,
+      "z": 3232
+    },
+    {
+      "row": 50,
+      "safeLane": -1,
+      "variant": 2,
+      "z": 3296
+    },
+    {
+      "row": 51,
+      "safeLane": 1,
+      "variant": 5,
+      "z": 3360
+    },
+    {
+      "row": 52,
+      "safeLane": 0,
+      "variant": 2,
+      "z": 3424
+    },
+    {
+      "row": 53,
+      "safeLane": 0,
+      "variant": 4,
+      "z": 3488
+    },
+    {
+      "row": 54,
+      "safeLane": 1,
+      "variant": 3,
+      "z": 3552
+    },
+    {
+      "row": 55,
+      "safeLane": -1,
+      "variant": 2,
+      "z": 3616
+    },
+    {
+      "row": 56,
+      "safeLane": -1,
+      "variant": 0,
+      "z": 3680
+    },
+    {
+      "row": 57,
+      "safeLane": 0,
+      "variant": 5,
+      "z": 3744
+    },
+    {
+      "row": 58,
+      "safeLane": 1,
+      "variant": 0,
+      "z": 3808
+    },
+    {
+      "row": 59,
+      "safeLane": -1,
+      "variant": 1,
+      "z": 3872
+    },
+    {
+      "row": 60,
+      "safeLane": 0,
+      "variant": 1,
+      "z": 3936
+    },
+    {
+      "row": 61,
+      "safeLane": 1,
+      "variant": 3,
+      "z": 4000
+    },
+    {
+      "row": 62,
+      "safeLane": 1,
+      "variant": 3,
+      "z": 4064
+    },
+    {
+      "row": 63,
+      "safeLane": 0,
+      "variant": 0,
+      "z": 4128
+    },
+    {
+      "row": 64,
+      "safeLane": 0,
+      "variant": 3,
+      "z": 4192
+    },
+    {
+      "row": 65,
+      "safeLane": 1,
+      "variant": 1,
+      "z": 4256
+    },
+    {
+      "row": 66,
+      "safeLane": -1,
+      "variant": 0,
+      "z": 4320
+    },
+    {
+      "row": 67,
+      "safeLane": -1,
+      "variant": 5,
+      "z": 4384
+    },
+    {
+      "row": 68,
+      "safeLane": 0,
+      "variant": 4,
+      "z": 4448
+    },
+    {
+      "row": 69,
+      "safeLane": 1,
+      "variant": 3,
+      "z": 4512
+    },
+    {
+      "row": 70,
+      "safeLane": -1,
+      "variant": 3,
+      "z": 4576
+    },
+    {
+      "row": 71,
+      "safeLane": 1,
+      "variant": 4,
+      "z": 4640
+    },
+    {
+      "row": 72,
+      "safeLane": 1,
+      "variant": 0,
+      "z": 4704
+    },
+    {
+      "row": 73,
+      "safeLane": 1,
+      "variant": 1,
+      "z": 4768
+    },
+    {
+      "row": 74,
+      "safeLane": 1,
+      "variant": 3,
+      "z": 4832
+    },
+    {
+      "row": 75,
+      "safeLane": 0,
+      "variant": 3,
+      "z": 4896
+    },
+    {
+      "row": 76,
+      "safeLane": 1,
+      "variant": 2,
+      "z": 4960
+    },
+    {
+      "row": 77,
+      "safeLane": -1,
+      "variant": 3,
+      "z": 5024
+    },
+    {
+      "row": 78,
+      "safeLane": -1,
+      "variant": 0,
+      "z": 5088
+    },
+    {
+      "row": 79,
+      "safeLane": -1,
+      "variant": 1,
+      "z": 5152
+    },
+    {
+      "row": 80,
+      "safeLane": 1,
+      "variant": 1,
+      "z": 5216
+    },
+    {
+      "row": 81,
+      "safeLane": 1,
+      "variant": 5,
+      "z": 5280
+    },
+    {
+      "row": 82,
+      "safeLane": 1,
+      "variant": 2,
+      "z": 5344
+    },
+    {
+      "row": 83,
+      "safeLane": 0,
+      "variant": 1,
+      "z": 5408
+    },
+    {
+      "row": 84,
+      "safeLane": 0,
+      "variant": 4,
+      "z": 5472
+    },
+    {
+      "row": 85,
+      "safeLane": 1,
+      "variant": 4,
+      "z": 5536
+    },
+    {
+      "row": 86,
+      "safeLane": 1,
+      "variant": 5,
+      "z": 5600
+    },
+    {
+      "row": 87,
+      "safeLane": -1,
+      "variant": 4,
+      "z": 5664
+    },
+    {
+      "row": 88,
+      "safeLane": 1,
+      "variant": 4,
+      "z": 5728
+    },
+    {
+      "row": 89,
+      "safeLane": 1,
+      "variant": 2,
+      "z": 5792
+    },
+    {
+      "row": 90,
+      "safeLane": 1,
+      "variant": 1,
+      "z": 5856
+    },
+    {
+      "row": 91,
+      "safeLane": -1,
+      "variant": 5,
+      "z": 5920
+    },
+    {
+      "row": 92,
+      "safeLane": -1,
+      "variant": 0,
+      "z": 5984
+    },
+    {
+      "row": 93,
+      "safeLane": 1,
+      "variant": 3,
+      "z": 6048
+    },
+    {
+      "row": 94,
+      "safeLane": 0,
+      "variant": 1,
+      "z": 6112
+    },
+    {
+      "row": 95,
+      "safeLane": 0,
+      "variant": 0,
+      "z": 6176
+    }
+  ],
+  "entities": [
+    {
+      "id": 0,
+      "kind": "movingTrain",
+      "lane": -1,
+      "z": 96,
+      "y": 0,
+      "length": 10
+    },
+    {
+      "id": 1,
+      "kind": "coin",
+      "lane": 1,
+      "z": 84.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 2,
+      "kind": "coin",
+      "lane": 1,
+      "z": 87.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 3,
+      "kind": "coin",
+      "lane": 1,
+      "z": 91.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 4,
+      "kind": "coin",
+      "lane": 1,
+      "z": 94.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 5,
+      "kind": "coin",
+      "lane": 1,
+      "z": 98.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 6,
+      "kind": "coin",
+      "lane": 1,
+      "z": 101.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 7,
+      "kind": "ramp",
+      "lane": 0,
+      "z": 153,
+      "y": 0,
+      "length": 7
+    },
+    {
+      "id": 8,
+      "kind": "train",
+      "lane": 0,
+      "z": 160,
+      "y": 0,
+      "length": 10
+    },
+    {
+      "id": 9,
+      "kind": "coin",
+      "lane": 0,
+      "z": 160.0,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 10,
+      "kind": "coin",
+      "lane": 0,
+      "z": 162.2,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 11,
+      "kind": "coin",
+      "lane": 0,
+      "z": 164.4,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 12,
+      "kind": "coin",
+      "lane": 0,
+      "z": 166.6,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 13,
+      "kind": "overhead",
+      "lane": 1,
+      "z": 162,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 14,
+      "kind": "coin",
+      "lane": -1,
+      "z": 148.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 15,
+      "kind": "coin",
+      "lane": -1,
+      "z": 151.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 16,
+      "kind": "coin",
+      "lane": -1,
+      "z": 155.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 17,
+      "kind": "coin",
+      "lane": -1,
+      "z": 158.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 18,
+      "kind": "coin",
+      "lane": -1,
+      "z": 162.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 19,
+      "kind": "coin",
+      "lane": -1,
+      "z": 165.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 20,
+      "kind": "magnet",
+      "lane": -1,
+      "z": 173,
+      "y": 1.1,
+      "length": 1
+    },
+    {
+      "id": 21,
+      "kind": "overhead",
+      "lane": -1,
+      "z": 224,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 22,
+      "kind": "barrier",
+      "lane": 1,
+      "z": 226,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 23,
+      "kind": "coin",
+      "lane": 0,
+      "z": 212.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 24,
+      "kind": "coin",
+      "lane": 0,
+      "z": 215.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 25,
+      "kind": "coin",
+      "lane": 0,
+      "z": 219.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 26,
+      "kind": "coin",
+      "lane": 0,
+      "z": 222.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 27,
+      "kind": "coin",
+      "lane": 0,
+      "z": 226.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 28,
+      "kind": "coin",
+      "lane": 0,
+      "z": 229.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 29,
+      "kind": "movingTrain",
+      "lane": -1,
+      "z": 288,
+      "y": 0,
+      "length": 10
+    },
+    {
+      "id": 30,
+      "kind": "coin",
+      "lane": 0,
+      "z": 276.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 31,
+      "kind": "coin",
+      "lane": 0,
+      "z": 279.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 32,
+      "kind": "coin",
+      "lane": 0,
+      "z": 283.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 33,
+      "kind": "coin",
+      "lane": 0,
+      "z": 286.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 34,
+      "kind": "coin",
+      "lane": 0,
+      "z": 290.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 35,
+      "kind": "coin",
+      "lane": 0,
+      "z": 293.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 36,
+      "kind": "train",
+      "lane": -1,
+      "z": 352,
+      "y": 0,
+      "length": 10
+    },
+    {
+      "id": 37,
+      "kind": "overhead",
+      "lane": 1,
+      "z": 354,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 38,
+      "kind": "coin",
+      "lane": 0,
+      "z": 340.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 39,
+      "kind": "coin",
+      "lane": 0,
+      "z": 343.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 40,
+      "kind": "coin",
+      "lane": 0,
+      "z": 347.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 41,
+      "kind": "coin",
+      "lane": 0,
+      "z": 350.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 42,
+      "kind": "coin",
+      "lane": 0,
+      "z": 354.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 43,
+      "kind": "coin",
+      "lane": 0,
+      "z": 357.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 44,
+      "kind": "overhead",
+      "lane": -1,
+      "z": 416,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 45,
+      "kind": "barrier",
+      "lane": 1,
+      "z": 418,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 46,
+      "kind": "coin",
+      "lane": 0,
+      "z": 404.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 47,
+      "kind": "coin",
+      "lane": 0,
+      "z": 407.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 48,
+      "kind": "coin",
+      "lane": 0,
+      "z": 411.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 49,
+      "kind": "coin",
+      "lane": 0,
+      "z": 414.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 50,
+      "kind": "coin",
+      "lane": 0,
+      "z": 418.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 51,
+      "kind": "coin",
+      "lane": 0,
+      "z": 421.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 52,
+      "kind": "jetpack",
+      "lane": 0,
+      "z": 429,
+      "y": 1.1,
+      "length": 1
+    },
+    {
+      "id": 53,
+      "kind": "coin",
+      "lane": 0,
+      "z": 436,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 54,
+      "kind": "coin",
+      "lane": 0,
+      "z": 441,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 55,
+      "kind": "coin",
+      "lane": 0,
+      "z": 446,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 56,
+      "kind": "coin",
+      "lane": 0,
+      "z": 451,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 57,
+      "kind": "coin",
+      "lane": 0,
+      "z": 456,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 58,
+      "kind": "coin",
+      "lane": 0,
+      "z": 461,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 59,
+      "kind": "coin",
+      "lane": 0,
+      "z": 466,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 60,
+      "kind": "coin",
+      "lane": 0,
+      "z": 471,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 61,
+      "kind": "coin",
+      "lane": 0,
+      "z": 476,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 62,
+      "kind": "coin",
+      "lane": 0,
+      "z": 481,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 63,
+      "kind": "coin",
+      "lane": 0,
+      "z": 486,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 64,
+      "kind": "coin",
+      "lane": 0,
+      "z": 491,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 65,
+      "kind": "coin",
+      "lane": 0,
+      "z": 496,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 66,
+      "kind": "coin",
+      "lane": 0,
+      "z": 501,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 67,
+      "kind": "coin",
+      "lane": 0,
+      "z": 506,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 68,
+      "kind": "coin",
+      "lane": 0,
+      "z": 511,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 69,
+      "kind": "coin",
+      "lane": 0,
+      "z": 516,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 70,
+      "kind": "coin",
+      "lane": 0,
+      "z": 521,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 71,
+      "kind": "coin",
+      "lane": 0,
+      "z": 526,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 72,
+      "kind": "coin",
+      "lane": 0,
+      "z": 531,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 73,
+      "kind": "coin",
+      "lane": 0,
+      "z": 536,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 74,
+      "kind": "coin",
+      "lane": 0,
+      "z": 541,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 75,
+      "kind": "coin",
+      "lane": 0,
+      "z": 546,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 76,
+      "kind": "coin",
+      "lane": 0,
+      "z": 551,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 77,
+      "kind": "coin",
+      "lane": 0,
+      "z": 556,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 78,
+      "kind": "coin",
+      "lane": 0,
+      "z": 561,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 79,
+      "kind": "coin",
+      "lane": 0,
+      "z": 566,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 80,
+      "kind": "coin",
+      "lane": 0,
+      "z": 571,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 81,
+      "kind": "coin",
+      "lane": 0,
+      "z": 576,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 82,
+      "kind": "coin",
+      "lane": 0,
+      "z": 581,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 83,
+      "kind": "coin",
+      "lane": 0,
+      "z": 586,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 84,
+      "kind": "coin",
+      "lane": 0,
+      "z": 591,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 85,
+      "kind": "train",
+      "lane": -1,
+      "z": 480,
+      "y": 0,
+      "length": 10
+    },
+    {
+      "id": 86,
+      "kind": "coin",
+      "lane": 1,
+      "z": 468.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 87,
+      "kind": "coin",
+      "lane": 1,
+      "z": 471.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 88,
+      "kind": "coin",
+      "lane": 1,
+      "z": 475.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 89,
+      "kind": "coin",
+      "lane": 1,
+      "z": 478.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 90,
+      "kind": "coin",
+      "lane": 1,
+      "z": 482.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 91,
+      "kind": "coin",
+      "lane": 1,
+      "z": 485.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 92,
+      "kind": "barrier",
+      "lane": 0,
+      "z": 544,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 93,
+      "kind": "overhead",
+      "lane": 1,
+      "z": 546,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 94,
+      "kind": "coin",
+      "lane": -1,
+      "z": 532.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 95,
+      "kind": "coin",
+      "lane": -1,
+      "z": 535.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 96,
+      "kind": "coin",
+      "lane": -1,
+      "z": 539.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 97,
+      "kind": "coin",
+      "lane": -1,
+      "z": 542.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 98,
+      "kind": "coin",
+      "lane": -1,
+      "z": 546.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 99,
+      "kind": "coin",
+      "lane": -1,
+      "z": 549.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 100,
+      "kind": "movingTrain",
+      "lane": -1,
+      "z": 608,
+      "y": 0,
+      "length": 10
+    },
+    {
+      "id": 101,
+      "kind": "barrier",
+      "lane": 1,
+      "z": 610,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 102,
+      "kind": "coin",
+      "lane": 0,
+      "z": 596.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 103,
+      "kind": "coin",
+      "lane": 0,
+      "z": 599.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 104,
+      "kind": "coin",
+      "lane": 0,
+      "z": 603.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 105,
+      "kind": "coin",
+      "lane": 0,
+      "z": 606.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 106,
+      "kind": "coin",
+      "lane": 0,
+      "z": 610.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 107,
+      "kind": "coin",
+      "lane": 0,
+      "z": 613.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 108,
+      "kind": "overhead",
+      "lane": -1,
+      "z": 672,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 109,
+      "kind": "coin",
+      "lane": 0,
+      "z": 660.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 110,
+      "kind": "coin",
+      "lane": 0,
+      "z": 663.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 111,
+      "kind": "coin",
+      "lane": 0,
+      "z": 667.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 112,
+      "kind": "coin",
+      "lane": 0,
+      "z": 670.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 113,
+      "kind": "coin",
+      "lane": 0,
+      "z": 674.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 114,
+      "kind": "coin",
+      "lane": 0,
+      "z": 677.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 115,
+      "kind": "boots",
+      "lane": 0,
+      "z": 685,
+      "y": 1.1,
+      "length": 1
+    },
+    {
+      "id": 116,
+      "kind": "ramp",
+      "lane": -1,
+      "z": 729,
+      "y": 0,
+      "length": 7
+    },
+    {
+      "id": 117,
+      "kind": "train",
+      "lane": -1,
+      "z": 736,
+      "y": 0,
+      "length": 10
+    },
+    {
+      "id": 118,
+      "kind": "coin",
+      "lane": -1,
+      "z": 736.0,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 119,
+      "kind": "coin",
+      "lane": -1,
+      "z": 738.2,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 120,
+      "kind": "coin",
+      "lane": -1,
+      "z": 740.4,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 121,
+      "kind": "coin",
+      "lane": -1,
+      "z": 742.6,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 122,
+      "kind": "overhead",
+      "lane": 1,
+      "z": 738,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 123,
+      "kind": "coin",
+      "lane": 0,
+      "z": 724.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 124,
+      "kind": "coin",
+      "lane": 0,
+      "z": 727.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 125,
+      "kind": "coin",
+      "lane": 0,
+      "z": 731.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 126,
+      "kind": "coin",
+      "lane": 0,
+      "z": 734.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 127,
+      "kind": "coin",
+      "lane": 0,
+      "z": 738.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 128,
+      "kind": "coin",
+      "lane": 0,
+      "z": 741.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 129,
+      "kind": "ramp",
+      "lane": -1,
+      "z": 793,
+      "y": 0,
+      "length": 7
+    },
+    {
+      "id": 130,
+      "kind": "train",
+      "lane": -1,
+      "z": 800,
+      "y": 0,
+      "length": 10
+    },
+    {
+      "id": 131,
+      "kind": "coin",
+      "lane": -1,
+      "z": 800.0,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 132,
+      "kind": "coin",
+      "lane": -1,
+      "z": 802.2,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 133,
+      "kind": "coin",
+      "lane": -1,
+      "z": 804.4,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 134,
+      "kind": "coin",
+      "lane": -1,
+      "z": 806.6,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 135,
+      "kind": "overhead",
+      "lane": 1,
+      "z": 802,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 136,
+      "kind": "coin",
+      "lane": 0,
+      "z": 788.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 137,
+      "kind": "coin",
+      "lane": 0,
+      "z": 791.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 138,
+      "kind": "coin",
+      "lane": 0,
+      "z": 795.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 139,
+      "kind": "coin",
+      "lane": 0,
+      "z": 798.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 140,
+      "kind": "coin",
+      "lane": 0,
+      "z": 802.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 141,
+      "kind": "coin",
+      "lane": 0,
+      "z": 805.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 142,
+      "kind": "overhead",
+      "lane": -1,
+      "z": 864,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 143,
+      "kind": "coin",
+      "lane": 1,
+      "z": 852.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 144,
+      "kind": "coin",
+      "lane": 1,
+      "z": 855.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 145,
+      "kind": "coin",
+      "lane": 1,
+      "z": 859.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 146,
+      "kind": "coin",
+      "lane": 1,
+      "z": 862.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 147,
+      "kind": "coin",
+      "lane": 1,
+      "z": 866.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 148,
+      "kind": "coin",
+      "lane": 1,
+      "z": 869.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 149,
+      "kind": "overhead",
+      "lane": 0,
+      "z": 928,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 150,
+      "kind": "barrier",
+      "lane": 1,
+      "z": 930,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 151,
+      "kind": "coin",
+      "lane": -1,
+      "z": 916.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 152,
+      "kind": "coin",
+      "lane": -1,
+      "z": 919.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 153,
+      "kind": "coin",
+      "lane": -1,
+      "z": 923.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 154,
+      "kind": "coin",
+      "lane": -1,
+      "z": 926.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 155,
+      "kind": "coin",
+      "lane": -1,
+      "z": 930.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 156,
+      "kind": "coin",
+      "lane": -1,
+      "z": 933.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 157,
+      "kind": "multiplier",
+      "lane": -1,
+      "z": 941,
+      "y": 1.1,
+      "length": 1
+    },
+    {
+      "id": 158,
+      "kind": "train",
+      "lane": 0,
+      "z": 992,
+      "y": 0,
+      "length": 10
+    },
+    {
+      "id": 159,
+      "kind": "overhead",
+      "lane": 1,
+      "z": 994,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 160,
+      "kind": "coin",
+      "lane": -1,
+      "z": 980.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 161,
+      "kind": "coin",
+      "lane": -1,
+      "z": 983.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 162,
+      "kind": "coin",
+      "lane": -1,
+      "z": 987.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 163,
+      "kind": "coin",
+      "lane": -1,
+      "z": 990.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 164,
+      "kind": "coin",
+      "lane": -1,
+      "z": 994.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 165,
+      "kind": "coin",
+      "lane": -1,
+      "z": 997.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 166,
+      "kind": "train",
+      "lane": -1,
+      "z": 1056,
+      "y": 0,
+      "length": 10
+    },
+    {
+      "id": 167,
+      "kind": "coin",
+      "lane": 1,
+      "z": 1044.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 168,
+      "kind": "coin",
+      "lane": 1,
+      "z": 1047.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 169,
+      "kind": "coin",
+      "lane": 1,
+      "z": 1051.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 170,
+      "kind": "coin",
+      "lane": 1,
+      "z": 1054.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 171,
+      "kind": "coin",
+      "lane": 1,
+      "z": 1058.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 172,
+      "kind": "coin",
+      "lane": 1,
+      "z": 1061.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 173,
+      "kind": "ramp",
+      "lane": 0,
+      "z": 1113,
+      "y": 0,
+      "length": 7
+    },
+    {
+      "id": 174,
+      "kind": "train",
+      "lane": 0,
+      "z": 1120,
+      "y": 0,
+      "length": 10
+    },
+    {
+      "id": 175,
+      "kind": "coin",
+      "lane": 0,
+      "z": 1120.0,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 176,
+      "kind": "coin",
+      "lane": 0,
+      "z": 1122.2,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 177,
+      "kind": "coin",
+      "lane": 0,
+      "z": 1124.4,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 178,
+      "kind": "coin",
+      "lane": 0,
+      "z": 1126.6,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 179,
+      "kind": "overhead",
+      "lane": 1,
+      "z": 1122,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 180,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1108.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 181,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1111.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 182,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1115.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 183,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1118.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 184,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1122.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 185,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1125.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 186,
+      "kind": "train",
+      "lane": 0,
+      "z": 1184,
+      "y": 0,
+      "length": 10
+    },
+    {
+      "id": 187,
+      "kind": "overhead",
+      "lane": 1,
+      "z": 1186,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 188,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1172.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 189,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1175.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 190,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1179.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 191,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1182.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 192,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1186.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 193,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1189.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 194,
+      "kind": "board",
+      "lane": -1,
+      "z": 1197,
+      "y": 1.1,
+      "length": 1
+    },
+    {
+      "id": 195,
+      "kind": "overhead",
+      "lane": -1,
+      "z": 1248,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 196,
+      "kind": "coin",
+      "lane": 1,
+      "z": 1236.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 197,
+      "kind": "coin",
+      "lane": 1,
+      "z": 1239.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 198,
+      "kind": "coin",
+      "lane": 1,
+      "z": 1243.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 199,
+      "kind": "coin",
+      "lane": 1,
+      "z": 1246.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 200,
+      "kind": "coin",
+      "lane": 1,
+      "z": 1250.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 201,
+      "kind": "coin",
+      "lane": 1,
+      "z": 1253.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 202,
+      "kind": "train",
+      "lane": 0,
+      "z": 1312,
+      "y": 0,
+      "length": 10
+    },
+    {
+      "id": 203,
+      "kind": "overhead",
+      "lane": 1,
+      "z": 1314,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 204,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1300.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 205,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1303.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 206,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1307.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 207,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1310.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 208,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1314.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 209,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1317.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 210,
+      "kind": "movingTrain",
+      "lane": -1,
+      "z": 1376,
+      "y": 0,
+      "length": 10
+    },
+    {
+      "id": 211,
+      "kind": "barrier",
+      "lane": 1,
+      "z": 1378,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 212,
+      "kind": "coin",
+      "lane": 0,
+      "z": 1364.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 213,
+      "kind": "coin",
+      "lane": 0,
+      "z": 1367.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 214,
+      "kind": "coin",
+      "lane": 0,
+      "z": 1371.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 215,
+      "kind": "coin",
+      "lane": 0,
+      "z": 1374.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 216,
+      "kind": "coin",
+      "lane": 0,
+      "z": 1378.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 217,
+      "kind": "coin",
+      "lane": 0,
+      "z": 1381.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 218,
+      "kind": "overhead",
+      "lane": -1,
+      "z": 1440,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 219,
+      "kind": "coin",
+      "lane": 1,
+      "z": 1428.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 220,
+      "kind": "coin",
+      "lane": 1,
+      "z": 1431.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 221,
+      "kind": "coin",
+      "lane": 1,
+      "z": 1435.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 222,
+      "kind": "coin",
+      "lane": 1,
+      "z": 1438.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 223,
+      "kind": "coin",
+      "lane": 1,
+      "z": 1442.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 224,
+      "kind": "coin",
+      "lane": 1,
+      "z": 1445.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 225,
+      "kind": "magnet",
+      "lane": 1,
+      "z": 1453,
+      "y": 1.1,
+      "length": 1
+    },
+    {
+      "id": 226,
+      "kind": "overhead",
+      "lane": -1,
+      "z": 1504,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 227,
+      "kind": "barrier",
+      "lane": 1,
+      "z": 1506,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 228,
+      "kind": "coin",
+      "lane": 0,
+      "z": 1492.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 229,
+      "kind": "coin",
+      "lane": 0,
+      "z": 1495.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 230,
+      "kind": "coin",
+      "lane": 0,
+      "z": 1499.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 231,
+      "kind": "coin",
+      "lane": 0,
+      "z": 1502.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 232,
+      "kind": "coin",
+      "lane": 0,
+      "z": 1506.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 233,
+      "kind": "coin",
+      "lane": 0,
+      "z": 1509.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 234,
+      "kind": "train",
+      "lane": -1,
+      "z": 1568,
+      "y": 0,
+      "length": 10
+    },
+    {
+      "id": 235,
+      "kind": "overhead",
+      "lane": 0,
+      "z": 1570,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 236,
+      "kind": "coin",
+      "lane": 1,
+      "z": 1556.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 237,
+      "kind": "coin",
+      "lane": 1,
+      "z": 1559.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 238,
+      "kind": "coin",
+      "lane": 1,
+      "z": 1563.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 239,
+      "kind": "coin",
+      "lane": 1,
+      "z": 1566.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 240,
+      "kind": "coin",
+      "lane": 1,
+      "z": 1570.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 241,
+      "kind": "coin",
+      "lane": 1,
+      "z": 1573.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 242,
+      "kind": "overhead",
+      "lane": -1,
+      "z": 1632,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 243,
+      "kind": "coin",
+      "lane": 0,
+      "z": 1620.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 244,
+      "kind": "coin",
+      "lane": 0,
+      "z": 1623.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 245,
+      "kind": "coin",
+      "lane": 0,
+      "z": 1627.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 246,
+      "kind": "coin",
+      "lane": 0,
+      "z": 1630.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 247,
+      "kind": "coin",
+      "lane": 0,
+      "z": 1634.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 248,
+      "kind": "coin",
+      "lane": 0,
+      "z": 1637.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 249,
+      "kind": "barrier",
+      "lane": 0,
+      "z": 1696,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 250,
+      "kind": "overhead",
+      "lane": 1,
+      "z": 1698,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 251,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1684.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 252,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1687.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 253,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1691.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 254,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1694.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 255,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1698.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 256,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1701.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 257,
+      "kind": "jetpack",
+      "lane": -1,
+      "z": 1709,
+      "y": 1.1,
+      "length": 1
+    },
+    {
+      "id": 258,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1716,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 259,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1721,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 260,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1726,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 261,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1731,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 262,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1736,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 263,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1741,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 264,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1746,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 265,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1751,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 266,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1756,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 267,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1761,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 268,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1766,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 269,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1771,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 270,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1776,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 271,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1781,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 272,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1786,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 273,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1791,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 274,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1796,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 275,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1801,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 276,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1806,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 277,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1811,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 278,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1816,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 279,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1821,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 280,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1826,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 281,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1831,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 282,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1836,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 283,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1841,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 284,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1846,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 285,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1851,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 286,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1856,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 287,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1861,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 288,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1866,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 289,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1871,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 290,
+      "kind": "train",
+      "lane": -1,
+      "z": 1760,
+      "y": 0,
+      "length": 10
+    },
+    {
+      "id": 291,
+      "kind": "overhead",
+      "lane": 1,
+      "z": 1762,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 292,
+      "kind": "coin",
+      "lane": 0,
+      "z": 1748.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 293,
+      "kind": "coin",
+      "lane": 0,
+      "z": 1751.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 294,
+      "kind": "coin",
+      "lane": 0,
+      "z": 1755.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 295,
+      "kind": "coin",
+      "lane": 0,
+      "z": 1758.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 296,
+      "kind": "coin",
+      "lane": 0,
+      "z": 1762.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 297,
+      "kind": "coin",
+      "lane": 0,
+      "z": 1765.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 298,
+      "kind": "overhead",
+      "lane": -1,
+      "z": 1824,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 299,
+      "kind": "coin",
+      "lane": 1,
+      "z": 1812.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 300,
+      "kind": "coin",
+      "lane": 1,
+      "z": 1815.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 301,
+      "kind": "coin",
+      "lane": 1,
+      "z": 1819.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 302,
+      "kind": "coin",
+      "lane": 1,
+      "z": 1822.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 303,
+      "kind": "coin",
+      "lane": 1,
+      "z": 1826.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 304,
+      "kind": "coin",
+      "lane": 1,
+      "z": 1829.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 305,
+      "kind": "overhead",
+      "lane": -1,
+      "z": 1888,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 306,
+      "kind": "barrier",
+      "lane": 0,
+      "z": 1890,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 307,
+      "kind": "coin",
+      "lane": 1,
+      "z": 1876.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 308,
+      "kind": "coin",
+      "lane": 1,
+      "z": 1879.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 309,
+      "kind": "coin",
+      "lane": 1,
+      "z": 1883.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 310,
+      "kind": "coin",
+      "lane": 1,
+      "z": 1886.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 311,
+      "kind": "coin",
+      "lane": 1,
+      "z": 1890.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 312,
+      "kind": "coin",
+      "lane": 1,
+      "z": 1893.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 313,
+      "kind": "ramp",
+      "lane": -1,
+      "z": 1945,
+      "y": 0,
+      "length": 7
+    },
+    {
+      "id": 314,
+      "kind": "train",
+      "lane": -1,
+      "z": 1952,
+      "y": 0,
+      "length": 10
+    },
+    {
+      "id": 315,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1952.0,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 316,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1954.2,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 317,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1956.4,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 318,
+      "kind": "coin",
+      "lane": -1,
+      "z": 1958.6,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 319,
+      "kind": "overhead",
+      "lane": 1,
+      "z": 1954,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 320,
+      "kind": "coin",
+      "lane": 0,
+      "z": 1940.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 321,
+      "kind": "coin",
+      "lane": 0,
+      "z": 1943.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 322,
+      "kind": "coin",
+      "lane": 0,
+      "z": 1947.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 323,
+      "kind": "coin",
+      "lane": 0,
+      "z": 1950.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 324,
+      "kind": "coin",
+      "lane": 0,
+      "z": 1954.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 325,
+      "kind": "coin",
+      "lane": 0,
+      "z": 1957.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 326,
+      "kind": "boots",
+      "lane": 0,
+      "z": 1965,
+      "y": 1.1,
+      "length": 1
+    },
+    {
+      "id": 327,
+      "kind": "barrier",
+      "lane": 0,
+      "z": 2016,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 328,
+      "kind": "coin",
+      "lane": -1,
+      "z": 2004.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 329,
+      "kind": "coin",
+      "lane": -1,
+      "z": 2007.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 330,
+      "kind": "coin",
+      "lane": -1,
+      "z": 2011.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 331,
+      "kind": "coin",
+      "lane": -1,
+      "z": 2014.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 332,
+      "kind": "coin",
+      "lane": -1,
+      "z": 2018.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 333,
+      "kind": "coin",
+      "lane": -1,
+      "z": 2021.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 334,
+      "kind": "ramp",
+      "lane": -1,
+      "z": 2073,
+      "y": 0,
+      "length": 7
+    },
+    {
+      "id": 335,
+      "kind": "train",
+      "lane": -1,
+      "z": 2080,
+      "y": 0,
+      "length": 10
+    },
+    {
+      "id": 336,
+      "kind": "coin",
+      "lane": -1,
+      "z": 2080.0,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 337,
+      "kind": "coin",
+      "lane": -1,
+      "z": 2082.2,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 338,
+      "kind": "coin",
+      "lane": -1,
+      "z": 2084.4,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 339,
+      "kind": "coin",
+      "lane": -1,
+      "z": 2086.6,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 340,
+      "kind": "overhead",
+      "lane": 1,
+      "z": 2082,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 341,
+      "kind": "coin",
+      "lane": 0,
+      "z": 2068.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 342,
+      "kind": "coin",
+      "lane": 0,
+      "z": 2071.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 343,
+      "kind": "coin",
+      "lane": 0,
+      "z": 2075.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 344,
+      "kind": "coin",
+      "lane": 0,
+      "z": 2078.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 345,
+      "kind": "coin",
+      "lane": 0,
+      "z": 2082.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 346,
+      "kind": "coin",
+      "lane": 0,
+      "z": 2085.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 347,
+      "kind": "train",
+      "lane": -1,
+      "z": 2144,
+      "y": 0,
+      "length": 10
+    },
+    {
+      "id": 348,
+      "kind": "overhead",
+      "lane": 1,
+      "z": 2146,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 349,
+      "kind": "coin",
+      "lane": 0,
+      "z": 2132.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 350,
+      "kind": "coin",
+      "lane": 0,
+      "z": 2135.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 351,
+      "kind": "coin",
+      "lane": 0,
+      "z": 2139.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 352,
+      "kind": "coin",
+      "lane": 0,
+      "z": 2142.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 353,
+      "kind": "coin",
+      "lane": 0,
+      "z": 2146.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 354,
+      "kind": "coin",
+      "lane": 0,
+      "z": 2149.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 355,
+      "kind": "train",
+      "lane": -1,
+      "z": 2208,
+      "y": 0,
+      "length": 10
+    },
+    {
+      "id": 356,
+      "kind": "coin",
+      "lane": 1,
+      "z": 2196.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 357,
+      "kind": "coin",
+      "lane": 1,
+      "z": 2199.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 358,
+      "kind": "coin",
+      "lane": 1,
+      "z": 2203.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 359,
+      "kind": "coin",
+      "lane": 1,
+      "z": 2206.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 360,
+      "kind": "coin",
+      "lane": 1,
+      "z": 2210.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 361,
+      "kind": "coin",
+      "lane": 1,
+      "z": 2213.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 362,
+      "kind": "multiplier",
+      "lane": 1,
+      "z": 2221,
+      "y": 1.1,
+      "length": 1
+    },
+    {
+      "id": 363,
+      "kind": "overhead",
+      "lane": -1,
+      "z": 2272,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 364,
+      "kind": "barrier",
+      "lane": 1,
+      "z": 2274,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 365,
+      "kind": "coin",
+      "lane": 0,
+      "z": 2260.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 366,
+      "kind": "coin",
+      "lane": 0,
+      "z": 2263.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 367,
+      "kind": "coin",
+      "lane": 0,
+      "z": 2267.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 368,
+      "kind": "coin",
+      "lane": 0,
+      "z": 2270.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 369,
+      "kind": "coin",
+      "lane": 0,
+      "z": 2274.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 370,
+      "kind": "coin",
+      "lane": 0,
+      "z": 2277.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 371,
+      "kind": "movingTrain",
+      "lane": -1,
+      "z": 2336,
+      "y": 0,
+      "length": 10
+    },
+    {
+      "id": 372,
+      "kind": "barrier",
+      "lane": 0,
+      "z": 2338,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 373,
+      "kind": "coin",
+      "lane": 1,
+      "z": 2324.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 374,
+      "kind": "coin",
+      "lane": 1,
+      "z": 2327.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 375,
+      "kind": "coin",
+      "lane": 1,
+      "z": 2331.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 376,
+      "kind": "coin",
+      "lane": 1,
+      "z": 2334.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 377,
+      "kind": "coin",
+      "lane": 1,
+      "z": 2338.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 378,
+      "kind": "coin",
+      "lane": 1,
+      "z": 2341.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 379,
+      "kind": "overhead",
+      "lane": -1,
+      "z": 2400,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 380,
+      "kind": "coin",
+      "lane": 0,
+      "z": 2388.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 381,
+      "kind": "coin",
+      "lane": 0,
+      "z": 2391.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 382,
+      "kind": "coin",
+      "lane": 0,
+      "z": 2395.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 383,
+      "kind": "coin",
+      "lane": 0,
+      "z": 2398.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 384,
+      "kind": "coin",
+      "lane": 0,
+      "z": 2402.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 385,
+      "kind": "coin",
+      "lane": 0,
+      "z": 2405.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 386,
+      "kind": "barrier",
+      "lane": -1,
+      "z": 2464,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 387,
+      "kind": "overhead",
+      "lane": 0,
+      "z": 2466,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 388,
+      "kind": "coin",
+      "lane": 1,
+      "z": 2452.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 389,
+      "kind": "coin",
+      "lane": 1,
+      "z": 2455.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 390,
+      "kind": "coin",
+      "lane": 1,
+      "z": 2459.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 391,
+      "kind": "coin",
+      "lane": 1,
+      "z": 2462.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 392,
+      "kind": "coin",
+      "lane": 1,
+      "z": 2466.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 393,
+      "kind": "coin",
+      "lane": 1,
+      "z": 2469.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 394,
+      "kind": "board",
+      "lane": 1,
+      "z": 2477,
+      "y": 1.1,
+      "length": 1
+    },
+    {
+      "id": 395,
+      "kind": "barrier",
+      "lane": -1,
+      "z": 2528,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 396,
+      "kind": "overhead",
+      "lane": 0,
+      "z": 2530,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 397,
+      "kind": "coin",
+      "lane": 1,
+      "z": 2516.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 398,
+      "kind": "coin",
+      "lane": 1,
+      "z": 2519.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 399,
+      "kind": "coin",
+      "lane": 1,
+      "z": 2523.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 400,
+      "kind": "coin",
+      "lane": 1,
+      "z": 2526.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 401,
+      "kind": "coin",
+      "lane": 1,
+      "z": 2530.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 402,
+      "kind": "coin",
+      "lane": 1,
+      "z": 2533.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 403,
+      "kind": "overhead",
+      "lane": -1,
+      "z": 2592,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 404,
+      "kind": "coin",
+      "lane": 0,
+      "z": 2580.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 405,
+      "kind": "coin",
+      "lane": 0,
+      "z": 2583.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 406,
+      "kind": "coin",
+      "lane": 0,
+      "z": 2587.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 407,
+      "kind": "coin",
+      "lane": 0,
+      "z": 2590.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 408,
+      "kind": "coin",
+      "lane": 0,
+      "z": 2594.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 409,
+      "kind": "coin",
+      "lane": 0,
+      "z": 2597.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 410,
+      "kind": "ramp",
+      "lane": -1,
+      "z": 2649,
+      "y": 0,
+      "length": 7
+    },
+    {
+      "id": 411,
+      "kind": "train",
+      "lane": -1,
+      "z": 2656,
+      "y": 0,
+      "length": 10
+    },
+    {
+      "id": 412,
+      "kind": "coin",
+      "lane": -1,
+      "z": 2656.0,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 413,
+      "kind": "coin",
+      "lane": -1,
+      "z": 2658.2,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 414,
+      "kind": "coin",
+      "lane": -1,
+      "z": 2660.4,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 415,
+      "kind": "coin",
+      "lane": -1,
+      "z": 2662.6,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 416,
+      "kind": "overhead",
+      "lane": 0,
+      "z": 2658,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 417,
+      "kind": "coin",
+      "lane": 1,
+      "z": 2644.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 418,
+      "kind": "coin",
+      "lane": 1,
+      "z": 2647.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 419,
+      "kind": "coin",
+      "lane": 1,
+      "z": 2651.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 420,
+      "kind": "coin",
+      "lane": 1,
+      "z": 2654.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 421,
+      "kind": "coin",
+      "lane": 1,
+      "z": 2658.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 422,
+      "kind": "coin",
+      "lane": 1,
+      "z": 2661.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 423,
+      "kind": "train",
+      "lane": -1,
+      "z": 2720,
+      "y": 0,
+      "length": 10
+    },
+    {
+      "id": 424,
+      "kind": "overhead",
+      "lane": 1,
+      "z": 2722,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 425,
+      "kind": "coin",
+      "lane": 0,
+      "z": 2708.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 426,
+      "kind": "coin",
+      "lane": 0,
+      "z": 2711.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 427,
+      "kind": "coin",
+      "lane": 0,
+      "z": 2715.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 428,
+      "kind": "coin",
+      "lane": 0,
+      "z": 2718.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 429,
+      "kind": "coin",
+      "lane": 0,
+      "z": 2722.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 430,
+      "kind": "coin",
+      "lane": 0,
+      "z": 2725.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 431,
+      "kind": "magnet",
+      "lane": 0,
+      "z": 2733,
+      "y": 1.1,
+      "length": 1
+    },
+    {
+      "id": 432,
+      "kind": "ramp",
+      "lane": 0,
+      "z": 2777,
+      "y": 0,
+      "length": 7
+    },
+    {
+      "id": 433,
+      "kind": "train",
+      "lane": 0,
+      "z": 2784,
+      "y": 0,
+      "length": 10
+    },
+    {
+      "id": 434,
+      "kind": "coin",
+      "lane": 0,
+      "z": 2784.0,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 435,
+      "kind": "coin",
+      "lane": 0,
+      "z": 2786.2,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 436,
+      "kind": "coin",
+      "lane": 0,
+      "z": 2788.4,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 437,
+      "kind": "coin",
+      "lane": 0,
+      "z": 2790.6,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 438,
+      "kind": "coin",
+      "lane": -1,
+      "z": 2772.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 439,
+      "kind": "coin",
+      "lane": -1,
+      "z": 2775.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 440,
+      "kind": "coin",
+      "lane": -1,
+      "z": 2779.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 441,
+      "kind": "coin",
+      "lane": -1,
+      "z": 2782.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 442,
+      "kind": "coin",
+      "lane": -1,
+      "z": 2786.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 443,
+      "kind": "coin",
+      "lane": -1,
+      "z": 2789.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 444,
+      "kind": "movingTrain",
+      "lane": -1,
+      "z": 2848,
+      "y": 0,
+      "length": 10
+    },
+    {
+      "id": 445,
+      "kind": "barrier",
+      "lane": 0,
+      "z": 2850,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 446,
+      "kind": "coin",
+      "lane": 1,
+      "z": 2836.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 447,
+      "kind": "coin",
+      "lane": 1,
+      "z": 2839.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 448,
+      "kind": "coin",
+      "lane": 1,
+      "z": 2843.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 449,
+      "kind": "coin",
+      "lane": 1,
+      "z": 2846.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 450,
+      "kind": "coin",
+      "lane": 1,
+      "z": 2850.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 451,
+      "kind": "coin",
+      "lane": 1,
+      "z": 2853.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 452,
+      "kind": "overhead",
+      "lane": 0,
+      "z": 2912,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 453,
+      "kind": "barrier",
+      "lane": 1,
+      "z": 2914,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 454,
+      "kind": "coin",
+      "lane": -1,
+      "z": 2900.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 455,
+      "kind": "coin",
+      "lane": -1,
+      "z": 2903.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 456,
+      "kind": "coin",
+      "lane": -1,
+      "z": 2907.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 457,
+      "kind": "coin",
+      "lane": -1,
+      "z": 2910.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 458,
+      "kind": "coin",
+      "lane": -1,
+      "z": 2914.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 459,
+      "kind": "coin",
+      "lane": -1,
+      "z": 2917.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 460,
+      "kind": "barrier",
+      "lane": 0,
+      "z": 2976,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 461,
+      "kind": "coin",
+      "lane": -1,
+      "z": 2964.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 462,
+      "kind": "coin",
+      "lane": -1,
+      "z": 2967.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 463,
+      "kind": "coin",
+      "lane": -1,
+      "z": 2971.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 464,
+      "kind": "coin",
+      "lane": -1,
+      "z": 2974.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 465,
+      "kind": "coin",
+      "lane": -1,
+      "z": 2978.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 466,
+      "kind": "coin",
+      "lane": -1,
+      "z": 2981.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 467,
+      "kind": "jetpack",
+      "lane": -1,
+      "z": 2989,
+      "y": 1.1,
+      "length": 1
+    },
+    {
+      "id": 468,
+      "kind": "coin",
+      "lane": -1,
+      "z": 2996,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 469,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3001,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 470,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3006,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 471,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3011,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 472,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3016,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 473,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3021,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 474,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3026,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 475,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3031,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 476,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3036,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 477,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3041,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 478,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3046,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 479,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3051,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 480,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3056,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 481,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3061,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 482,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3066,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 483,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3071,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 484,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3076,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 485,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3081,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 486,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3086,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 487,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3091,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 488,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3096,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 489,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3101,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 490,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3106,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 491,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3111,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 492,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3116,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 493,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3121,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 494,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3126,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 495,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3131,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 496,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3136,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 497,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3141,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 498,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3146,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 499,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3151,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 500,
+      "kind": "ramp",
+      "lane": 0,
+      "z": 3033,
+      "y": 0,
+      "length": 7
+    },
+    {
+      "id": 501,
+      "kind": "train",
+      "lane": 0,
+      "z": 3040,
+      "y": 0,
+      "length": 10
+    },
+    {
+      "id": 502,
+      "kind": "coin",
+      "lane": 0,
+      "z": 3040.0,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 503,
+      "kind": "coin",
+      "lane": 0,
+      "z": 3042.2,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 504,
+      "kind": "coin",
+      "lane": 0,
+      "z": 3044.4,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 505,
+      "kind": "coin",
+      "lane": 0,
+      "z": 3046.6,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 506,
+      "kind": "overhead",
+      "lane": 1,
+      "z": 3042,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 507,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3028.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 508,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3031.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 509,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3035.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 510,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3038.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 511,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3042.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 512,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3045.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 513,
+      "kind": "train",
+      "lane": -1,
+      "z": 3104,
+      "y": 0,
+      "length": 10
+    },
+    {
+      "id": 514,
+      "kind": "overhead",
+      "lane": 0,
+      "z": 3106,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 515,
+      "kind": "coin",
+      "lane": 1,
+      "z": 3092.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 516,
+      "kind": "coin",
+      "lane": 1,
+      "z": 3095.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 517,
+      "kind": "coin",
+      "lane": 1,
+      "z": 3099.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 518,
+      "kind": "coin",
+      "lane": 1,
+      "z": 3102.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 519,
+      "kind": "coin",
+      "lane": 1,
+      "z": 3106.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 520,
+      "kind": "coin",
+      "lane": 1,
+      "z": 3109.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 521,
+      "kind": "train",
+      "lane": -1,
+      "z": 3168,
+      "y": 0,
+      "length": 10
+    },
+    {
+      "id": 522,
+      "kind": "coin",
+      "lane": 1,
+      "z": 3156.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 523,
+      "kind": "coin",
+      "lane": 1,
+      "z": 3159.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 524,
+      "kind": "coin",
+      "lane": 1,
+      "z": 3163.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 525,
+      "kind": "coin",
+      "lane": 1,
+      "z": 3166.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 526,
+      "kind": "coin",
+      "lane": 1,
+      "z": 3170.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 527,
+      "kind": "coin",
+      "lane": 1,
+      "z": 3173.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 528,
+      "kind": "overhead",
+      "lane": 0,
+      "z": 3232,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 529,
+      "kind": "barrier",
+      "lane": 1,
+      "z": 3234,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 530,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3220.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 531,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3223.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 532,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3227.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 533,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3230.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 534,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3234.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 535,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3237.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 536,
+      "kind": "boots",
+      "lane": -1,
+      "z": 3245,
+      "y": 1.1,
+      "length": 1
+    },
+    {
+      "id": 537,
+      "kind": "train",
+      "lane": 0,
+      "z": 3296,
+      "y": 0,
+      "length": 10
+    },
+    {
+      "id": 538,
+      "kind": "overhead",
+      "lane": 1,
+      "z": 3298,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 539,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3284.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 540,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3287.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 541,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3291.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 542,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3294.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 543,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3298.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 544,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3301.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 545,
+      "kind": "overhead",
+      "lane": -1,
+      "z": 3360,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 546,
+      "kind": "coin",
+      "lane": 1,
+      "z": 3348.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 547,
+      "kind": "coin",
+      "lane": 1,
+      "z": 3351.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 548,
+      "kind": "coin",
+      "lane": 1,
+      "z": 3355.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 549,
+      "kind": "coin",
+      "lane": 1,
+      "z": 3358.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 550,
+      "kind": "coin",
+      "lane": 1,
+      "z": 3362.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 551,
+      "kind": "coin",
+      "lane": 1,
+      "z": 3365.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 552,
+      "kind": "train",
+      "lane": -1,
+      "z": 3424,
+      "y": 0,
+      "length": 10
+    },
+    {
+      "id": 553,
+      "kind": "overhead",
+      "lane": 1,
+      "z": 3426,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 554,
+      "kind": "coin",
+      "lane": 0,
+      "z": 3412.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 555,
+      "kind": "coin",
+      "lane": 0,
+      "z": 3415.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 556,
+      "kind": "coin",
+      "lane": 0,
+      "z": 3419.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 557,
+      "kind": "coin",
+      "lane": 0,
+      "z": 3422.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 558,
+      "kind": "coin",
+      "lane": 0,
+      "z": 3426.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 559,
+      "kind": "coin",
+      "lane": 0,
+      "z": 3429.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 560,
+      "kind": "barrier",
+      "lane": -1,
+      "z": 3488,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 561,
+      "kind": "overhead",
+      "lane": 1,
+      "z": 3490,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 562,
+      "kind": "coin",
+      "lane": 0,
+      "z": 3476.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 563,
+      "kind": "coin",
+      "lane": 0,
+      "z": 3479.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 564,
+      "kind": "coin",
+      "lane": 0,
+      "z": 3483.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 565,
+      "kind": "coin",
+      "lane": 0,
+      "z": 3486.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 566,
+      "kind": "coin",
+      "lane": 0,
+      "z": 3490.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 567,
+      "kind": "coin",
+      "lane": 0,
+      "z": 3493.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 568,
+      "kind": "multiplier",
+      "lane": 0,
+      "z": 3501,
+      "y": 1.1,
+      "length": 1
+    },
+    {
+      "id": 569,
+      "kind": "movingTrain",
+      "lane": -1,
+      "z": 3552,
+      "y": 0,
+      "length": 10
+    },
+    {
+      "id": 570,
+      "kind": "coin",
+      "lane": 1,
+      "z": 3540.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 571,
+      "kind": "coin",
+      "lane": 1,
+      "z": 3543.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 572,
+      "kind": "coin",
+      "lane": 1,
+      "z": 3547.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 573,
+      "kind": "coin",
+      "lane": 1,
+      "z": 3550.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 574,
+      "kind": "coin",
+      "lane": 1,
+      "z": 3554.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 575,
+      "kind": "coin",
+      "lane": 1,
+      "z": 3557.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 576,
+      "kind": "train",
+      "lane": 0,
+      "z": 3616,
+      "y": 0,
+      "length": 10
+    },
+    {
+      "id": 577,
+      "kind": "overhead",
+      "lane": 1,
+      "z": 3618,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 578,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3604.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 579,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3607.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 580,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3611.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 581,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3614.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 582,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3618.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 583,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3621.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 584,
+      "kind": "ramp",
+      "lane": 0,
+      "z": 3673,
+      "y": 0,
+      "length": 7
+    },
+    {
+      "id": 585,
+      "kind": "train",
+      "lane": 0,
+      "z": 3680,
+      "y": 0,
+      "length": 10
+    },
+    {
+      "id": 586,
+      "kind": "coin",
+      "lane": 0,
+      "z": 3680.0,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 587,
+      "kind": "coin",
+      "lane": 0,
+      "z": 3682.2,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 588,
+      "kind": "coin",
+      "lane": 0,
+      "z": 3684.4,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 589,
+      "kind": "coin",
+      "lane": 0,
+      "z": 3686.6,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 590,
+      "kind": "overhead",
+      "lane": 1,
+      "z": 3682,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 591,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3668.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 592,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3671.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 593,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3675.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 594,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3678.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 595,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3682.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 596,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3685.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 597,
+      "kind": "overhead",
+      "lane": -1,
+      "z": 3744,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 598,
+      "kind": "coin",
+      "lane": 0,
+      "z": 3732.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 599,
+      "kind": "coin",
+      "lane": 0,
+      "z": 3735.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 600,
+      "kind": "coin",
+      "lane": 0,
+      "z": 3739.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 601,
+      "kind": "coin",
+      "lane": 0,
+      "z": 3742.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 602,
+      "kind": "coin",
+      "lane": 0,
+      "z": 3746.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 603,
+      "kind": "coin",
+      "lane": 0,
+      "z": 3749.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 604,
+      "kind": "board",
+      "lane": 0,
+      "z": 3757,
+      "y": 1.1,
+      "length": 1
+    },
+    {
+      "id": 605,
+      "kind": "ramp",
+      "lane": -1,
+      "z": 3801,
+      "y": 0,
+      "length": 7
+    },
+    {
+      "id": 606,
+      "kind": "train",
+      "lane": -1,
+      "z": 3808,
+      "y": 0,
+      "length": 10
+    },
+    {
+      "id": 607,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3808.0,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 608,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3810.2,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 609,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3812.4,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 610,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3814.6,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 611,
+      "kind": "overhead",
+      "lane": 0,
+      "z": 3810,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 612,
+      "kind": "coin",
+      "lane": 1,
+      "z": 3796.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 613,
+      "kind": "coin",
+      "lane": 1,
+      "z": 3799.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 614,
+      "kind": "coin",
+      "lane": 1,
+      "z": 3803.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 615,
+      "kind": "coin",
+      "lane": 1,
+      "z": 3806.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 616,
+      "kind": "coin",
+      "lane": 1,
+      "z": 3810.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 617,
+      "kind": "coin",
+      "lane": 1,
+      "z": 3813.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 618,
+      "kind": "overhead",
+      "lane": 0,
+      "z": 3872,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 619,
+      "kind": "barrier",
+      "lane": 1,
+      "z": 3874,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 620,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3860.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 621,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3863.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 622,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3867.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 623,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3870.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 624,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3874.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 625,
+      "kind": "coin",
+      "lane": -1,
+      "z": 3877.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 626,
+      "kind": "overhead",
+      "lane": -1,
+      "z": 3936,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 627,
+      "kind": "coin",
+      "lane": 0,
+      "z": 3924.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 628,
+      "kind": "coin",
+      "lane": 0,
+      "z": 3927.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 629,
+      "kind": "coin",
+      "lane": 0,
+      "z": 3931.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 630,
+      "kind": "coin",
+      "lane": 0,
+      "z": 3934.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 631,
+      "kind": "coin",
+      "lane": 0,
+      "z": 3938.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 632,
+      "kind": "coin",
+      "lane": 0,
+      "z": 3941.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 633,
+      "kind": "movingTrain",
+      "lane": -1,
+      "z": 4000,
+      "y": 0,
+      "length": 10
+    },
+    {
+      "id": 634,
+      "kind": "barrier",
+      "lane": 0,
+      "z": 4002,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 635,
+      "kind": "coin",
+      "lane": 1,
+      "z": 3988.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 636,
+      "kind": "coin",
+      "lane": 1,
+      "z": 3991.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 637,
+      "kind": "coin",
+      "lane": 1,
+      "z": 3995.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 638,
+      "kind": "coin",
+      "lane": 1,
+      "z": 3998.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 639,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4002.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 640,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4005.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 641,
+      "kind": "magnet",
+      "lane": 1,
+      "z": 4013,
+      "y": 1.1,
+      "length": 1
+    },
+    {
+      "id": 642,
+      "kind": "movingTrain",
+      "lane": -1,
+      "z": 4064,
+      "y": 0,
+      "length": 10
+    },
+    {
+      "id": 643,
+      "kind": "barrier",
+      "lane": 0,
+      "z": 4066,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 644,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4052.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 645,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4055.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 646,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4059.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 647,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4062.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 648,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4066.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 649,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4069.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 650,
+      "kind": "ramp",
+      "lane": -1,
+      "z": 4121,
+      "y": 0,
+      "length": 7
+    },
+    {
+      "id": 651,
+      "kind": "train",
+      "lane": -1,
+      "z": 4128,
+      "y": 0,
+      "length": 10
+    },
+    {
+      "id": 652,
+      "kind": "coin",
+      "lane": -1,
+      "z": 4128.0,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 653,
+      "kind": "coin",
+      "lane": -1,
+      "z": 4130.2,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 654,
+      "kind": "coin",
+      "lane": -1,
+      "z": 4132.4,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 655,
+      "kind": "coin",
+      "lane": -1,
+      "z": 4134.6,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 656,
+      "kind": "coin",
+      "lane": 0,
+      "z": 4116.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 657,
+      "kind": "coin",
+      "lane": 0,
+      "z": 4119.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 658,
+      "kind": "coin",
+      "lane": 0,
+      "z": 4123.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 659,
+      "kind": "coin",
+      "lane": 0,
+      "z": 4126.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 660,
+      "kind": "coin",
+      "lane": 0,
+      "z": 4130.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 661,
+      "kind": "coin",
+      "lane": 0,
+      "z": 4133.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 662,
+      "kind": "movingTrain",
+      "lane": -1,
+      "z": 4192,
+      "y": 0,
+      "length": 10
+    },
+    {
+      "id": 663,
+      "kind": "barrier",
+      "lane": 1,
+      "z": 4194,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 664,
+      "kind": "coin",
+      "lane": 0,
+      "z": 4180.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 665,
+      "kind": "coin",
+      "lane": 0,
+      "z": 4183.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 666,
+      "kind": "coin",
+      "lane": 0,
+      "z": 4187.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 667,
+      "kind": "coin",
+      "lane": 0,
+      "z": 4190.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 668,
+      "kind": "coin",
+      "lane": 0,
+      "z": 4194.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 669,
+      "kind": "coin",
+      "lane": 0,
+      "z": 4197.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 670,
+      "kind": "overhead",
+      "lane": -1,
+      "z": 4256,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 671,
+      "kind": "barrier",
+      "lane": 0,
+      "z": 4258,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 672,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4244.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 673,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4247.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 674,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4251.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 675,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4254.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 676,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4258.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 677,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4261.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 678,
+      "kind": "jetpack",
+      "lane": 1,
+      "z": 4269,
+      "y": 1.1,
+      "length": 1
+    },
+    {
+      "id": 679,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4276,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 680,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4281,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 681,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4286,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 682,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4291,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 683,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4296,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 684,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4301,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 685,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4306,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 686,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4311,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 687,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4316,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 688,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4321,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 689,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4326,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 690,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4331,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 691,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4336,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 692,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4341,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 693,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4346,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 694,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4351,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 695,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4356,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 696,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4361,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 697,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4366,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 698,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4371,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 699,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4376,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 700,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4381,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 701,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4386,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 702,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4391,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 703,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4396,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 704,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4401,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 705,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4406,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 706,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4411,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 707,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4416,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 708,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4421,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 709,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4426,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 710,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4431,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 711,
+      "kind": "ramp",
+      "lane": 0,
+      "z": 4313,
+      "y": 0,
+      "length": 7
+    },
+    {
+      "id": 712,
+      "kind": "train",
+      "lane": 0,
+      "z": 4320,
+      "y": 0,
+      "length": 10
+    },
+    {
+      "id": 713,
+      "kind": "coin",
+      "lane": 0,
+      "z": 4320.0,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 714,
+      "kind": "coin",
+      "lane": 0,
+      "z": 4322.2,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 715,
+      "kind": "coin",
+      "lane": 0,
+      "z": 4324.4,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 716,
+      "kind": "coin",
+      "lane": 0,
+      "z": 4326.6,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 717,
+      "kind": "coin",
+      "lane": -1,
+      "z": 4308.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 718,
+      "kind": "coin",
+      "lane": -1,
+      "z": 4311.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 719,
+      "kind": "coin",
+      "lane": -1,
+      "z": 4315.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 720,
+      "kind": "coin",
+      "lane": -1,
+      "z": 4318.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 721,
+      "kind": "coin",
+      "lane": -1,
+      "z": 4322.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 722,
+      "kind": "coin",
+      "lane": -1,
+      "z": 4325.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 723,
+      "kind": "overhead",
+      "lane": 0,
+      "z": 4384,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 724,
+      "kind": "barrier",
+      "lane": 1,
+      "z": 4386,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 725,
+      "kind": "coin",
+      "lane": -1,
+      "z": 4372.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 726,
+      "kind": "coin",
+      "lane": -1,
+      "z": 4375.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 727,
+      "kind": "coin",
+      "lane": -1,
+      "z": 4379.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 728,
+      "kind": "coin",
+      "lane": -1,
+      "z": 4382.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 729,
+      "kind": "coin",
+      "lane": -1,
+      "z": 4386.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 730,
+      "kind": "coin",
+      "lane": -1,
+      "z": 4389.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 731,
+      "kind": "barrier",
+      "lane": -1,
+      "z": 4448,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 732,
+      "kind": "overhead",
+      "lane": 1,
+      "z": 4450,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 733,
+      "kind": "coin",
+      "lane": 0,
+      "z": 4436.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 734,
+      "kind": "coin",
+      "lane": 0,
+      "z": 4439.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 735,
+      "kind": "coin",
+      "lane": 0,
+      "z": 4443.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 736,
+      "kind": "coin",
+      "lane": 0,
+      "z": 4446.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 737,
+      "kind": "coin",
+      "lane": 0,
+      "z": 4450.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 738,
+      "kind": "coin",
+      "lane": 0,
+      "z": 4453.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 739,
+      "kind": "movingTrain",
+      "lane": -1,
+      "z": 4512,
+      "y": 0,
+      "length": 10
+    },
+    {
+      "id": 740,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4500.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 741,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4503.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 742,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4507.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 743,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4510.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 744,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4514.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 745,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4517.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 746,
+      "kind": "boots",
+      "lane": 1,
+      "z": 4525,
+      "y": 1.1,
+      "length": 1
+    },
+    {
+      "id": 747,
+      "kind": "movingTrain",
+      "lane": 0,
+      "z": 4576,
+      "y": 0,
+      "length": 10
+    },
+    {
+      "id": 748,
+      "kind": "barrier",
+      "lane": 1,
+      "z": 4578,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 749,
+      "kind": "coin",
+      "lane": -1,
+      "z": 4564.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 750,
+      "kind": "coin",
+      "lane": -1,
+      "z": 4567.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 751,
+      "kind": "coin",
+      "lane": -1,
+      "z": 4571.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 752,
+      "kind": "coin",
+      "lane": -1,
+      "z": 4574.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 753,
+      "kind": "coin",
+      "lane": -1,
+      "z": 4578.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 754,
+      "kind": "coin",
+      "lane": -1,
+      "z": 4581.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 755,
+      "kind": "barrier",
+      "lane": -1,
+      "z": 4640,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 756,
+      "kind": "overhead",
+      "lane": 0,
+      "z": 4642,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 757,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4628.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 758,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4631.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 759,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4635.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 760,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4638.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 761,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4642.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 762,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4645.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 763,
+      "kind": "ramp",
+      "lane": -1,
+      "z": 4697,
+      "y": 0,
+      "length": 7
+    },
+    {
+      "id": 764,
+      "kind": "train",
+      "lane": -1,
+      "z": 4704,
+      "y": 0,
+      "length": 10
+    },
+    {
+      "id": 765,
+      "kind": "coin",
+      "lane": -1,
+      "z": 4704.0,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 766,
+      "kind": "coin",
+      "lane": -1,
+      "z": 4706.2,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 767,
+      "kind": "coin",
+      "lane": -1,
+      "z": 4708.4,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 768,
+      "kind": "coin",
+      "lane": -1,
+      "z": 4710.6,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 769,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4692.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 770,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4695.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 771,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4699.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 772,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4702.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 773,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4706.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 774,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4709.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 775,
+      "kind": "overhead",
+      "lane": -1,
+      "z": 4768,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 776,
+      "kind": "barrier",
+      "lane": 0,
+      "z": 4770,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 777,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4756.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 778,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4759.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 779,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4763.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 780,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4766.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 781,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4770.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 782,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4773.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 783,
+      "kind": "multiplier",
+      "lane": 1,
+      "z": 4781,
+      "y": 1.1,
+      "length": 1
+    },
+    {
+      "id": 784,
+      "kind": "movingTrain",
+      "lane": -1,
+      "z": 4832,
+      "y": 0,
+      "length": 10
+    },
+    {
+      "id": 785,
+      "kind": "barrier",
+      "lane": 0,
+      "z": 4834,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 786,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4820.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 787,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4823.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 788,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4827.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 789,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4830.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 790,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4834.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 791,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4837.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 792,
+      "kind": "movingTrain",
+      "lane": -1,
+      "z": 4896,
+      "y": 0,
+      "length": 10
+    },
+    {
+      "id": 793,
+      "kind": "coin",
+      "lane": 0,
+      "z": 4884.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 794,
+      "kind": "coin",
+      "lane": 0,
+      "z": 4887.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 795,
+      "kind": "coin",
+      "lane": 0,
+      "z": 4891.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 796,
+      "kind": "coin",
+      "lane": 0,
+      "z": 4894.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 797,
+      "kind": "coin",
+      "lane": 0,
+      "z": 4898.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 798,
+      "kind": "coin",
+      "lane": 0,
+      "z": 4901.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 799,
+      "kind": "train",
+      "lane": -1,
+      "z": 4960,
+      "y": 0,
+      "length": 10
+    },
+    {
+      "id": 800,
+      "kind": "overhead",
+      "lane": 0,
+      "z": 4962,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 801,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4948.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 802,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4951.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 803,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4955.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 804,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4958.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 805,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4962.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 806,
+      "kind": "coin",
+      "lane": 1,
+      "z": 4965.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 807,
+      "kind": "movingTrain",
+      "lane": 0,
+      "z": 5024,
+      "y": 0,
+      "length": 10
+    },
+    {
+      "id": 808,
+      "kind": "barrier",
+      "lane": 1,
+      "z": 5026,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 809,
+      "kind": "coin",
+      "lane": -1,
+      "z": 5012.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 810,
+      "kind": "coin",
+      "lane": -1,
+      "z": 5015.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 811,
+      "kind": "coin",
+      "lane": -1,
+      "z": 5019.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 812,
+      "kind": "coin",
+      "lane": -1,
+      "z": 5022.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 813,
+      "kind": "coin",
+      "lane": -1,
+      "z": 5026.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 814,
+      "kind": "coin",
+      "lane": -1,
+      "z": 5029.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 815,
+      "kind": "board",
+      "lane": -1,
+      "z": 5037,
+      "y": 1.1,
+      "length": 1
+    },
+    {
+      "id": 816,
+      "kind": "ramp",
+      "lane": 0,
+      "z": 5081,
+      "y": 0,
+      "length": 7
+    },
+    {
+      "id": 817,
+      "kind": "train",
+      "lane": 0,
+      "z": 5088,
+      "y": 0,
+      "length": 10
+    },
+    {
+      "id": 818,
+      "kind": "coin",
+      "lane": 0,
+      "z": 5088.0,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 819,
+      "kind": "coin",
+      "lane": 0,
+      "z": 5090.2,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 820,
+      "kind": "coin",
+      "lane": 0,
+      "z": 5092.4,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 821,
+      "kind": "coin",
+      "lane": 0,
+      "z": 5094.6,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 822,
+      "kind": "coin",
+      "lane": -1,
+      "z": 5076.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 823,
+      "kind": "coin",
+      "lane": -1,
+      "z": 5079.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 824,
+      "kind": "coin",
+      "lane": -1,
+      "z": 5083.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 825,
+      "kind": "coin",
+      "lane": -1,
+      "z": 5086.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 826,
+      "kind": "coin",
+      "lane": -1,
+      "z": 5090.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 827,
+      "kind": "coin",
+      "lane": -1,
+      "z": 5093.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 828,
+      "kind": "overhead",
+      "lane": 0,
+      "z": 5152,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 829,
+      "kind": "barrier",
+      "lane": 1,
+      "z": 5154,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 830,
+      "kind": "coin",
+      "lane": -1,
+      "z": 5140.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 831,
+      "kind": "coin",
+      "lane": -1,
+      "z": 5143.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 832,
+      "kind": "coin",
+      "lane": -1,
+      "z": 5147.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 833,
+      "kind": "coin",
+      "lane": -1,
+      "z": 5150.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 834,
+      "kind": "coin",
+      "lane": -1,
+      "z": 5154.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 835,
+      "kind": "coin",
+      "lane": -1,
+      "z": 5157.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 836,
+      "kind": "overhead",
+      "lane": -1,
+      "z": 5216,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 837,
+      "kind": "barrier",
+      "lane": 0,
+      "z": 5218,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 838,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5204.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 839,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5207.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 840,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5211.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 841,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5214.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 842,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5218.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 843,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5221.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 844,
+      "kind": "overhead",
+      "lane": -1,
+      "z": 5280,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 845,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5268.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 846,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5271.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 847,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5275.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 848,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5278.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 849,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5282.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 850,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5285.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 851,
+      "kind": "magnet",
+      "lane": 1,
+      "z": 5293,
+      "y": 1.1,
+      "length": 1
+    },
+    {
+      "id": 852,
+      "kind": "train",
+      "lane": -1,
+      "z": 5344,
+      "y": 0,
+      "length": 10
+    },
+    {
+      "id": 853,
+      "kind": "overhead",
+      "lane": 0,
+      "z": 5346,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 854,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5332.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 855,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5335.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 856,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5339.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 857,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5342.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 858,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5346.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 859,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5349.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 860,
+      "kind": "overhead",
+      "lane": -1,
+      "z": 5408,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 861,
+      "kind": "barrier",
+      "lane": 1,
+      "z": 5410,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 862,
+      "kind": "coin",
+      "lane": 0,
+      "z": 5396.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 863,
+      "kind": "coin",
+      "lane": 0,
+      "z": 5399.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 864,
+      "kind": "coin",
+      "lane": 0,
+      "z": 5403.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 865,
+      "kind": "coin",
+      "lane": 0,
+      "z": 5406.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 866,
+      "kind": "coin",
+      "lane": 0,
+      "z": 5410.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 867,
+      "kind": "coin",
+      "lane": 0,
+      "z": 5413.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 868,
+      "kind": "barrier",
+      "lane": -1,
+      "z": 5472,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 869,
+      "kind": "coin",
+      "lane": 0,
+      "z": 5460.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 870,
+      "kind": "coin",
+      "lane": 0,
+      "z": 5463.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 871,
+      "kind": "coin",
+      "lane": 0,
+      "z": 5467.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 872,
+      "kind": "coin",
+      "lane": 0,
+      "z": 5470.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 873,
+      "kind": "coin",
+      "lane": 0,
+      "z": 5474.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 874,
+      "kind": "coin",
+      "lane": 0,
+      "z": 5477.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 875,
+      "kind": "barrier",
+      "lane": -1,
+      "z": 5536,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 876,
+      "kind": "overhead",
+      "lane": 0,
+      "z": 5538,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 877,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5524.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 878,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5527.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 879,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5531.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 880,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5534.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 881,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5538.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 882,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5541.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 883,
+      "kind": "jetpack",
+      "lane": 1,
+      "z": 5549,
+      "y": 1.1,
+      "length": 1
+    },
+    {
+      "id": 884,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5556,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 885,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5561,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 886,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5566,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 887,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5571,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 888,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5576,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 889,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5581,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 890,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5586,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 891,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5591,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 892,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5596,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 893,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5601,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 894,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5606,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 895,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5611,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 896,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5616,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 897,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5621,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 898,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5626,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 899,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5631,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 900,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5636,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 901,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5641,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 902,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5646,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 903,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5651,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 904,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5656,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 905,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5661,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 906,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5666,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 907,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5671,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 908,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5676,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 909,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5681,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 910,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5686,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 911,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5691,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 912,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5696,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 913,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5701,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 914,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5706,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 915,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5711,
+      "y": 8.9,
+      "length": 0.5
+    },
+    {
+      "id": 916,
+      "kind": "overhead",
+      "lane": -1,
+      "z": 5600,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 917,
+      "kind": "barrier",
+      "lane": 0,
+      "z": 5602,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 918,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5588.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 919,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5591.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 920,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5595.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 921,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5598.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 922,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5602.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 923,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5605.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 924,
+      "kind": "barrier",
+      "lane": 0,
+      "z": 5664,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 925,
+      "kind": "coin",
+      "lane": -1,
+      "z": 5652.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 926,
+      "kind": "coin",
+      "lane": -1,
+      "z": 5655.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 927,
+      "kind": "coin",
+      "lane": -1,
+      "z": 5659.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 928,
+      "kind": "coin",
+      "lane": -1,
+      "z": 5662.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 929,
+      "kind": "coin",
+      "lane": -1,
+      "z": 5666.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 930,
+      "kind": "coin",
+      "lane": -1,
+      "z": 5669.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 931,
+      "kind": "barrier",
+      "lane": -1,
+      "z": 5728,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 932,
+      "kind": "overhead",
+      "lane": 0,
+      "z": 5730,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 933,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5716.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 934,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5719.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 935,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5723.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 936,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5726.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 937,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5730.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 938,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5733.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 939,
+      "kind": "train",
+      "lane": -1,
+      "z": 5792,
+      "y": 0,
+      "length": 10
+    },
+    {
+      "id": 940,
+      "kind": "overhead",
+      "lane": 0,
+      "z": 5794,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 941,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5780.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 942,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5783.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 943,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5787.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 944,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5790.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 945,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5794.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 946,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5797.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 947,
+      "kind": "boots",
+      "lane": 1,
+      "z": 5805,
+      "y": 1.1,
+      "length": 1
+    },
+    {
+      "id": 948,
+      "kind": "overhead",
+      "lane": -1,
+      "z": 5856,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 949,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5844.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 950,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5847.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 951,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5851.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 952,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5854.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 953,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5858.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 954,
+      "kind": "coin",
+      "lane": 1,
+      "z": 5861.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 955,
+      "kind": "overhead",
+      "lane": 0,
+      "z": 5920,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 956,
+      "kind": "barrier",
+      "lane": 1,
+      "z": 5922,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 957,
+      "kind": "coin",
+      "lane": -1,
+      "z": 5908.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 958,
+      "kind": "coin",
+      "lane": -1,
+      "z": 5911.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 959,
+      "kind": "coin",
+      "lane": -1,
+      "z": 5915.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 960,
+      "kind": "coin",
+      "lane": -1,
+      "z": 5918.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 961,
+      "kind": "coin",
+      "lane": -1,
+      "z": 5922.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 962,
+      "kind": "coin",
+      "lane": -1,
+      "z": 5925.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 963,
+      "kind": "ramp",
+      "lane": 0,
+      "z": 5977,
+      "y": 0,
+      "length": 7
+    },
+    {
+      "id": 964,
+      "kind": "train",
+      "lane": 0,
+      "z": 5984,
+      "y": 0,
+      "length": 10
+    },
+    {
+      "id": 965,
+      "kind": "coin",
+      "lane": 0,
+      "z": 5984.0,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 966,
+      "kind": "coin",
+      "lane": 0,
+      "z": 5986.2,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 967,
+      "kind": "coin",
+      "lane": 0,
+      "z": 5988.4,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 968,
+      "kind": "coin",
+      "lane": 0,
+      "z": 5990.6,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 969,
+      "kind": "overhead",
+      "lane": 1,
+      "z": 5986,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 970,
+      "kind": "coin",
+      "lane": -1,
+      "z": 5972.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 971,
+      "kind": "coin",
+      "lane": -1,
+      "z": 5975.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 972,
+      "kind": "coin",
+      "lane": -1,
+      "z": 5979.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 973,
+      "kind": "coin",
+      "lane": -1,
+      "z": 5982.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 974,
+      "kind": "coin",
+      "lane": -1,
+      "z": 5986.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 975,
+      "kind": "coin",
+      "lane": -1,
+      "z": 5989.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 976,
+      "kind": "movingTrain",
+      "lane": -1,
+      "z": 6048,
+      "y": 0,
+      "length": 10
+    },
+    {
+      "id": 977,
+      "kind": "coin",
+      "lane": 1,
+      "z": 6036.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 978,
+      "kind": "coin",
+      "lane": 1,
+      "z": 6039.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 979,
+      "kind": "coin",
+      "lane": 1,
+      "z": 6043.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 980,
+      "kind": "coin",
+      "lane": 1,
+      "z": 6046.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 981,
+      "kind": "coin",
+      "lane": 1,
+      "z": 6050.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 982,
+      "kind": "coin",
+      "lane": 1,
+      "z": 6053.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 983,
+      "kind": "multiplier",
+      "lane": 1,
+      "z": 6061,
+      "y": 1.1,
+      "length": 1
+    },
+    {
+      "id": 984,
+      "kind": "overhead",
+      "lane": -1,
+      "z": 6112,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 985,
+      "kind": "barrier",
+      "lane": 1,
+      "z": 6114,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 986,
+      "kind": "coin",
+      "lane": 0,
+      "z": 6100.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 987,
+      "kind": "coin",
+      "lane": 0,
+      "z": 6103.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 988,
+      "kind": "coin",
+      "lane": 0,
+      "z": 6107.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 989,
+      "kind": "coin",
+      "lane": 0,
+      "z": 6110.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 990,
+      "kind": "coin",
+      "lane": 0,
+      "z": 6114.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 991,
+      "kind": "coin",
+      "lane": 0,
+      "z": 6117.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 992,
+      "kind": "ramp",
+      "lane": -1,
+      "z": 6169,
+      "y": 0,
+      "length": 7
+    },
+    {
+      "id": 993,
+      "kind": "train",
+      "lane": -1,
+      "z": 6176,
+      "y": 0,
+      "length": 10
+    },
+    {
+      "id": 994,
+      "kind": "coin",
+      "lane": -1,
+      "z": 6176.0,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 995,
+      "kind": "coin",
+      "lane": -1,
+      "z": 6178.2,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 996,
+      "kind": "coin",
+      "lane": -1,
+      "z": 6180.4,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 997,
+      "kind": "coin",
+      "lane": -1,
+      "z": 6182.6,
+      "y": 3.9,
+      "length": 0.5
+    },
+    {
+      "id": 998,
+      "kind": "overhead",
+      "lane": 1,
+      "z": 6178,
+      "y": 0,
+      "length": 1.4
+    },
+    {
+      "id": 999,
+      "kind": "coin",
+      "lane": 0,
+      "z": 6164.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 1000,
+      "kind": "coin",
+      "lane": 0,
+      "z": 6167.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 1001,
+      "kind": "coin",
+      "lane": 0,
+      "z": 6171.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 1002,
+      "kind": "coin",
+      "lane": 0,
+      "z": 6174.5,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 1003,
+      "kind": "coin",
+      "lane": 0,
+      "z": 6178.0,
+      "y": 0.9,
+      "length": 0.5
+    },
+    {
+      "id": 1004,
+      "kind": "coin",
+      "lane": 0,
+      "z": 6181.5,
+      "y": 0.9,
+      "length": 0.5
+    }
+  ]
+}

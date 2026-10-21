@@ -1,0 +1,1 @@
+{"pass":true,"checks":["coins remain visible before arrival","pause freezes native coin flight","all three lanes credit once after expiry","native coin flights cleaned","restart clears magnet and flights"],"scope":"Synthetic route coins in native Android emulator GLES renderer; no physical-device claim"}

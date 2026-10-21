@@ -1,0 +1,11 @@
+# Jetpack back attachment correction
+
+The user reported a pack hanging near the hips during flight. The previous renderer added a fixed `(0, .16, .35)` offset to the lower-spine joint. That offset was in runner/world axes, although the original flight clips turn the torso forward and roll it during lane changes. Its previous `backError` check compared the assigned position with the same target calculation; it did not establish anatomical placement.
+
+The replacement builds an orthonormal torso frame from the left/right shoulders and hips. Both the pack's position and orientation use that frame. Its centre follows the upper torso and its depth offset follows the body's back normal, including forward flight and banking. This is a reconstructed attachment to recovered rig landmarks; it does not claim to reproduce the original Unity attachment program.
+
+`tests/jetpack-mount-check.mjs` reads the actual rendered jetpack triangles and compares their centre with shoulder/hip landmarks across both forward-flight clips and both lane-change clips. It checks position along the torso, distance behind the body, lateral alignment and orientation, rather than relying on `backError`.
+
+The final focused regression passed all **72 poses**: nine samples per original clip, four clips and two viewport sizes (1440x900 and 430x932). The rendered pack centre remained between 0.597 and 0.702 of the hip-to-shoulder span, and 0.198–0.240 units behind the torso. The old offset failed the anatomical placement requirement in every one of those 72 samples. Desktop and portrait screenshots were visually reviewed, including both banks. No page errors occurred. This uses controlled clip seeking, not natural gameplay.
+
+The 38 unit tests and production build passed. Current bundle: `index-DsBjCqQe.js`; cache: `rail-rush-ede1fd2e16a2016f`. Focused report and screenshots: `outputs/web/jetpack-mount/verification.json` and the same folder. The full production regression also passed all ten sections against this build, including natural-input play, abilities, accelerated soak, touch, persistence and offline reload, with zero captured console warnings/errors or HTTP failures. Its report records the cache identity in `outputs/web/production-qa/verification.json`.

@@ -1,0 +1,77 @@
+{
+  "pass": true,
+  "browser": {
+    "unitTests": 43,
+    "magnetSamples": 13,
+    "productionChecks": {
+      "production-startup": true,
+      "natural-keyboard-play": true,
+      "pause-resume-restart": true,
+      "power-fixtures": true,
+      "bounded-engine-and-render-soak": true,
+      "resize-and-render-performance": true,
+      "purchase-and-settings-persistence-fixture": true,
+      "offline-reload-and-input": true,
+      "browser-touch-swipe-double-tap": true,
+      "clean-runtime-console-and-http": true
+    },
+    "cache": "rail-rush-5f5cdf059ea49e67"
+  },
+  "android": {
+    "engineTests": 21,
+    "nativeEmulator": {
+      "pass": true,
+      "checks": [
+        "coins remain visible before arrival",
+        "pause freezes native coin flight",
+        "all three lanes credit once after expiry",
+        "native coin flights cleaned",
+        "restart clears magnet and flights"
+      ],
+      "scope": "Synthetic route coins in native Android emulator GLES renderer; no physical-device claim"
+    }
+  },
+  "ios": {
+    "engineChecks": 44,
+    "simulatorBuild": "passed",
+    "runtime": "unverified - no installed iOS Simulator runtime"
+  },
+  "crossPlatform": {
+    "scenario": "canonical-20s",
+    "samplesPerPlatform": 7,
+    "numericComparisons": 154,
+    "maxAbsoluteDifference": 0,
+    "pass": true,
+    "differences": [],
+    "boundary": "Foundation Swift and JVM Kotlin simulation; does not establish iOS UI/runtime or device performance. Collision grace deliberately enabled per shared scenario. Individual collision tests separate."
+  },
+  "artifactHashesAndZipCRC": "verified",
+  "artifacts": [
+    {
+      "path": "RailRush-editable-source.zip",
+      "bytes": 111304241,
+      "sha256": "d18e6dc76d968e9b2d3487f9bb5bf06435acbcffe5f3fef8e812535b188705bf"
+    },
+    {
+      "path": "RailRush-web-offline.zip",
+      "bytes": 37798799,
+      "sha256": "e4dd2f7a5b0a366a39b6bb4d0392b01a179fe47dbe381eea209493c30a90ebfa"
+    },
+    {
+      "path": "android/RailRush-debug.apk",
+      "bytes": 46981105,
+      "sha256": "d53ebbc1ed3389cc5405ba10d37701f168714c50768d1b8e72344692667bcb95"
+    },
+    {
+      "path": "ios/RailRush-Simulator-arm64.zip",
+      "bytes": 45815685,
+      "sha256": "57fc5f6dabd0b5513d941f25e4e556bdd313987815e677f6c29c2f7c3d86dc0c"
+    },
+    {
+      "path": "web/RailRush-gameplay.mp4",
+      "bytes": 29075232,
+      "sha256": "bca7e94be49d907e89db8f217f78404c9712fbe353d70d2fe2a6d820681ba3e9"
+    }
+  ],
+  "oldGeneralGameplayVideo": "predates magnet update"
+}

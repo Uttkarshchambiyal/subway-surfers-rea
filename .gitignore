@@ -1,0 +1,31 @@
+node_modules/
+.gradle/
+.DS_Store
+**/build/
+apps/web/dist/
+apps/android/local.properties
+outputs/
+reference/
+.tools/
+.codex/
+.agents/
+.aws/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+DerivedData/
+xcuserdata/
+*.xcuserstate
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore
+*.p12
+*.mobileprovision
+# Generated from the canonical assets by scripts/recovery/stage-assets.py.
+apps/web/public/recovered/
+shared/native-resources/
+# Machine-generated modernization hooks are unrelated to the game.
+.github/modernize/

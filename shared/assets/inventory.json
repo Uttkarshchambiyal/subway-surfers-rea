@@ -1,0 +1,42 @@
+{
+  "license": "Original assets authored in this workspace; no original Subway Surfers assets included.",
+  "scene": "scene.json: common named box, capsule and ellipsoid character, renderer-assembled architectural details.",
+  "route": "../config/route.json: procedural original design using LCG32 seed1337.",
+  "audio": {
+    "music.wav": {
+      "author": "procedural original synthesizer/composition",
+      "format": "mono PCM16 22050Hz",
+      "generator": "scripts/generate-shared.py"
+    },
+    "power.wav": {
+      "author": "procedural original synthesizer/composition",
+      "format": "mono PCM16 22050Hz",
+      "generator": "scripts/generate-shared.py"
+    },
+    "jump.wav": {
+      "author": "procedural original synthesizer/composition",
+      "format": "mono PCM16 22050Hz",
+      "generator": "scripts/generate-shared.py"
+    },
+    "coin.wav": {
+      "author": "procedural original synthesizer/composition",
+      "format": "mono PCM16 22050Hz",
+      "generator": "scripts/generate-shared.py"
+    },
+    "click.wav": {
+      "author": "procedural original synthesizer/composition",
+      "format": "mono PCM16 22050Hz",
+      "generator": "scripts/generate-shared.py"
+    },
+    "crash.wav": {
+      "author": "procedural original synthesizer/composition",
+      "format": "mono PCM16 22050Hz",
+      "generator": "scripts/generate-shared.py"
+    },
+    "roll.wav": {
+      "author": "procedural original synthesizer/composition",
+      "format": "mono PCM16 22050Hz",
+      "generator": "scripts/generate-shared.py"
+    }
+  }
+}

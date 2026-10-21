@@ -1,0 +1,11 @@
+* text=auto
+*.bat text eol=crlf
+*.command text eol=lf
+*.sh text eol=lf
+apps/android/gradlew text eol=lf
+*.png binary
+*.gif binary
+*.wav binary
+*.glb binary
+*.bin binary
+*.jar binary

@@ -1,0 +1,53 @@
+import assert from 'node:assert/strict';
+import {chromium} from 'playwright';
+import fs from 'node:fs/promises';
+import {fileURLToPath} from 'node:url';
+const root=fileURLToPath(new URL('../../../outputs/web/reference-revision/',import.meta.url));
+await fs.mkdir(root,{recursive:true});
+const browser=await chromium.launch({executablePath:'/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',headless:true,args:['--use-angle=metal']});
+const context=await browser.newContext({viewport:{width:430,height:932},deviceScaleFactor:1,recordVideo:{dir:root,size:{width:430,height:932}}});
+const page=await context.newPage(),errors=[],checks={};
+page.on('pageerror',e=>errors.push(String(e)));
+page.on('console',m=>{if(m.type()==='error')errors.push(m.text());});
+const snap=()=>page.evaluate(()=>window.railRush.snapshot());
+const screenshot=name=>page.screenshot({path:root+name+'.png'});
+let calibration,videoPath;
+try{
+ await page.goto(process.env.GAME_URL??'http://localhost:8173/?qa=1');
+ await page.waitForFunction(()=>window.railRush);
+ await page.waitForTimeout(400);await screenshot('menu');
+ await page.locator('[data-action=play]').click();
+ await page.waitForFunction(()=>window.railRush.game.phase==='running');
+ await page.waitForTimeout(500);
+ calibration=await page.evaluate(()=>window.railRush.world().calibration());
+ checks.framing=Math.abs(calibration.head.y-.68)<.02&&Math.abs(calibration.feet.y-.84)<.02&&Math.abs(calibration.horizon.y-.30)<.02;
+ await screenshot('running');
+ await page.keyboard.press('ArrowRight');await page.waitForTimeout(350);
+ checks.rightLane=(await snap()).x===2.7;await screenshot('right-lane');
+ await page.keyboard.press('ArrowUp');await page.waitForTimeout(200);
+ checks.jump=(await snap()).y>0;await screenshot('jump');
+ await page.waitForTimeout(750);await page.keyboard.press('ArrowDown');await page.waitForTimeout(100);
+ checks.roll=(await snap()).roll>0;await screenshot('roll');
+ await page.keyboard.press('b');await page.waitForTimeout(150);
+ checks.board=(await snap()).powers.board>0;await screenshot('board');
+ // Pointer events exercise the same handler as touch, without engine mutation.
+ await page.mouse.move(310,550);await page.mouse.down();await page.mouse.move(130,550,{steps:5});await page.mouse.up();await page.waitForTimeout(350);
+ checks.swipe=(await snap()).lane===0;
+ await page.locator('[data-action=pause]').click();const paused=await snap();
+ await page.waitForTimeout(400);checks.pauseFrozen=paused.distance===(await snap()).distance;
+ await page.locator('[data-action=settings]').click();await screenshot('settings');
+ await page.locator('[data-action=mute]').click();await page.locator('#volume').fill('25');
+ await page.locator('[data-action=close]').click();await page.locator('[data-action=resume]').click();
+ await page.waitForTimeout(200);checks.resumed=(await snap()).distance>paused.distance;
+ await page.setViewportSize({width:1440,height:900});await screenshot('desktop-running');
+ await page.locator('[data-action=pause]').click();await page.locator('[data-action=home]').click();await screenshot('desktop-menu');
+ await page.reload();await page.waitForFunction(()=>window.railRush);
+ const saved=await snap();checks.settingsPersist=saved.save.muted&&saved.save.volume===.25;
+ await page.locator('[data-action=shop]').click();checks.shopVisible=await page.getByRole('dialog').isVisible();await screenshot('shop');
+ await page.locator('[data-action=close]').click();await page.locator('[data-action=missions]').click();checks.missionsVisible=await page.getByRole('dialog').isVisible();await screenshot('missions');
+ assert.equal(errors.length,0,errors.join('\n'));assert.ok(Object.values(checks).every(Boolean),JSON.stringify(checks));
+}finally{
+ const video=page.video();await context.close();videoPath=await video.path();await browser.close();
+ await fs.writeFile(root+'verification.json',JSON.stringify({revision:'reference-style correction',pass:errors.length===0&&Object.values(checks).every(Boolean)&&Object.keys(checks).length===11,checks,errors,calibration,video:videoPath,syntheticMutation:false,boundary:'Production Chrome UI checks; pointer handler exercised by mouse events, not a phone touchscreen. No acoustic capture or physical-device test.'},null,2));
+}
+console.log(JSON.stringify({checks,errors,calibration,video:videoPath}));

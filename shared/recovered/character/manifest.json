@@ -1,0 +1,365 @@
+{
+  "source": {
+    "source": "reference/subway-surfers-3.61.0.apk",
+    "sourceSHA256": "92d60fb9a998bf4dd2d6b77e86bb9b4ba05e38498205e101dcabeda4e839d7fe",
+    "bundles": [
+      {
+        "apkMember": "assets/aa/Android/3.61.0/characters-builtin_assets_jake_common_dc369554dea41353fca4ebbc89c0e095.bundle",
+        "bytes": 129532,
+        "sha256": "25193ab4c5dc10ec5a0568d1623b552414deeccf849e54cc239e0505c7d5170c"
+      },
+      {
+        "apkMember": "assets/aa/Android/3.61.0/characters-builtin_assets_jake_default_outfit_config_f8eb0b4e83406d1eed91d7a20c96a472.bundle",
+        "bytes": 3618,
+        "sha256": "0d30c25e7fc2bdabedcf85018a9cb632966e30e12d5fc21e82a45bfbf54ff8d9"
+      },
+      {
+        "apkMember": "assets/aa/Android/3.61.0/characters-builtin_assets_jake_default_photomodeanimationsconfig_cbb5acef509a82eb3ed7d831556a2458.bundle",
+        "bytes": 1514,
+        "sha256": "1b24017c19ef2c6d0541023f7b4f4aed8179acc48d997bcb85476dc00de0485a"
+      },
+      {
+        "apkMember": "assets/aa/Android/3.61.0/characters-builtin_assets_jake_default_racemodeanimationsconfig_d76a17d8998cdf7119b49e33a4344c12.bundle",
+        "bytes": 2204,
+        "sha256": "2ade61c96b60d290746ddddfc166d0212c75175a6e69c353056eef6cc20ce56e"
+      },
+      {
+        "apkMember": "assets/aa/Android/3.61.0/common-builtin_assets_animation_library_jake_ca26f9f4c5ebe27bdfac495c45f307e7.bundle",
+        "bytes": 399300,
+        "sha256": "c5e2060a5af1fbf07b9f175dfa30c0f6bc32856b472cec0033798c6ec62d6529"
+      },
+      {
+        "apkMember": "assets/aa/Android/3.61.0/common-builtin_assets_characters_asset_template_common_4a24f4fd7fce0a77968368528af25128.bundle",
+        "bytes": 491331,
+        "sha256": "17651158a1aeb2b7d64c93ec371c79a260854e96ddf89a3322c34f560e4c15e9"
+      },
+      {
+        "apkMember": "assets/aa/Android/3.61.0/common-builtin_assets_characters_common_animations_92dd802f06481caeb9ae34550abbc673.bundle",
+        "bytes": 3183417,
+        "sha256": "8b73b519ca3b3c2f2b3b8209db34e03c60ee66b97667e2ed9b3518fc9295de0d"
+      },
+      {
+        "apkMember": "assets/aa/Android/3.61.0/common-builtin_assets_characters_common_attach_points_93a676516e52b380789681327a805462.bundle",
+        "bytes": 2783,
+        "sha256": "fa57cd7efceabd044515f59816c411f01aadd6cdbeeaa90eb5cadcdeaff93ba5"
+      },
+      {
+        "apkMember": "assets/aa/Android/3.61.0/common-builtin_assets_characters_common_effects_8ffcc9ef0d5a69b15f5d6a3024acdab0.bundle",
+        "bytes": 8917,
+        "sha256": "036da1e17142ab648cc62464a275ff42e0b9e32ff39e2a1a9054b855623fafab"
+      },
+      {
+        "apkMember": "assets/aa/Android/3.61.0/common-builtin_assets_characters_common_effects_material_f4abf89c1c22d69657ecfa3e772a6bc7.bundle",
+        "bytes": 2765,
+        "sha256": "2c337de8fe2023ed282e48d0d0768352abff13529c36087b84b038b11e4774f3"
+      },
+      {
+        "apkMember": "assets/aa/Android/3.61.0/common-builtin_assets_characters_common_eyes_d12edba4329491b253276ab8568a4fd6.bundle",
+        "bytes": 2006,
+        "sha256": "3811a6abffc665c2203729acee7a0b5cd37e44034b7e19e5c96b6f139af2e9ee"
+      },
+      {
+        "apkMember": "assets/aa/Android/3.61.0/common-builtin_assets_characters_common_photo_animations_680189c4fe1814dd64699fea6e2f5c13.bundle",
+        "bytes": 4538,
+        "sha256": "1ec40c9ccc3fa1aba31826464ca2018c7cdc04253f3dc005e2398eb6ba9ab462"
+      },
+      {
+        "apkMember": "assets/aa/Android/3.61.0/common-builtin_assets_characters_common_pose_animations_1e4a8a99334bc6b764028d7396eebfa0.bundle",
+        "bytes": 9772,
+        "sha256": "99cca7d0e6d64970897923f28e8d6908385e3254020bb9e1f320a37359bdab56"
+      },
+      {
+        "apkMember": "assets/aa/Android/3.61.0/common-builtin_assets_characters_common_prefabs_50ecd4314a5a0acd4a9c6ae6ddb7b88c.bundle",
+        "bytes": 45277,
+        "sha256": "cdd891e9a67836e4126debe324f2421d3f0fe23e78ba12f932fca87773c42b85"
+      }
+    ]
+  },
+  "tool": {
+    "UnityPy": "1.25.4"
+  },
+  "meshCount": 2,
+  "vertexCount": 1264,
+  "boneCount": 26,
+  "nodeCount": 53,
+  "decoderCorrections": [
+    {
+      "mesh": "jake_Mesh",
+      "vertex": 255,
+      "decoderValue": -26,
+      "sourceDerivedResidual": 0.12903225806451613
+    },
+    {
+      "mesh": "jake_Mesh",
+      "vertex": 726,
+      "decoderValue": -26,
+      "sourceDerivedResidual": 0.12903225806451613
+    }
+  ],
+  "clips": [
+    {
+      "name": "Jake_Come_on",
+      "duration": 3.0,
+      "sourcePathID": "-8412579847121221838",
+      "sourceAssetFile": "CAB-0576c53c6aff509b3ca8e9b6e9e9a424"
+    },
+    {
+      "name": "Jake_ScrollbarPose",
+      "duration": 0.04000091552734375,
+      "sourcePathID": "-4709082598705936590",
+      "sourceAssetFile": "CAB-0576c53c6aff509b3ca8e9b6e9e9a424"
+    },
+    {
+      "name": "Jake_Look_02",
+      "duration": 3.6800003051757812,
+      "sourcePathID": "-4504551485557127374",
+      "sourceAssetFile": "CAB-0576c53c6aff509b3ca8e9b6e9e9a424"
+    },
+    {
+      "name": "Jake_Look_01",
+      "duration": 3.1599998474121094,
+      "sourcePathID": "-2361117334394255566",
+      "sourceAssetFile": "CAB-0576c53c6aff509b3ca8e9b6e9e9a424"
+    },
+    {
+      "name": "Jake_Breathe",
+      "duration": 3.680000066757202,
+      "sourcePathID": "8947326821474289458",
+      "sourceAssetFile": "CAB-0576c53c6aff509b3ca8e9b6e9e9a424"
+    },
+    {
+      "name": "RunSlow",
+      "duration": 0.7333333492279053,
+      "sourcePathID": "-8731480567229524722",
+      "sourceAssetFile": "CAB-a85a3b3351b2a7a30c5b05ea4d645e79"
+    },
+    {
+      "name": "roll",
+      "duration": 0.5416669845581055,
+      "sourcePathID": "-8135736514233289419",
+      "sourceAssetFile": "CAB-a85a3b3351b2a7a30c5b05ea4d645e79"
+    },
+    {
+      "name": "dodgeLeft",
+      "duration": 0.5,
+      "sourcePathID": "-8122755458656160459",
+      "sourceAssetFile": "CAB-a85a3b3351b2a7a30c5b05ea4d645e79"
+    },
+    {
+      "name": "death_movingTrain",
+      "duration": 1.458333969116211,
+      "sourcePathID": "-7223090436263234251",
+      "sourceAssetFile": "CAB-a85a3b3351b2a7a30c5b05ea4d645e79"
+    },
+    {
+      "name": "Jackpack_changeLane_Right",
+      "duration": 0.39999985694885254,
+      "sourcePathID": "-5151928937796567145",
+      "sourceAssetFile": "CAB-a85a3b3351b2a7a30c5b05ea4d645e79"
+    },
+    {
+      "name": "h_run",
+      "duration": 1.0,
+      "sourcePathID": "-3511235188818365131",
+      "sourceAssetFile": "CAB-a85a3b3351b2a7a30c5b05ea4d645e79"
+    },
+    {
+      "name": "Jetpack_changeLane_left",
+      "duration": 0.39999985694885254,
+      "sourcePathID": "-3217540082111905897",
+      "sourceAssetFile": "CAB-a85a3b3351b2a7a30c5b05ea4d645e79"
+    },
+    {
+      "name": "RunNormal",
+      "duration": 0.3333333432674408,
+      "sourcePathID": "-2871997723980147442",
+      "sourceAssetFile": "CAB-a85a3b3351b2a7a30c5b05ea4d645e79"
+    },
+    {
+      "name": "Jetpack_forward_2",
+      "duration": 0.9200000762939453,
+      "sourcePathID": "-2831865762096840809",
+      "sourceAssetFile": "CAB-a85a3b3351b2a7a30c5b05ea4d645e79"
+    },
+    {
+      "name": "h_left",
+      "duration": 0.5416679382324219,
+      "sourcePathID": "-2794198459696794315",
+      "sourceAssetFile": "CAB-a85a3b3351b2a7a30c5b05ea4d645e79"
+    },
+    {
+      "name": "landing",
+      "duration": 0.16666650772094727,
+      "sourcePathID": "-2774561130785721035",
+      "sourceAssetFile": "CAB-a85a3b3351b2a7a30c5b05ea4d645e79"
+    },
+    {
+      "name": "death_upper",
+      "duration": 0.33333396911621094,
+      "sourcePathID": "-1724059571035163339",
+      "sourceAssetFile": "CAB-a85a3b3351b2a7a30c5b05ea4d645e79"
+    },
+    {
+      "name": "h_landing",
+      "duration": 0.33333396911621094,
+      "sourcePathID": "-1561948004169665227",
+      "sourceAssetFile": "CAB-a85a3b3351b2a7a30c5b05ea4d645e79"
+    },
+    {
+      "name": "jump",
+      "duration": 0.6666665077209473,
+      "sourcePathID": "-1279934561700006603",
+      "sourceAssetFile": "CAB-a85a3b3351b2a7a30c5b05ea4d645e79"
+    },
+    {
+      "name": "h_right",
+      "duration": 0.5416679382324219,
+      "sourcePathID": "-271937030809897675",
+      "sourceAssetFile": "CAB-a85a3b3351b2a7a30c5b05ea4d645e79"
+    },
+    {
+      "name": "h_hangtime",
+      "duration": 0.5,
+      "sourcePathID": "-51970819906128587",
+      "sourceAssetFile": "CAB-a85a3b3351b2a7a30c5b05ea4d645e79"
+    },
+    {
+      "name": "dodgeRight",
+      "duration": 0.5,
+      "sourcePathID": "54538305095218485",
+      "sourceAssetFile": "CAB-a85a3b3351b2a7a30c5b05ea4d645e79"
+    },
+    {
+      "name": "introRun",
+      "duration": 1.2083332538604736,
+      "sourcePathID": "597466721251177781",
+      "sourceAssetFile": "CAB-a85a3b3351b2a7a30c5b05ea4d645e79"
+    },
+    {
+      "name": "stumbleSideLeft",
+      "duration": 0.41666698455810547,
+      "sourcePathID": "1621018589769184565",
+      "sourceAssetFile": "CAB-a85a3b3351b2a7a30c5b05ea4d645e79"
+    },
+    {
+      "name": "hangtime",
+      "duration": 0.5,
+      "sourcePathID": "2667087395288462645",
+      "sourceAssetFile": "CAB-a85a3b3351b2a7a30c5b05ea4d645e79"
+    },
+    {
+      "name": "RunFast",
+      "duration": 0.4333333969116211,
+      "sourcePathID": "2998242878417327374",
+      "sourceAssetFile": "CAB-a85a3b3351b2a7a30c5b05ea4d645e79"
+    },
+    {
+      "name": "h_jump",
+      "duration": 0.08333206176757812,
+      "sourcePathID": "5464908952632571189",
+      "sourceAssetFile": "CAB-a85a3b3351b2a7a30c5b05ea4d645e79"
+    },
+    {
+      "name": "superRun",
+      "duration": 0.8333320617675781,
+      "sourcePathID": "5817121170186188085",
+      "sourceAssetFile": "CAB-a85a3b3351b2a7a30c5b05ea4d645e79"
+    },
+    {
+      "name": "death_lower",
+      "duration": 0.5,
+      "sourcePathID": "5822111869322147125",
+      "sourceAssetFile": "CAB-a85a3b3351b2a7a30c5b05ea4d645e79"
+    },
+    {
+      "name": "h_roll",
+      "duration": 0.5416660308837891,
+      "sourcePathID": "6338894541870675253",
+      "sourceAssetFile": "CAB-a85a3b3351b2a7a30c5b05ea4d645e79"
+    },
+    {
+      "name": "h_skate_on",
+      "duration": 0.45833587646484375,
+      "sourcePathID": "6339680644446893365",
+      "sourceAssetFile": "CAB-a85a3b3351b2a7a30c5b05ea4d645e79"
+    },
+    {
+      "name": "Jetpack_forward",
+      "duration": 0.4399999976158142,
+      "sourcePathID": "6448208836228317079",
+      "sourceAssetFile": "CAB-a85a3b3351b2a7a30c5b05ea4d645e79"
+    },
+    {
+      "name": "stumble",
+      "duration": 0.8333339691162109,
+      "sourcePathID": "6789717991551874357",
+      "sourceAssetFile": "CAB-a85a3b3351b2a7a30c5b05ea4d645e79"
+    },
+    {
+      "name": "stumbleSideRight",
+      "duration": 0.41666698455810547,
+      "sourcePathID": "6815810032568710453",
+      "sourceAssetFile": "CAB-a85a3b3351b2a7a30c5b05ea4d645e79"
+    },
+    {
+      "name": "idlePaint",
+      "duration": 23.566667556762695,
+      "sourcePathID": "7234661654828972627",
+      "sourceAssetFile": "CAB-a85a3b3351b2a7a30c5b05ea4d645e79"
+    },
+    {
+      "name": "stumble_variant",
+      "duration": 0.9000000357627869,
+      "sourcePathID": "7823541318725529713",
+      "sourceAssetFile": "CAB-a85a3b3351b2a7a30c5b05ea4d645e79"
+    },
+    {
+      "name": "run",
+      "duration": 0.4166666865348816,
+      "sourcePathID": "8635506665461331253",
+      "sourceAssetFile": "CAB-a85a3b3351b2a7a30c5b05ea4d645e79"
+    }
+  ],
+  "exports": [
+    {
+      "file": "README.md",
+      "bytes": 3768,
+      "sha256": "3b4ae4f08b0dcc93deac4944ac447fefda41796b834ea909b2785ab59a08c0e7"
+    },
+    {
+      "file": "jake.bin",
+      "bytes": 2763116,
+      "sha256": "857eac60418d4bd4e1cef536520c9f0478e9d3ac1eedbdf3972fc0a4e29c4857"
+    },
+    {
+      "file": "jake.glb",
+      "bytes": 3841796,
+      "sha256": "dfee1f4e306bc797e839124055f02b808c047e79749fa70c738d9b2b597717e5"
+    },
+    {
+      "file": "jake.gltf",
+      "bytes": 1013704,
+      "sha256": "9b54f52db6184a4fe696c6dc905bc44f1f4ce09f45a320a0a430347cba7ef977"
+    },
+    {
+      "file": "jake.json",
+      "bytes": 10131762,
+      "sha256": "62c0300b28114ead01b3202c078aecf6bff504ff07e1d6270c98f7e1117de887"
+    },
+    {
+      "file": "jake_outfit0_tex.png",
+      "bytes": 64899,
+      "sha256": "17d47da2054c29c23b5bd99ec7cb791e7a5931f295c61f11ec193c7d68793421"
+    },
+    {
+      "file": "jake_outfit1_tex.png",
+      "bytes": 53957,
+      "sha256": "f3c03e17c3591497709cd22d53da7ab62c9937d7c26f193b0f1a39b45080549e"
+    },
+    {
+      "file": "jake_outfit2_tex.png",
+      "bytes": 63167,
+      "sha256": "71df94218aca5a16501768842447059abc9cd90b1d2dabf616ec3c7a919903d3"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "scenario": "canonical-20s",
+  "samplesPerPlatform": 7,
+  "numericComparisons": 154,
+  "maxAbsoluteDifference": 0,
+  "pass": true,
+  "differences": [],
+  "boundary": "Foundation Swift and JVM Kotlin simulation; does not establish iOS UI/runtime or device performance. Collision grace deliberately enabled per shared scenario. Individual collision tests separate."
+}

@@ -1,0 +1,127 @@
+{
+  "sourceAPK": "reference/subway-surfers-3.61.0.apk",
+  "sourceSHA256": "92d60fb9a998bf4dd2d6b77e86bb9b4ba05e38498205e101dcabeda4e839d7fe",
+  "thirdParty": true,
+  "clips": {
+    "stumble": {
+      "file": "stumble.wav",
+      "originalName": "Hr_stumble",
+      "pathID": "-9061516149200658871",
+      "member": "assets/aa/Android/3.61.0/audio-builtin_assets_config_audio_clip_character_bffe415ab191a9f94e3847e3a6227033.bundle",
+      "bundleSHA256": "b309ab92dd1e2d0cc326bc5aeda8208a9c48018f7a51581e9f8e160670763bf3",
+      "sha256": "4c7bcf8764c3eb9ac55cd7e60a4153a5da51cf6554a992930378579543d3bcd1",
+      "bytes": 40606,
+      "seconds": 0.4598866105079651,
+      "channels": 1,
+      "sampleRate": 44100
+    },
+    "power-down": {
+      "file": "power-down.wav",
+      "originalName": "Hr_powerDown",
+      "pathID": "-7301009505324861667",
+      "member": "assets/aa/Android/3.61.0/audio-builtin_assets_config_audio_clip_character_bffe415ab191a9f94e3847e3a6227033.bundle",
+      "bundleSHA256": "b309ab92dd1e2d0cc326bc5aeda8208a9c48018f7a51581e9f8e160670763bf3",
+      "sha256": "0b737108f92b7b9cc07061d1cb7c0cd5ed5f0165282ae71ff9984ccfc5aff139",
+      "bytes": 32982,
+      "seconds": 0.3734467029571533,
+      "channels": 1,
+      "sampleRate": 44100
+    },
+    "power": {
+      "file": "power.wav",
+      "originalName": "Hr_powerUp",
+      "pathID": "-2411875419254943636",
+      "member": "assets/aa/Android/3.61.0/audio-builtin_assets_config_audio_clip_character_bffe415ab191a9f94e3847e3a6227033.bundle",
+      "bundleSHA256": "b309ab92dd1e2d0cc326bc5aeda8208a9c48018f7a51581e9f8e160670763bf3",
+      "sha256": "c34c0b11e0c4740bc2d9aa8638296cce315f8ea91629c048ef3f3cfeb73fca86",
+      "bytes": 144286,
+      "seconds": 1.6353968381881714,
+      "channels": 1,
+      "sampleRate": 44100
+    },
+    "side-stumble": {
+      "file": "side-stumble.wav",
+      "originalName": "Hr_stumble_side",
+      "pathID": "-2389371296964534009",
+      "member": "assets/aa/Android/3.61.0/audio-builtin_assets_config_audio_clip_character_bffe415ab191a9f94e3847e3a6227033.bundle",
+      "bundleSHA256": "b309ab92dd1e2d0cc326bc5aeda8208a9c48018f7a51581e9f8e160670763bf3",
+      "sha256": "dcd0371ab8a3878f4f07d889cde505caf9a890141383f97c2248ac492502eba8",
+      "bytes": 72028,
+      "seconds": 0.816145122051239,
+      "channels": 1,
+      "sampleRate": 44100
+    },
+    "magnet": {
+      "file": "magnet.wav",
+      "originalName": "Hr_magnet_mainLOOP",
+      "pathID": "-2089536486591255236",
+      "member": "assets/aa/Android/3.61.0/audio-builtin_assets_config_audio_clip_character_bffe415ab191a9f94e3847e3a6227033.bundle",
+      "bundleSHA256": "b309ab92dd1e2d0cc326bc5aeda8208a9c48018f7a51581e9f8e160670763bf3",
+      "sha256": "1acd1023c4cf91920e0b01ee3a8f9024449f6b39fbe22d9ad992cd0d5fc40a45",
+      "bytes": 132344,
+      "seconds": 1.5,
+      "channels": 1,
+      "sampleRate": 44100
+    },
+    "jetpack": {
+      "file": "jetpack.wav",
+      "originalName": "Hr_jetPack_mainLOOP",
+      "pathID": "2437349776564843690",
+      "member": "assets/aa/Android/3.61.0/audio-builtin_assets_config_audio_clip_character_bffe415ab191a9f94e3847e3a6227033.bundle",
+      "bundleSHA256": "b309ab92dd1e2d0cc326bc5aeda8208a9c48018f7a51581e9f8e160670763bf3",
+      "sha256": "ecccf0bf19c55421bcfb272ee280e06b2c659a1731c22b08d5ff8bb1ccf024ac",
+      "bytes": 308744,
+      "seconds": 3.5,
+      "channels": 1,
+      "sampleRate": 44100
+    },
+    "click": {
+      "file": "click.wav",
+      "originalName": "Hr_gui_tap",
+      "pathID": "3834355082509223669",
+      "member": "assets/aa/Android/3.61.0/audio-builtin_assets_config_audio_clip_game_3c55c22e32b1512bc1e7b88e31f36650.bundle",
+      "bundleSHA256": "336f85d45e95d9c0953eb2666db71c2df18b91659829a186b5a686179448530e",
+      "sha256": "84914564f108257e68e977e092afa278f0fb483f7bc9fda16a0c41ab92fc7597",
+      "bytes": 4590,
+      "seconds": 0.051541950553655624,
+      "channels": 1,
+      "sampleRate": 44100
+    },
+    "coin": {
+      "file": "coin.wav",
+      "originalName": "Hr_coin",
+      "pathID": "-5278359763010364256",
+      "member": "assets/aa/Android/3.61.0/audio-builtin_assets_config_audio_clip_shared_c120e2055c1031c99f53f458a3d880e5.bundle",
+      "bundleSHA256": "f2a7c80e7f074e81d14e013648b5680e3e1498e5e65c829adf5996eb7a31a7ae",
+      "sha256": "8b91b2a3eb5e11e8558c7b32cb5475ec0bda1a5938a172ad98c2c8b6b967c6ec",
+      "bytes": 49612,
+      "seconds": 0.5619954466819763,
+      "channels": 1,
+      "sampleRate": 44100
+    },
+    "swish": {
+      "file": "swish.wav",
+      "originalName": "Hr_swishFMid",
+      "pathID": "-7911344204546918688",
+      "member": "assets/aa/Android/3.61.0/audio-builtin_assets_shared_sound_swish_be8b35a88ff817f20558b39585bd63db.bundle",
+      "bundleSHA256": "b4cae277a684c7d7f3390708313dd3a315b70b06072681bdd16321cc46c5bc43",
+      "sha256": "bf588099a4ab9a7cf711a7e051f62e61a8e82c74e68e8dc2f739fed91dca578f",
+      "bytes": 20760,
+      "seconds": 0.23487527668476105,
+      "channels": 1,
+      "sampleRate": 44100
+    },
+    "music": {
+      "file": "music.wav",
+      "originalName": "music_irelandspring",
+      "pathID": "2283189095564543095",
+      "member": "assets/aa/Android/3.61.0/music-builtin_assets_music_irelandspring_453abee51321198c57f999e2c2454710.bundle",
+      "bundleSHA256": "15dae5bac4660908e93ccc1dca5809dfbf980b098c88a7d5cef5eba87316d608",
+      "sha256": "1c4836cbfb325eeb897d42977b5f221f91403d83445a5e0ab808e9667c09b5a5",
+      "bytes": 24494444,
+      "seconds": 138.85714721679688,
+      "channels": 2,
+      "sampleRate": 44100
+    }
+  }
+}

@@ -1,0 +1,41 @@
+// !$*UTF8*$!
+{ archiveVersion = 1; classes = {}; objectVersion = 56; objects = {
+A11111111111111111111111 = { isa = PBXFileReference; lastKnownFileType = folder; name = "recovered"; path = "../../shared/native-resources/recovered"; sourceTree = "<group>"; };
+A22222222222222222222222 = { isa = PBXBuildFile; fileRef = A11111111111111111111111; };
+9E3D8262CD3DF36AEA7971BB = { isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RailRush/GameEngine.swift; sourceTree = "<group>"; };
+95D5F74E89EB0E9661AC40F1 = { isa = PBXBuildFile; fileRef = 9E3D8262CD3DF36AEA7971BB; };
+AEA9909848F5414000F4692A = { isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RailRush/SceneRenderer.swift; sourceTree = "<group>"; };
+476A5D57DDBCF2BD7727B10A = { isa = PBXBuildFile; fileRef = AEA9909848F5414000F4692A; };
+B3ECE7694E83BEF30C43BFD4 = { isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RailRush/RailRushApp.swift; sourceTree = "<group>"; };
+18E1DFA54C98E791B5059317 = { isa = PBXBuildFile; fileRef = B3ECE7694E83BEF30C43BFD4; };
+BBEE776A875A1D9745F1C327 = { isa = PBXFileReference; lastKnownFileType = text.json; name = "gameplay.json"; path = "../../shared/config/gameplay.json"; sourceTree = "<group>"; };
+DB0B9704476F33A7ED1BF373 = { isa = PBXBuildFile; fileRef = BBEE776A875A1D9745F1C327; };
+DF090BD42A9B2BD898DD19DA = { isa = PBXFileReference; lastKnownFileType = text.json; name = "route.json"; path = "../../shared/config/route.json"; sourceTree = "<group>"; };
+646264F2D1A7719BE5A098D7 = { isa = PBXBuildFile; fileRef = DF090BD42A9B2BD898DD19DA; };
+2B978912B718D407D0A4F973 = { isa = PBXFileReference; lastKnownFileType = text.json; name = "scene.json"; path = "../../shared/assets/scene.json"; sourceTree = "<group>"; };
+01491BC84C8DE2B4D8433FB9 = { isa = PBXBuildFile; fileRef = 2B978912B718D407D0A4F973; };
+A06A492959CE12B3F0292406 = { isa = PBXFileReference; lastKnownFileType = folder; name = "audio"; path = "../../shared/assets/audio"; sourceTree = "<group>"; };
+BB70B40153A9D9B6C80D025C = { isa = PBXBuildFile; fileRef = A06A492959CE12B3F0292406; };
+22B0233E6551EBA95690DDCC = { isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon60@2x.png"; path = "RailRush/Icon60@2x.png"; sourceTree = "<group>"; };
+3822E714D3B4B98C2CCB3275 = { isa = PBXBuildFile; fileRef = 22B0233E6551EBA95690DDCC; };
+399D81361AC8435CB6E2B4C8 = { isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon60@3x.png"; path = "RailRush/Icon60@3x.png"; sourceTree = "<group>"; };
+C823EF60732CC33DECCDAC85 = { isa = PBXBuildFile; fileRef = 399D81361AC8435CB6E2B4C8; };
+8CA010FC9BE6F9EACC4ABE62 = { isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon76@2x.png"; path = "RailRush/Icon76@2x.png"; sourceTree = "<group>"; };
+C2FBCAE3C5FE55869D988E81 = { isa = PBXBuildFile; fileRef = 8CA010FC9BE6F9EACC4ABE62; };
+93550AD8B22007D65B8E174E = { isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon83.5@2x.png"; path = "RailRush/Icon83.5@2x.png"; sourceTree = "<group>"; };
+E36FE0C872C92FC53FFC546F = { isa = PBXBuildFile; fileRef = 93550AD8B22007D65B8E174E; };
+7D1043473D55BFA90E8530D3 = { isa = PBXFileReference; explicitFileType = wrapper.application; path = RailRush.app; sourceTree = BUILT_PRODUCTS_DIR; };
+64292B1C2B2E13EAD8788FC8 = { isa = PBXGroup; children = (A11111111111111111111111, 9E3D8262CD3DF36AEA7971BB, AEA9909848F5414000F4692A, B3ECE7694E83BEF30C43BFD4, BBEE776A875A1D9745F1C327, DF090BD42A9B2BD898DD19DA, 2B978912B718D407D0A4F973, A06A492959CE12B3F0292406, 22B0233E6551EBA95690DDCC, 399D81361AC8435CB6E2B4C8, 8CA010FC9BE6F9EACC4ABE62, 93550AD8B22007D65B8E174E, FBDC4F23F93125BBEEAE800C); sourceTree = "<group>"; };
+FBDC4F23F93125BBEEAE800C = { isa = PBXGroup; children = (7D1043473D55BFA90E8530D3); name = Products; sourceTree = "<group>"; };
+BCE16DD0260827ECF338C787 = { isa = PBXSourcesBuildPhase; buildActionMask = 2147483647; files = (95D5F74E89EB0E9661AC40F1, 476A5D57DDBCF2BD7727B10A, 18E1DFA54C98E791B5059317); runOnlyForDeploymentPostprocessing = 0; };
+0189424A5A60FED329FA868E = { isa = PBXResourcesBuildPhase; buildActionMask = 2147483647; files = (A22222222222222222222222, DB0B9704476F33A7ED1BF373, 646264F2D1A7719BE5A098D7, 01491BC84C8DE2B4D8433FB9, BB70B40153A9D9B6C80D025C, 3822E714D3B4B98C2CCB3275, C823EF60732CC33DECCDAC85, C2FBCAE3C5FE55869D988E81, E36FE0C872C92FC53FFC546F); runOnlyForDeploymentPostprocessing = 0; };
+7561BFB015D8F536760CB671 = { isa = PBXFrameworksBuildPhase; buildActionMask = 2147483647; files = (); runOnlyForDeploymentPostprocessing = 0; };
+89E1FD6268CC0F221A2BE178 = { isa = XCBuildConfiguration; buildSettings = { CLANG_ENABLE_MODULES = YES; SDKROOT = iphoneos; IPHONEOS_DEPLOYMENT_TARGET = 17.0; SWIFT_VERSION = 5.0; }; name = Debug; };
+E9B2E96ABC5F6856F2BE79CF = { isa = XCBuildConfiguration; buildSettings = { CLANG_ENABLE_MODULES = YES; SDKROOT = iphoneos; IPHONEOS_DEPLOYMENT_TARGET = 17.0; SWIFT_VERSION = 5.0; PRODUCT_NAME = RailRush; PRODUCT_BUNDLE_IDENTIFIER = org.original.railrush; GENERATE_INFOPLIST_FILE = YES; INFOPLIST_FILE = RailRush/Info.plist; INFOPLIST_KEY_CFBundleDisplayName = "Subway Study"; INFOPLIST_KEY_UILaunchScreen_Generation = YES; INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES; INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait; TARGETED_DEVICE_FAMILY = "1,2"; CODE_SIGNING_ALLOWED = NO; ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = NO; ENABLE_USER_SCRIPT_SANDBOXING = YES; SWIFT_STRICT_CONCURRENCY = minimal; SWIFT_OPTIMIZATION_LEVEL = "-Onone"; }; name = Debug; };
+E6DE6C99132752C914FEF632 = { isa = XCBuildConfiguration; buildSettings = { CLANG_ENABLE_MODULES = YES; SDKROOT = iphoneos; IPHONEOS_DEPLOYMENT_TARGET = 17.0; SWIFT_VERSION = 5.0; }; name = Release; };
+5A8C91857F674E16E2724F47 = { isa = XCBuildConfiguration; buildSettings = { CLANG_ENABLE_MODULES = YES; SDKROOT = iphoneos; IPHONEOS_DEPLOYMENT_TARGET = 17.0; SWIFT_VERSION = 5.0; PRODUCT_NAME = RailRush; PRODUCT_BUNDLE_IDENTIFIER = org.original.railrush; GENERATE_INFOPLIST_FILE = YES; INFOPLIST_FILE = RailRush/Info.plist; INFOPLIST_KEY_CFBundleDisplayName = "Subway Study"; INFOPLIST_KEY_UILaunchScreen_Generation = YES; INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES; INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait; TARGETED_DEVICE_FAMILY = "1,2"; CODE_SIGNING_ALLOWED = NO; ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = NO; ENABLE_USER_SCRIPT_SANDBOXING = YES; SWIFT_STRICT_CONCURRENCY = minimal; SWIFT_OPTIMIZATION_LEVEL = "-O"; }; name = Release; };
+862894B703A6DEDF96A9DD6C = { isa = XCConfigurationList; buildConfigurations = (89E1FD6268CC0F221A2BE178, E6DE6C99132752C914FEF632); defaultConfigurationIsVisible = 0; defaultConfigurationName = Release; };
+F37922C48DA5978D02C9E50E = { isa = XCConfigurationList; buildConfigurations = (E9B2E96ABC5F6856F2BE79CF, 5A8C91857F674E16E2724F47); defaultConfigurationIsVisible = 0; defaultConfigurationName = Release; };
+0E8A3AD980EC179856012B7E = { isa = PBXNativeTarget; buildConfigurationList = F37922C48DA5978D02C9E50E; buildPhases = (BCE16DD0260827ECF338C787, 7561BFB015D8F536760CB671, 0189424A5A60FED329FA868E); buildRules = (); dependencies = (); name = RailRush; productName = RailRush; productReference = 7D1043473D55BFA90E8530D3; productType = "com.apple.product-type.application"; };
+98F54143AB4E86B28C3AFEE0 = { isa = PBXProject; attributes = { LastUpgradeCheck = 2700; }; buildConfigurationList = 862894B703A6DEDF96A9DD6C; compatibilityVersion = "Xcode 14.0"; developmentRegion = en; hasScannedForEncodings = 0; knownRegions = (en, Base); mainGroup = 64292B1C2B2E13EAD8788FC8; productRefGroup = FBDC4F23F93125BBEEAE800C; projectDirPath = ""; projectRoot = ""; targets = (0E8A3AD980EC179856012B7E); };
+}; rootObject = 98F54143AB4E86B28C3AFEE0; }
