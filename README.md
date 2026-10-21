@@ -13,7 +13,7 @@
   <img alt="iOS: Swift and SceneKit" src="https://img.shields.io/badge/iOS-Swift%20%2B%20SceneKit-102e32?style=for-the-badge&labelColor=08171e&color=89bfff">
 </p>
 <p align="center">
-  <a href="#play-the-builds">Downloads</a> · <a href="#inside-the-run">Features</a> · <a href="#run-from-source">Build it</a> · <a href="#how-it-was-rebuilt">REA study</a> · <a href="#what-was-verified">Verification</a>
+  <a href="https://uttkarshchambiyal.github.io/subway-surfers-rea/"><b>▶ Play online</b></a> · <a href="#play-the-builds">Downloads</a> · <a href="#inside-the-run">Features</a> · <a href="#run-from-source">Build it</a> · <a href="#how-it-was-rebuilt">REA study</a> · <a href="#what-was-verified">Verification</a>
 </p>
 
 ---
@@ -24,16 +24,21 @@ The project combines recovered evidence with original integration work. Route as
 
 ## Play the builds
 
+### [▶ Play Subway Surfers / REA in your browser](https://uttkarshchambiyal.github.io/subway-surfers-rea/)
+
+Open the hosted game directly—no download or local server needed. Keyboard and touch controls are supported. GitHub Pages rebuilds the game from `main` after each push.
+
 **[Open the latest release →](https://github.com/Uttkarshchambiyal/subway-surfers-rea/releases/latest)**
 
 | Platform | Download | How to run |
 | --- | --- | --- |
+| **Play online** | [Hosted browser game](https://uttkarshchambiyal.github.io/subway-surfers-rea/) | Open the link and tap **Play**. |
 | **Browser** | [Offline game ZIP](https://github.com/Uttkarshchambiyal/subway-surfers-rea/releases/latest/download/RailRush-web-offline.zip) | Extract, then run `python3 play.py`. macOS and Windows launchers are included. |
 | **Android** | [Debug APK](https://github.com/Uttkarshchambiyal/subway-surfers-rea/releases/latest/download/RailRush-debug.apk) | Install on Android 8 / API 26 or newer. Launcher name: **Rail Rush**. |
 | **iOS Simulator** | [arm64 Simulator app ZIP](https://github.com/Uttkarshchambiyal/subway-surfers-rea/releases/latest/download/RailRush-Simulator-arm64.zip) | Extract and install `RailRush.app` into a compatible arm64 iOS Simulator. |
 | **Editable project** | [Source ZIP](https://github.com/Uttkarshchambiyal/subway-surfers-rea/releases/latest/download/RailRush-editable-source.zip) | Browser, Kotlin and Swift sources, shared assets, recovery scripts, and documentation. |
 
-The browser game runs from a **local HTTP server**, rather than by double-clicking `index.html`. After its first successful load, the production version can reload offline at the same address. Save data belongs to the exact hostname and port.
+The downloaded browser ZIP runs from a **local HTTP server**, rather than by double-clicking `index.html`. After its first successful load, the production version can reload offline at the same address. Save data belongs to the exact hostname and port; hosted and local copies keep separate saves.
 
 The iOS download is an **unsigned Simulator build**. It is not an iPhone IPA or App Store release; physical-device signing and testing are not supplied.
 

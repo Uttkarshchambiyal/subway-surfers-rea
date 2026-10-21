@@ -2,6 +2,7 @@
 from pathlib import Path
 import shutil,json,hashlib
 root=Path(__file__).resolve().parents[2];source=root/'shared/recovered'
+(root/'outputs').mkdir(parents=True,exist_ok=True)
 assert (source/'environment/environment.json').is_file(),'Run environment recovery first'
 assert (source/'native/render.json').is_file(),'Run build-native-assets.py first'
 web=root/'apps/web/public/recovered'
